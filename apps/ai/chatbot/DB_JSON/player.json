@@ -1,0 +1,1954 @@
+[
+  {
+    "teamId": "Gen.G",
+    "gameId": "Valorant",
+    "name": "Byeon Sang-beom (변상범)",
+    "handle": "Munchkin",
+    "country": "kr",
+    "img_url": "https://owcdn.net/img/676ba055c7c74.png"
+  },
+  {
+    "teamId": "Gen.G",
+    "gameId": "Valorant",
+    "name": "Jung Jae-sung (정재성)",
+    "handle": "Foxy9",
+    "country": "kr",
+    "img_url": "https://owcdn.net/img/676ba0170dbab.png"
+  },
+  {
+    "teamId": "Gen.G",
+    "gameId": "Valorant",
+    "name": "Ha Hyun-cheol (하현철)",
+    "handle": "Ash",
+    "country": "kr",
+    "img_url": "https://www.vlr.gg/img/base/ph/sil.png"
+  },
+  {
+    "teamId": "Gen.G",
+    "gameId": "Valorant",
+    "name": "Kim Na-ra (김나라)",
+    "handle": "t3xture",
+    "country": "kr",
+    "img_url": "https://owcdn.net/img/676ba04aee5f9.png"
+  },
+  {
+    "teamId": "Gen.G",
+    "gameId": "Valorant",
+    "name": "Kim Jong-min (김종민)",
+    "handle": "Lakia",
+    "country": "kr",
+    "img_url": "https://owcdn.net/img/65f66e9636e73.png"
+  },
+  {
+    "teamId": "Gen.G",
+    "gameId": "Valorant",
+    "name": "Kim Won-tae (김원태)",
+    "handle": "Karon",
+    "country": "kr",
+    "img_url": "https://owcdn.net/img/676ba061b7251.png"
+  },
+  {
+    "teamId": "DRX",
+    "gameId": "Valorant",
+    "name": "Kim Myeong-gwan (김명관)",
+    "handle": "MaKo",
+    "country": "kr",
+    "img_url": "https://owcdn.net/img/676b9d064081b.png"
+  },
+  {
+    "teamId": "DRX",
+    "gameId": "Valorant",
+    "name": "Kim Tae-hee (김태희)",
+    "handle": "Flicker",
+    "country": "kr",
+    "img_url": "https://www.vlr.gg/img/base/ph/sil.png"
+  },
+  {
+    "teamId": "DRX",
+    "gameId": "Valorant",
+    "name": "Cho Min-hyuk (조민혁)",
+    "handle": "Flashback",
+    "country": "kr",
+    "img_url": "https://owcdn.net/img/676b9cfda9d77.png"
+  },
+  {
+    "teamId": "DRX",
+    "gameId": "Valorant",
+    "name": "No Ha-jun (노하준)",
+    "handle": "free1ng",
+    "country": "kr",
+    "img_url": "https://owcdn.net/img/676b9d177fab9.png"
+  },
+  {
+    "teamId": "DRX",
+    "gameId": "Valorant",
+    "name": "Song Hyun-min (송현민)",
+    "handle": "HYUNMIN",
+    "country": "kr",
+    "img_url": "https://owcdn.net/img/676b9d1f6a2cd.png"
+  },
+  {
+    "teamId": "DRX",
+    "gameId": "Valorant",
+    "name": "Park Gun (박건)",
+    "handle": "Estrella",
+    "country": "kr",
+    "img_url": "https://owcdn.net/img/6821f731a2fb3.png"
+  },
+  {
+    "teamId": "DRX",
+    "gameId": "Valorant",
+    "name": "Kang Ha-bin (강하빈)",
+    "handle": "BeYN",
+    "country": "kr",
+    "img_url": "https://owcdn.net/img/6360e2fa70458.png"
+  },
+  {
+    "teamId": "Rex Regum Qeon",
+    "gameId": "Valorant",
+    "name": "Ngô Công Anh",
+    "handle": "crazyguy",
+    "country": "vn",
+    "img_url": "https://owcdn.net/img/6821f7746590a.png"
+  },
+  {
+    "teamId": "Rex Regum Qeon",
+    "gameId": "Valorant",
+    "name": "Cahya Nugraha",
+    "handle": "Monyet",
+    "country": "id",
+    "img_url": "https://owcdn.net/img/6821f747b910a.png"
+  },
+  {
+    "teamId": "Rex Regum Qeon",
+    "gameId": "Valorant",
+    "name": "David Monangin",
+    "handle": "xffero",
+    "country": "id",
+    "img_url": "https://owcdn.net/img/6821f77c54827.png"
+  },
+  {
+    "teamId": "Rex Regum Qeon",
+    "gameId": "Valorant",
+    "name": "Maksim Batorov",
+    "handle": "Jemkin",
+    "country": "ru",
+    "img_url": "https://owcdn.net/img/6821f75962425.png"
+  },
+  {
+    "teamId": "Rex Regum Qeon",
+    "gameId": "Valorant",
+    "name": "Bryan Carlos Setiawan",
+    "handle": "Kushy",
+    "country": "id",
+    "img_url": "https://owcdn.net/img/6821f764bd20a.png"
+  },
+  {
+    "teamId": "Nongshim RedForce",
+    "gameId": "Valorant",
+    "name": "Yang Zi-on (양지온)",
+    "handle": "Persia",
+    "country": "kr",
+    "img_url": "https://owcdn.net/img/679066f3851eb.png"
+  },
+  {
+    "teamId": "Nongshim RedForce",
+    "gameId": "Valorant",
+    "name": "Kim Mu-bin (김무빈)",
+    "handle": "Francis",
+    "country": "kr",
+    "img_url": "https://owcdn.net/img/679066fc2dea5.png"
+  },
+  {
+    "teamId": "Nongshim RedForce",
+    "gameId": "Valorant",
+    "name": "Goo Sang-min (구상민)",
+    "handle": "Rb",
+    "country": "kr",
+    "img_url": "https://owcdn.net/img/678247d54091c.png"
+  },
+  {
+    "teamId": "Nongshim RedForce",
+    "gameId": "Valorant",
+    "name": "Lee Hyuk-kyu (이혁규)",
+    "handle": "Dambi",
+    "country": "kr",
+    "img_url": "https://owcdn.net/img/679063171f64c.png"
+  },
+  {
+    "teamId": "Nongshim RedForce",
+    "gameId": "Valorant",
+    "name": "Park Sung-hyeon (박성현)",
+    "handle": "Ivy",
+    "country": "kr",
+    "img_url": "https://owcdn.net/img/6790670e30a6c.png"
+  },
+  {
+    "teamId": "Team Secret",
+    "gameId": "Valorant",
+    "name": "Adrian Jiggs Reyes",
+    "handle": "invy",
+    "country": "ph",
+    "img_url": "https://owcdn.net/img/65a8f723b2bdb.png"
+  },
+  {
+    "teamId": "Team Secret",
+    "gameId": "Valorant",
+    "name": "Nguyễn Tấn Thành",
+    "handle": "n1zzy",
+    "country": "vn",
+    "img_url": "https://owcdn.net/img/620a3b497db41.png"
+  },
+  {
+    "teamId": "Team Secret",
+    "gameId": "Valorant",
+    "name": "Sha Mohtar",
+    "handle": "ZesBeeW",
+    "country": "sg",
+    "img_url": "https://owcdn.net/img/6704d50c8cf87.png"
+  },
+  {
+    "teamId": "Team Secret",
+    "gameId": "Valorant",
+    "name": "Kelly Sedillo",
+    "handle": "kellyS",
+    "country": "ph",
+    "img_url": "https://owcdn.net/img/677901f35792e.png"
+  },
+  {
+    "teamId": "Team Secret",
+    "gameId": "Valorant",
+    "name": "Brheyanne Christ Reyes",
+    "handle": "Wild0reoo",
+    "country": "ph",
+    "img_url": "https://owcdn.net/img/677c0f384ed3c.png"
+  },
+  {
+    "teamId": "Global Esports",
+    "gameId": "Valorant",
+    "name": "Go Kyung-won (고경원)",
+    "handle": "UdoTan",
+    "country": "kr",
+    "img_url": "https://owcdn.net/img/677901e39cef9.png"
+  },
+  {
+    "teamId": "Global Esports",
+    "gameId": "Valorant",
+    "name": "Savva Fedorov",
+    "handle": "Kr1stal",
+    "country": "ru",
+    "img_url": "https://owcdn.net/img/677901eba6d1f.png"
+  },
+  {
+    "teamId": "Global Esports",
+    "gameId": "Valorant",
+    "name": "Federico Evangelista",
+    "handle": "Papi",
+    "country": "ph",
+    "img_url": "https://owcdn.net/img/677901d0bac2c.png"
+  },
+  {
+    "teamId": "Global Esports",
+    "gameId": "Valorant",
+    "name": "Joseph Seungmin Oh",
+    "handle": "ban",
+    "country": "kr",
+    "img_url": "https://owcdn.net/img/6561a63a196b9.png"
+  },
+  {
+    "teamId": "Global Esports",
+    "gameId": "Valorant",
+    "name": "Chae Young-moon (채영문)",
+    "handle": "yoman",
+    "country": "kr",
+    "img_url": "https://owcdn.net/img/676ba04269649.png"
+  },
+  {
+    "teamId": "Global Esports",
+    "gameId": "Valorant",
+    "name": "Derrick Yee",
+    "handle": "Deryeon",
+    "country": "sg",
+    "img_url": "https://owcdn.net/img/67f6a409d3bdc.png"
+  },
+  {
+    "teamId": "TALON",
+    "gameId": "Valorant",
+    "name": "Thanamethk Mahatthananuyut",
+    "handle": "Crws",
+    "country": "th",
+    "img_url": "https://owcdn.net/img/67e2e72005d28.png"
+  },
+  {
+    "teamId": "TALON",
+    "gameId": "Valorant",
+    "name": "Tanate Teerasawad",
+    "handle": "Killua",
+    "country": "th",
+    "img_url": "https://owcdn.net/img/67e2e7068098a.png"
+  },
+  {
+    "teamId": "TALON",
+    "gameId": "Valorant",
+    "name": "Anupong Preamsak",
+    "handle": "thyy",
+    "country": "th",
+    "img_url": "https://owcdn.net/img/67e2e710e8dba.png"
+  },
+  {
+    "teamId": "TALON",
+    "gameId": "Valorant",
+    "name": "Jittana Nokngam",
+    "handle": "JitBoyS",
+    "country": "th",
+    "img_url": "https://owcdn.net/img/67e2e72ea4fbf.png"
+  },
+  {
+    "teamId": "TALON",
+    "gameId": "Valorant",
+    "name": "Papaphat Sriprapha",
+    "handle": "primmie",
+    "country": "th",
+    "img_url": "https://owcdn.net/img/67e2e73b188c0.png"
+  },
+  {
+    "teamId": "Paper Rex",
+    "gameId": "Valorant",
+    "name": "Patrick Mendoza",
+    "handle": "PatMen",
+    "country": "ph",
+    "img_url": "https://owcdn.net/img/67c6d1461c5cf.png"
+  },
+  {
+    "teamId": "Paper Rex",
+    "gameId": "Valorant",
+    "name": "Wang Jing Jie",
+    "handle": "Jinggg",
+    "country": "sg",
+    "img_url": "https://owcdn.net/img/67c701558ae34.png"
+  },
+  {
+    "teamId": "Paper Rex",
+    "gameId": "Valorant",
+    "name": "Jason Susanto",
+    "handle": "f0rsakeN",
+    "country": "id",
+    "img_url": "https://owcdn.net/img/67c7016159bd7.png"
+  },
+  {
+    "teamId": "Paper Rex",
+    "gameId": "Valorant",
+    "name": "Khalish Rusyaidee",
+    "handle": "d4v41",
+    "country": "my",
+    "img_url": "https://owcdn.net/img/67c7016bb1f6a.png"
+  },
+  {
+    "teamId": "Paper Rex",
+    "gameId": "Valorant",
+    "name": "Ilya Petrov",
+    "handle": "something",
+    "country": "ru",
+    "img_url": "https://owcdn.net/img/67c701797a51d.png"
+  },
+  {
+    "teamId": "DetonatioN FocusMe",
+    "gameId": "Valorant",
+    "name": "Ibuki Seki",
+    "handle": "Meiy",
+    "country": "jp",
+    "img_url": "https://owcdn.net/img/674037871e878.png"
+  },
+  {
+    "teamId": "DetonatioN FocusMe",
+    "gameId": "Valorant",
+    "name": "Tomonori Okimura",
+    "handle": "SSeeS",
+    "country": "jp",
+    "img_url": "https://owcdn.net/img/674037e9c4e3c.png"
+  },
+  {
+    "teamId": "DetonatioN FocusMe",
+    "gameId": "Valorant",
+    "name": "Kim Jin-won (김진원)",
+    "handle": "Jinboong",
+    "country": "kr",
+    "img_url": "https://owcdn.net/img/674037baea139.png"
+  },
+  {
+    "teamId": "DetonatioN FocusMe",
+    "gameId": "Valorant",
+    "name": "Yu Gwang-hui (유광희)",
+    "handle": "Akame",
+    "country": "kr",
+    "img_url": "https://owcdn.net/img/674037c47365d.png"
+  },
+  {
+    "teamId": "DetonatioN FocusMe",
+    "gameId": "Valorant",
+    "name": "Koki Nakamura",
+    "handle": "gyen",
+    "country": "jp",
+    "img_url": "https://www.vlr.gg/img/base/ph/sil.png"
+  },
+  {
+    "teamId": "T1",
+    "gameId": "Valorant",
+    "name": "Kim Gu-taek (김구택)",
+    "handle": "stax",
+    "country": "kr",
+    "img_url": "https://owcdn.net/img/6757d36ad3001.png"
+  },
+  {
+    "teamId": "T1",
+    "gameId": "Valorant",
+    "name": "Kim Tae-oh (김태오)",
+    "handle": "Meteor",
+    "country": "kr",
+    "img_url": "https://owcdn.net/img/6757d37596b6f.png"
+  },
+  {
+    "teamId": "T1",
+    "gameId": "Valorant",
+    "name": "Yu Byeong-cheol (유병철)",
+    "handle": "BuZz",
+    "country": "kr",
+    "img_url": "https://owcdn.net/img/6757d39881445.png"
+  },
+  {
+    "teamId": "T1",
+    "gameId": "Valorant",
+    "name": "Kang Dong-ho (강동호)",
+    "handle": "DH",
+    "country": "kr",
+    "img_url": "https://owcdn.net/img/67a4c0f02c6a5.png"
+  },
+  {
+    "teamId": "T1",
+    "gameId": "Valorant",
+    "name": "Ham Woo-ju (함우주)",
+    "handle": "iZu",
+    "country": "kr",
+    "img_url": "https://owcdn.net/img/65cc6f174c154.png"
+  },
+  {
+    "teamId": "ZETA DIVISION",
+    "gameId": "Valorant",
+    "name": "Kim Tae-young (김태영)",
+    "handle": "TenTen",
+    "country": "kr",
+    "img_url": "https://owcdn.net/img/67a4c0aec6320.png"
+  },
+  {
+    "teamId": "ZETA DIVISION",
+    "gameId": "Valorant",
+    "name": "Yuma Hashimoto",
+    "handle": "Dep",
+    "country": "jp",
+    "img_url": "https://owcdn.net/img/678a91bae6ff9.png"
+  },
+  {
+    "teamId": "ZETA DIVISION",
+    "gameId": "Valorant",
+    "name": "Shota Watanabe",
+    "handle": "SugarZ3ro",
+    "country": "jp",
+    "img_url": "https://owcdn.net/img/678a91caf34dd.png"
+  },
+  {
+    "teamId": "ZETA DIVISION",
+    "gameId": "Valorant",
+    "name": "Hikaru Mizutani",
+    "handle": "CLZ",
+    "country": "jp",
+    "img_url": "https://owcdn.net/img/678a91d34f18a.png"
+  },
+  {
+    "teamId": "ZETA DIVISION",
+    "gameId": "Valorant",
+    "name": "Yuto Mizomori",
+    "handle": "Xdll",
+    "country": "jp",
+    "img_url": "https://owcdn.net/img/678a91e7bd2a2.png"
+  },
+  {
+    "teamId": "BOOM Esports",
+    "gameId": "Valorant",
+    "name": "Zhumagali Dastan",
+    "handle": "dos9",
+    "country": "kz",
+    "img_url": "https://owcdn.net/img/67fe136f21560.png"
+  },
+  {
+    "teamId": "BOOM Esports",
+    "gameId": "Valorant",
+    "name": "Fikri Zaki Hamdani",
+    "handle": "Famouz",
+    "country": "id",
+    "img_url": "https://owcdn.net/img/67fe1378b7193.png"
+  },
+  {
+    "teamId": "BOOM Esports",
+    "gameId": "Valorant",
+    "name": "Hildegard Arnaldo",
+    "handle": "Shiro",
+    "country": "id",
+    "img_url": "https://owcdn.net/img/67fe1380672b6.png"
+  },
+  {
+    "teamId": "BOOM Esports",
+    "gameId": "Valorant",
+    "name": "Sheldon Andersen Chandra",
+    "handle": "NcSlasher",
+    "country": "id",
+    "img_url": "https://owcdn.net/img/67fe1388348ff.png"
+  },
+  {
+    "teamId": "BOOM Esports",
+    "gameId": "Valorant",
+    "name": "Rizkie Adla Kusuma",
+    "handle": "BerserX",
+    "country": "id",
+    "img_url": "https://owcdn.net/img/67fe138f478b7.png"
+  },
+  {
+    "teamId": "G2 Esports",
+    "gameId": "Valorant",
+    "name": "Jacob Batio",
+    "handle": "valyn",
+    "country": "us",
+    "img_url": "https://owcdn.net/img/65e4660ee20e5.png"
+  },
+  {
+    "teamId": "G2 Esports",
+    "gameId": "Valorant",
+    "name": "Alexander Mor",
+    "handle": "jawgemo",
+    "country": "kh",
+    "img_url": "https://owcdn.net/img/64169400bfed7.png"
+  },
+  {
+    "teamId": "G2 Esports",
+    "gameId": "Valorant",
+    "name": "Trent Cairns",
+    "handle": "trent",
+    "country": "us",
+    "img_url": "https://owcdn.net/img/65e466071ca19.png"
+  },
+  {
+    "teamId": "G2 Esports",
+    "gameId": "Valorant",
+    "name": "Jonah Pulice",
+    "handle": "JonahP",
+    "country": "ca",
+    "img_url": "https://owcdn.net/img/65e4636c00e46.png"
+  },
+  {
+    "teamId": "G2 Esports",
+    "gameId": "Valorant",
+    "name": "Nathan Orf",
+    "handle": "leaf",
+    "country": "us",
+    "img_url": "https://owcdn.net/img/6613103dd51a4.png"
+  },
+  {
+    "teamId": "Sentinels",
+    "gameId": "Valorant",
+    "name": "Mohamed Amine Ouarid",
+    "handle": "johnqt",
+    "country": "ma",
+    "img_url": "https://owcdn.net/img/65622aa13dc03.png"
+  },
+  {
+    "teamId": "Sentinels",
+    "gameId": "Valorant",
+    "name": "Marshall Massey",
+    "handle": "N4RRATE",
+    "country": "us",
+    "img_url": "https://owcdn.net/img/63ffbd9ee57bd.png"
+  },
+  {
+    "teamId": "Sentinels",
+    "gameId": "Valorant",
+    "name": "Sean Bezerra",
+    "handle": "bang",
+    "country": "us",
+    "img_url": "https://owcdn.net/img/64169245acebe.png"
+  },
+  {
+    "teamId": "Sentinels",
+    "gameId": "Valorant",
+    "name": "Jordan Montemurro",
+    "handle": "Zellsis",
+    "country": "us",
+    "img_url": "https://owcdn.net/img/671b20fca8019.png"
+  },
+  {
+    "teamId": "Sentinels",
+    "gameId": "Valorant",
+    "name": "Zachary Patrone",
+    "handle": "zekken",
+    "country": "us",
+    "img_url": "https://owcdn.net/img/6416956f0da1e.png"
+  },
+  {
+    "teamId": "MIBR",
+    "gameId": "Valorant",
+    "name": "Arthur Araujo",
+    "handle": "artzin",
+    "country": "br",
+    "img_url": "https://owcdn.net/img/64328a8010bd9.png"
+  },
+  {
+    "teamId": "MIBR",
+    "gameId": "Valorant",
+    "name": "Eduardo Soeiro",
+    "handle": "xenom",
+    "country": "br",
+    "img_url": "https://owcdn.net/img/65a6bddfe2c3a.png"
+  },
+  {
+    "teamId": "MIBR",
+    "gameId": "Valorant",
+    "name": "Gabriel Cortez",
+    "handle": "cortezia",
+    "country": "br",
+    "img_url": "https://owcdn.net/img/680c49ca43fee.png"
+  },
+  {
+    "teamId": "MIBR",
+    "gameId": "Valorant",
+    "name": "Andrew Maust",
+    "handle": "Verno",
+    "country": "us",
+    "img_url": "https://owcdn.net/img/664bd823278c5.png"
+  },
+  {
+    "teamId": "MIBR",
+    "gameId": "Valorant",
+    "name": "Erick Santos",
+    "handle": "aspas",
+    "country": "br",
+    "img_url": "https://owcdn.net/img/64169733ae9f1.png"
+  },
+  {
+    "teamId": "Evil Geniuses",
+    "gameId": "Valorant",
+    "name": "Nicholas Garrison",
+    "handle": "NaturE",
+    "country": "us",
+    "img_url": "https://owcdn.net/img/67b55597715e8.png"
+  },
+  {
+    "teamId": "Evil Geniuses",
+    "gameId": "Valorant",
+    "name": "Derrek Ha",
+    "handle": "Derrek",
+    "country": "us",
+    "img_url": "https://owcdn.net/img/67b555baa3969.png"
+  },
+  {
+    "teamId": "Evil Geniuses",
+    "gameId": "Valorant",
+    "name": "Phat Le",
+    "handle": "supamen",
+    "country": "us",
+    "img_url": "https://owcdn.net/img/67b5554423542.png"
+  },
+  {
+    "teamId": "Evil Geniuses",
+    "gameId": "Valorant",
+    "name": "Jacob Lange",
+    "handle": "icy",
+    "country": "us",
+    "img_url": "https://owcdn.net/img/6877368f626ce.png"
+  },
+  {
+    "teamId": "Evil Geniuses",
+    "gameId": "Valorant",
+    "name": "Jaccob Whiteaker",
+    "handle": "yay",
+    "country": "us",
+    "img_url": "https://owcdn.net/img/67b5552720305.png"
+  },
+  {
+    "teamId": "100 Thieves",
+    "gameId": "Valorant",
+    "name": "Alexander Dituri",
+    "handle": "zander",
+    "country": "ca",
+    "img_url": "https://owcdn.net/img/65a1dde2ae314.png"
+  },
+  {
+    "teamId": "100 Thieves",
+    "gameId": "Valorant",
+    "name": "Drew Lee",
+    "handle": "Kess",
+    "country": "kr",
+    "img_url": "https://www.vlr.gg/img/base/ph/sil.png"
+  },
+  {
+    "teamId": "100 Thieves",
+    "gameId": "Valorant",
+    "name": "Matthew Panganiban",
+    "handle": "Cryocells",
+    "country": "us",
+    "img_url": "https://owcdn.net/img/64169262982eb.png"
+  },
+  {
+    "teamId": "100 Thieves",
+    "gameId": "Valorant",
+    "name": "Daniel Vucenovic",
+    "handle": "eeiu",
+    "country": "ca",
+    "img_url": "https://www.vlr.gg/img/base/ph/sil.png"
+  },
+  {
+    "teamId": "100 Thieves",
+    "gameId": "Valorant",
+    "name": "Peter Mazuryk",
+    "handle": "Asuna",
+    "country": "us",
+    "img_url": "https://owcdn.net/img/641692800624c.png"
+  },
+  {
+    "teamId": "KRÜ Esports",
+    "gameId": "Valorant",
+    "name": "Angelo Mori",
+    "handle": "keznit",
+    "country": "cl",
+    "img_url": "https://owcdn.net/img/687bfb08ac062.png"
+  },
+  {
+    "teamId": "KRÜ Esports",
+    "gameId": "Valorant",
+    "name": "Jesús Federico Larrosa",
+    "handle": "Dantedeu5",
+    "country": "ar",
+    "img_url": "https://owcdn.net/img/687bfa8d54924.png"
+  },
+  {
+    "teamId": "KRÜ Esports",
+    "gameId": "Valorant",
+    "name": "Roberto Rivas",
+    "handle": "Mazino",
+    "country": "cl",
+    "img_url": "https://owcdn.net/img/687bfb2ed5da4.png"
+  },
+  {
+    "teamId": "KRÜ Esports",
+    "gameId": "Valorant",
+    "name": "Fabian Usnayo",
+    "handle": "Shyy",
+    "country": "cl",
+    "img_url": "https://owcdn.net/img/687bfb9a9e913.png"
+  },
+  {
+    "teamId": "KRÜ Esports",
+    "gameId": "Valorant",
+    "name": "Marco Eliot Machuca Amaro",
+    "handle": "Melser",
+    "country": "cl",
+    "img_url": "https://owcdn.net/img/687bf97be0429.png"
+  },
+  {
+    "teamId": "Cloud9",
+    "gameId": "Valorant",
+    "name": "Mitch Semago",
+    "handle": "mitch",
+    "country": "us",
+    "img_url": "https://owcdn.net/img/679c221555b21.png"
+  },
+  {
+    "teamId": "Cloud9",
+    "gameId": "Valorant",
+    "name": "Erick Bach",
+    "handle": "Xeppaa",
+    "country": "us",
+    "img_url": "https://owcdn.net/img/679c223b5ed99.png"
+  },
+  {
+    "teamId": "Cloud9",
+    "gameId": "Valorant",
+    "name": "Victor Truong",
+    "handle": "v1c",
+    "country": "us",
+    "img_url": "https://owcdn.net/img/679c222ec2d14.png"
+  },
+  {
+    "teamId": "Cloud9",
+    "gameId": "Valorant",
+    "name": "Michael Bernet",
+    "handle": "neT",
+    "country": "us",
+    "img_url": "https://owcdn.net/img/679c2200b60f3.png"
+  },
+  {
+    "teamId": "Cloud9",
+    "gameId": "Valorant",
+    "name": "Francis Hoang",
+    "handle": "OXY",
+    "country": "us",
+    "img_url": "https://owcdn.net/img/679c2222b0181.png"
+  },
+  {
+    "teamId": "NRG",
+    "gameId": "Valorant",
+    "name": "Ethan Arnold",
+    "handle": "Ethan",
+    "country": "us",
+    "img_url": "https://owcdn.net/img/6416939a5a1c2.png"
+  },
+  {
+    "teamId": "NRG",
+    "gameId": "Valorant",
+    "name": "Sam Oh",
+    "handle": "s0m",
+    "country": "us",
+    "img_url": "https://owcdn.net/img/64169001cb7f4.png"
+  },
+  {
+    "teamId": "NRG",
+    "gameId": "Valorant",
+    "name": "Brock Somerhalder",
+    "handle": "brawk",
+    "country": "us",
+    "img_url": "https://www.vlr.gg/img/base/ph/sil.png"
+  },
+  {
+    "teamId": "NRG",
+    "gameId": "Valorant",
+    "name": "Adam Pampuch",
+    "handle": "mada",
+    "country": "ca",
+    "img_url": "https://owcdn.net/img/6399a40caf260.png"
+  },
+  {
+    "teamId": "NRG",
+    "gameId": "Valorant",
+    "name": "Logan Jenkins",
+    "handle": "skuba",
+    "country": "us",
+    "img_url": "https://owcdn.net/img/679c2583a9041.png"
+  },
+  {
+    "teamId": "2Game Esports",
+    "gameId": "Valorant",
+    "name": "Vitor Gobo",
+    "handle": "gobera",
+    "country": "br",
+    "img_url": "https://owcdn.net/img/652aba5856b2a.png"
+  },
+  {
+    "teamId": "2Game Esports",
+    "gameId": "Valorant",
+    "name": "Luiz Reche",
+    "handle": "lz",
+    "country": "br",
+    "img_url": "https://www.vlr.gg/img/base/ph/sil.png"
+  },
+  {
+    "teamId": "2Game Esports",
+    "gameId": "Valorant",
+    "name": "Rodrigo Lombardi",
+    "handle": "spike",
+    "country": "br",
+    "img_url": "https://www.vlr.gg/img/base/ph/sil.png"
+  },
+  {
+    "teamId": "2Game Esports",
+    "gameId": "Valorant",
+    "name": "Caio Morita",
+    "handle": "silentzz",
+    "country": "br",
+    "img_url": "https://owcdn.net/img/620fdd36d6fdc.png"
+  },
+  {
+    "teamId": "2Game Esports",
+    "gameId": "Valorant",
+    "name": "Luis-Henrique Viveiros",
+    "handle": "pryze",
+    "country": "br",
+    "img_url": "https://www.vlr.gg/img/base/ph/sil.png"
+  },
+  {
+    "teamId": "LOUD",
+    "gameId": "Valorant",
+    "name": "Lucca Travaioli",
+    "handle": "lukxo",
+    "country": "br",
+    "img_url": "https://owcdn.net/img/6889de1f09b08.png"
+  },
+  {
+    "teamId": "LOUD",
+    "gameId": "Valorant",
+    "name": "Leandro Moreno",
+    "handle": "Virtyy",
+    "country": "do",
+    "img_url": "https://owcdn.net/img/687b3fba0ad89.png"
+  },
+  {
+    "teamId": "LOUD",
+    "gameId": "Valorant",
+    "name": "Robbie Boerkamp",
+    "handle": "RobbieBk",
+    "country": "nl",
+    "img_url": "https://owcdn.net/img/6889de8ba5e02.png"
+  },
+  {
+    "teamId": "LOUD",
+    "gameId": "Valorant",
+    "name": "Bryan Luna",
+    "handle": "pANcada",
+    "country": "br",
+    "img_url": "https://owcdn.net/img/6889ddd3735b1.png"
+  },
+  {
+    "teamId": "LOUD",
+    "gameId": "Valorant",
+    "name": "Cauan Pereira",
+    "handle": "cauanzin",
+    "country": "br",
+    "img_url": "https://owcdn.net/img/6889def2c0ea9.png"
+  },
+  {
+    "teamId": "FURIA",
+    "gameId": "Valorant",
+    "name": "Olavo Marcelo",
+    "handle": "heat",
+    "country": "br",
+    "img_url": "https://owcdn.net/img/6640398c585f8.png"
+  },
+  {
+    "teamId": "FURIA",
+    "gameId": "Valorant",
+    "name": "Luis Henrique Ferlin Tessaro",
+    "handle": "basic",
+    "country": "br",
+    "img_url": "https://owcdn.net/img/67ae72c12777e.png"
+  },
+  {
+    "teamId": "FURIA",
+    "gameId": "Valorant",
+    "name": "Davi Alcides",
+    "handle": "Palla",
+    "country": "br",
+    "img_url": "https://owcdn.net/img/67b774e36c229.png"
+  },
+  {
+    "teamId": "FURIA",
+    "gameId": "Valorant",
+    "name": "Victor Rodrigues",
+    "handle": "Urango",
+    "country": "br",
+    "img_url": "https://www.vlr.gg/img/base/ph/sil.png"
+  },
+  {
+    "teamId": "FURIA",
+    "gameId": "Valorant",
+    "name": "Arthur Andrade",
+    "handle": "tuyz",
+    "country": "br",
+    "img_url": "https://owcdn.net/img/66306e474531d.png"
+  },
+  {
+    "teamId": "LEVIATÁN",
+    "gameId": "Valorant",
+    "name": "Francisco Aravena",
+    "handle": "kiNgg",
+    "country": "cl",
+    "img_url": "https://owcdn.net/img/639a594be8d04.png"
+  },
+  {
+    "teamId": "LEVIATÁN",
+    "gameId": "Valorant",
+    "name": "Ian Botsch",
+    "handle": "tex",
+    "country": "de",
+    "img_url": "https://owcdn.net/img/64bac4cfd9f9f.png"
+  },
+  {
+    "teamId": "LEVIATÁN",
+    "gameId": "Valorant",
+    "name": "Anthony Nguyen",
+    "handle": "Okeanos",
+    "country": "vn",
+    "img_url": "https://www.vlr.gg/img/base/ph/sil.png"
+  },
+  {
+    "teamId": "LEVIATÁN",
+    "gameId": "Valorant",
+    "name": "Eduardo Kenzo Nagahama Sato",
+    "handle": "Sato",
+    "country": "br",
+    "img_url": "https://www.vlr.gg/img/base/ph/sil.png"
+  },
+  {
+    "teamId": "LEVIATÁN",
+    "gameId": "Valorant",
+    "name": "Corbin Lee",
+    "handle": "C0M",
+    "country": "us",
+    "img_url": "https://owcdn.net/img/641693c3a0312.png"
+  },
+  {
+    "teamId": "Team Heretics",
+    "gameId": "Valorant",
+    "name": "Ričardas Lukaševičius",
+    "handle": "Boo",
+    "country": "lt",
+    "img_url": "https://owcdn.net/img/665b77d7abe82.png"
+  },
+  {
+    "teamId": "Team Heretics",
+    "gameId": "Valorant",
+    "name": "Dominykas Lukaševičius",
+    "handle": "MiniBoo",
+    "country": "lt",
+    "img_url": "https://owcdn.net/img/665b77a842328.png"
+  },
+  {
+    "teamId": "Team Heretics",
+    "gameId": "Valorant",
+    "name": "Mert Alkan",
+    "handle": "Wo0t",
+    "country": "tr",
+    "img_url": "https://owcdn.net/img/665b76ea6094c.png"
+  },
+  {
+    "teamId": "Team Heretics",
+    "gameId": "Valorant",
+    "name": "Enes Ecirli",
+    "handle": "RieNs",
+    "country": "tr",
+    "img_url": "https://owcdn.net/img/665b76fb7ba5f.png"
+  },
+  {
+    "teamId": "Team Heretics",
+    "gameId": "Valorant",
+    "name": "Benjamin David Fish",
+    "handle": "benjyfishy",
+    "country": "en",
+    "img_url": "https://owcdn.net/img/665b77ca4bc4d.png"
+  },
+  {
+    "teamId": "FNATIC",
+    "gameId": "Valorant",
+    "name": "Jake Howlett",
+    "handle": "Boaster",
+    "country": "gb",
+    "img_url": "https://owcdn.net/img/687e2c495dcc6.png"
+  },
+  {
+    "teamId": "FNATIC",
+    "gameId": "Valorant",
+    "name": "Austin Roberts",
+    "handle": "crashies",
+    "country": "us",
+    "img_url": "https://owcdn.net/img/687e2c376a05d.png"
+  },
+  {
+    "teamId": "FNATIC",
+    "gameId": "Valorant",
+    "name": "Kajetan Haremski",
+    "handle": "kaajak",
+    "country": "pl",
+    "img_url": "https://owcdn.net/img/687e2c5192fe5.png"
+  },
+  {
+    "teamId": "FNATIC",
+    "gameId": "Valorant",
+    "name": "Timofey Khromov",
+    "handle": "Chronicle",
+    "country": "ru",
+    "img_url": "https://owcdn.net/img/687e2c2e12ca6.png"
+  },
+  {
+    "teamId": "FNATIC",
+    "gameId": "Valorant",
+    "name": "Emir Ali Beder",
+    "handle": "Alfajer",
+    "country": "tr",
+    "img_url": "https://owcdn.net/img/687e2c40ac175.png"
+  },
+  {
+    "teamId": "GIANTX",
+    "gameId": "Valorant",
+    "name": "Kirill Nehozhin",
+    "handle": "Cloud",
+    "country": "ru",
+    "img_url": "https://owcdn.net/img/646bd06211000.png"
+  },
+  {
+    "teamId": "GIANTX",
+    "gameId": "Valorant",
+    "name": "Grzegorz Ryczko",
+    "handle": "grubinho",
+    "country": "pl",
+    "img_url": "https://owcdn.net/img/65e74c58670b1.png"
+  },
+  {
+    "teamId": "GIANTX",
+    "gameId": "Valorant",
+    "name": "Miłosz Duda",
+    "handle": "westside",
+    "country": "pl",
+    "img_url": "https://owcdn.net/img/6636bf8d94177.png"
+  },
+  {
+    "teamId": "GIANTX",
+    "gameId": "Valorant",
+    "name": "Karel Maeckelbergh",
+    "handle": "Flickless",
+    "country": "be",
+    "img_url": "https://owcdn.net/img/678094302930e.png"
+  },
+  {
+    "teamId": "GIANTX",
+    "gameId": "Valorant",
+    "name": "Hanceriuc Eduard-George",
+    "handle": "ara",
+    "country": "ro",
+    "img_url": "https://www.vlr.gg/img/base/ph/sil.png"
+  },
+  {
+    "teamId": "FUT Esports",
+    "gameId": "Valorant",
+    "name": "Furkan Yeğen",
+    "handle": "MrFaliN",
+    "country": "tr",
+    "img_url": "https://owcdn.net/img/65dbca83bd376.png"
+  },
+  {
+    "teamId": "FUT Esports",
+    "gameId": "Valorant",
+    "name": "Doğan Gözgen",
+    "handle": "xeus",
+    "country": "tr",
+    "img_url": "https://owcdn.net/img/659cd4901541b.png"
+  },
+  {
+    "teamId": "FUT Esports",
+    "gameId": "Valorant",
+    "name": "Eray Budak",
+    "handle": "yetujey",
+    "country": "tr",
+    "img_url": "https://owcdn.net/img/65dbc0fcd26f6.png"
+  },
+  {
+    "teamId": "FUT Esports",
+    "gameId": "Valorant",
+    "name": "Mehmet Yağız İpek",
+    "handle": "cNed",
+    "country": "tr",
+    "img_url": "https://owcdn.net/img/65dbc5cfc3b28.png"
+  },
+  {
+    "teamId": "FUT Esports",
+    "gameId": "Valorant",
+    "name": "Doğukan Balaban",
+    "handle": "qRaxs",
+    "country": "tr",
+    "img_url": "https://owcdn.net/img/65dbc2508d984.png"
+  },
+  {
+    "teamId": "BBL Esports",
+    "gameId": "Valorant",
+    "name": "Elias Olkkonen",
+    "handle": "Jamppi",
+    "country": "fi",
+    "img_url": "https://owcdn.net/img/680a924b363f0.png"
+  },
+  {
+    "teamId": "BBL Esports",
+    "gameId": "Valorant",
+    "name": "Volkan Yonal",
+    "handle": "sociablEE",
+    "country": "tr",
+    "img_url": "https://owcdn.net/img/680a926893d7b.png"
+  },
+  {
+    "teamId": "BBL Esports",
+    "gameId": "Valorant",
+    "name": "Dawid Święć",
+    "handle": "PROFEK",
+    "country": "pl",
+    "img_url": "https://owcdn.net/img/680a928013d16.png"
+  },
+  {
+    "teamId": "BBL Esports",
+    "gameId": "Valorant",
+    "name": "Burak Alkan",
+    "handle": "LewN",
+    "country": "tr",
+    "img_url": "https://owcdn.net/img/680a9297edd81.png"
+  },
+  {
+    "teamId": "BBL Esports",
+    "gameId": "Valorant",
+    "name": "Martin Penkov",
+    "handle": "MAGNUM",
+    "country": "cz",
+    "img_url": "https://owcdn.net/img/680a92afb8b70.png"
+  },
+  {
+    "teamId": "Team Vitality",
+    "gameId": "Valorant",
+    "name": "Bartosz Bernacki",
+    "handle": "UNFAKE",
+    "country": "pl",
+    "img_url": "https://owcdn.net/img/67e887b071006.png"
+  },
+  {
+    "teamId": "Team Vitality",
+    "gameId": "Valorant",
+    "name": "Nikita Sirmitev",
+    "handle": "Derke",
+    "country": "fi",
+    "img_url": "https://owcdn.net/img/677d64fd893bb.png"
+  },
+  {
+    "teamId": "Team Vitality",
+    "gameId": "Valorant",
+    "name": "Kimmie Laasner",
+    "handle": "Kicks",
+    "country": "ee",
+    "img_url": "https://owcdn.net/img/677d6506baa65.png"
+  },
+  {
+    "teamId": "Team Vitality",
+    "gameId": "Valorant",
+    "name": "Blendi Kovaci",
+    "handle": "KovaQ",
+    "country": "ch",
+    "img_url": "https://owcdn.net/img/67a2fc1880c25.png"
+  },
+  {
+    "teamId": "Team Vitality",
+    "gameId": "Valorant",
+    "name": "Felipe de Loyola Basso",
+    "handle": "Less",
+    "country": "br",
+    "img_url": "https://owcdn.net/img/677d651a8a520.png"
+  },
+  {
+    "teamId": "Gentle Mates",
+    "gameId": "Valorant",
+    "name": "Yusuf Emre Tunc",
+    "handle": "Proxh",
+    "country": "de",
+    "img_url": "https://owcdn.net/img/679c760fde2dd.png"
+  },
+  {
+    "teamId": "Gentle Mates",
+    "gameId": "Valorant",
+    "name": "Sylvain Pattyn",
+    "handle": "Veqaj",
+    "country": "fr",
+    "img_url": "https://owcdn.net/img/689668c152fdd.png"
+  },
+  {
+    "teamId": "Gentle Mates",
+    "gameId": "Valorant",
+    "name": "Berkcan Şentürk",
+    "handle": "ComeBack",
+    "country": "tr",
+    "img_url": "https://owcdn.net/img/66b0bd1ac8d5c.png"
+  },
+  {
+    "teamId": "Gentle Mates",
+    "gameId": "Valorant",
+    "name": "Patrik Hušek",
+    "handle": "Minny",
+    "country": "cz",
+    "img_url": "https://owcdn.net/img/65c7c3cf4e048.png"
+  },
+  {
+    "teamId": "Gentle Mates",
+    "gameId": "Valorant",
+    "name": "Maks Rychlewski",
+    "handle": "kamyk",
+    "country": "pl",
+    "img_url": "https://owcdn.net/img/6680475aa53c9.png"
+  },
+  {
+    "teamId": "Team Liquid",
+    "gameId": "Valorant",
+    "name": "Ayaz Akhmetshin",
+    "handle": "nAts",
+    "country": "ru",
+    "img_url": "https://owcdn.net/img/60a0cf3460718.png"
+  },
+  {
+    "teamId": "Team Liquid",
+    "gameId": "Valorant",
+    "name": "Patryk Fabrowski",
+    "handle": "paTiTek",
+    "country": "pl",
+    "img_url": "https://owcdn.net/img/665b77192b060.png"
+  },
+  {
+    "teamId": "Team Liquid",
+    "gameId": "Valorant",
+    "name": "Nikita Cherednichenko",
+    "handle": "trexx",
+    "country": "ru",
+    "img_url": "https://owcdn.net/img/67ab62d450b3c.png"
+  },
+  {
+    "teamId": "Team Liquid",
+    "gameId": "Valorant",
+    "name": "Georgio Sanassy",
+    "handle": "Keiko",
+    "country": "gb",
+    "img_url": "https://owcdn.net/img/63c56bdfeb488.png"
+  },
+  {
+    "teamId": "Team Liquid",
+    "gameId": "Valorant",
+    "name": "Kamil Frąckowiak",
+    "handle": "kamo",
+    "country": "pl",
+    "img_url": "https://owcdn.net/img/65e74c504212c.png"
+  },
+  {
+    "teamId": "Karmine Corp",
+    "gameId": "Valorant",
+    "name": "Matias Delipetro",
+    "handle": "saadhak",
+    "country": "ar",
+    "img_url": "https://owcdn.net/img/66306e037e53b.png"
+  },
+  {
+    "teamId": "Karmine Corp",
+    "gameId": "Valorant",
+    "name": "Hazem Khaled",
+    "handle": "Avez",
+    "country": "eg",
+    "img_url": "https://owcdn.net/img/63e4aecb51963.png"
+  },
+  {
+    "teamId": "Karmine Corp",
+    "gameId": "Valorant",
+    "name": "Dmitry Ilyushin",
+    "handle": "SUYGETSU",
+    "country": "un",
+    "img_url": "https://owcdn.net/img/642eabfbd9478.png"
+  },
+  {
+    "teamId": "Karmine Corp",
+    "gameId": "Valorant",
+    "name": "Martin Pátek",
+    "handle": "marteen",
+    "country": "cz",
+    "img_url": "https://owcdn.net/img/640cac4fcb3be.png"
+  },
+  {
+    "teamId": "Karmine Corp",
+    "gameId": "Valorant",
+    "name": "Artur Minin",
+    "handle": "pyrolll",
+    "country": "ee",
+    "img_url": "https://www.vlr.gg/img/base/ph/sil.png"
+  },
+  {
+    "teamId": "Natus Vincere",
+    "gameId": "Valorant",
+    "name": "Kyrylo Karasov",
+    "handle": "ANGE1",
+    "country": "ua",
+    "img_url": "https://owcdn.net/img/6792500c3f0df.png"
+  },
+  {
+    "teamId": "Natus Vincere",
+    "gameId": "Valorant",
+    "name": "Andrey Kiprsky",
+    "handle": "Shao",
+    "country": "un",
+    "img_url": "https://owcdn.net/img/6792501581f4f.png"
+  },
+  {
+    "teamId": "Natus Vincere",
+    "gameId": "Valorant",
+    "name": "Alex Hawlasek",
+    "handle": "alexiiik",
+    "country": "cz",
+    "img_url": "https://owcdn.net/img/678ddf914f0f1.png"
+  },
+  {
+    "teamId": "Natus Vincere",
+    "gameId": "Valorant",
+    "name": "Uğur Güç",
+    "handle": "Ruxic",
+    "country": "tr",
+    "img_url": "https://owcdn.net/img/6792501d68dfb.png"
+  },
+  {
+    "teamId": "Natus Vincere",
+    "gameId": "Valorant",
+    "name": "Emirhan Kat",
+    "handle": "hiro",
+    "country": "tr",
+    "img_url": "https://owcdn.net/img/67925026116a0.png"
+  },
+  {
+    "teamId": "Apeks",
+    "gameId": "Valorant",
+    "name": "Michał Łącki",
+    "handle": "MOLSI",
+    "country": "pl",
+    "img_url": "https://owcdn.net/img/65785a1491c5d.png"
+  },
+  {
+    "teamId": "Apeks",
+    "gameId": "Valorant",
+    "name": "Erik Penny",
+    "handle": "penny",
+    "country": "ca",
+    "img_url": "https://owcdn.net/img/6409c8a23952d.png"
+  },
+  {
+    "teamId": "Apeks",
+    "gameId": "Valorant",
+    "name": "Diogo Oliveira",
+    "handle": "OLIZERA",
+    "country": "pt",
+    "img_url": "https://owcdn.net/img/664294c5c0344.png"
+  },
+  {
+    "teamId": "Apeks",
+    "gameId": "Valorant",
+    "name": "Auni Chahade",
+    "handle": "AvovA",
+    "country": "dk",
+    "img_url": "https://owcdn.net/img/657859cf034d5.png"
+  },
+  {
+    "teamId": "Apeks",
+    "gameId": "Valorant",
+    "name": "Mehmet Batu Özaslan",
+    "handle": "batujnax",
+    "country": "tr",
+    "img_url": "https://owcdn.net/img/665409fad7317.png"
+  },
+  {
+    "teamId": "KOI",
+    "gameId": "Valorant",
+    "name": "Xavier Carlson",
+    "handle": "flyuh",
+    "country": "us",
+    "img_url": "https://www.vlr.gg/img/base/ph/sil.png"
+  },
+  {
+    "teamId": "KOI",
+    "gameId": "Valorant",
+    "name": "Nathan Bocqueho",
+    "handle": "nataNk",
+    "country": "fr",
+    "img_url": "https://owcdn.net/img/645a8b5e54694.png"
+  },
+  {
+    "teamId": "KOI",
+    "gameId": "Valorant",
+    "name": "Kamil Graniczka",
+    "handle": "baddyG",
+    "country": "pl",
+    "img_url": "https://owcdn.net/img/6435e6309edde.png"
+  },
+  {
+    "teamId": "KOI",
+    "gameId": "Valorant",
+    "name": "Ondřej Petrů",
+    "handle": "MONSTEERR",
+    "country": "cz",
+    "img_url": "https://owcdn.net/img/687aa980d680d.png"
+  },
+  {
+    "teamId": "KOI",
+    "gameId": "Valorant",
+    "name": "Dawid Czarnecki",
+    "handle": "Filu",
+    "country": "pl",
+    "img_url": "https://owcdn.net/img/65c29d43a833b.png"
+  },
+  {
+    "teamId": "Bilibili Gaming",
+    "gameId": "Valorant",
+    "name": "Wang Haozhe (王昊哲)",
+    "handle": "whzy",
+    "country": "cn",
+    "img_url": "https://owcdn.net/img/677fdfcb36dac.png"
+  },
+  {
+    "teamId": "Bilibili Gaming",
+    "gameId": "Valorant",
+    "name": "Lu Yinzhong (卢胤中)",
+    "handle": "Levius",
+    "country": "cn",
+    "img_url": "https://owcdn.net/img/677fdfe36d135.png"
+  },
+  {
+    "teamId": "Bilibili Gaming",
+    "gameId": "Valorant",
+    "name": "Wang Xiaojie (王晓杰)",
+    "handle": "rushia",
+    "country": "cn",
+    "img_url": "https://owcdn.net/img/677fdfeb6f40b.png"
+  },
+  {
+    "teamId": "Bilibili Gaming",
+    "gameId": "Valorant",
+    "name": "Marcus Tan",
+    "handle": "nephh",
+    "country": "sg",
+    "img_url": "https://owcdn.net/img/677fdff5be5db.png"
+  },
+  {
+    "teamId": "Bilibili Gaming",
+    "gameId": "Valorant",
+    "name": "Liu Yuxiang (刘宇翔)",
+    "handle": "Knight",
+    "country": "cn",
+    "img_url": "https://owcdn.net/img/677fdffe244c5.png"
+  },
+  {
+    "teamId": "EDward Gaming",
+    "gameId": "Valorant",
+    "name": "Wang Senxu (王森旭)",
+    "handle": "nobody",
+    "country": "cn",
+    "img_url": "https://owcdn.net/img/677fe4210de6e.png"
+  },
+  {
+    "teamId": "EDward Gaming",
+    "gameId": "Valorant",
+    "name": "Zheng Yongkang (郑永康)",
+    "handle": "ZmjjKK",
+    "country": "cn",
+    "img_url": "https://owcdn.net/img/677fe40edf9da.png"
+  },
+  {
+    "teamId": "EDward Gaming",
+    "gameId": "Valorant",
+    "name": "Wan Shunzhi (万顺治)",
+    "handle": "CHICHOO",
+    "country": "cn",
+    "img_url": "https://owcdn.net/img/677fe4289bb34.png"
+  },
+  {
+    "teamId": "EDward Gaming",
+    "gameId": "Valorant",
+    "name": "Zhang Zhao (张钊)",
+    "handle": "Smoggy",
+    "country": "cn",
+    "img_url": "https://owcdn.net/img/677fe435edc57.png"
+  },
+  {
+    "teamId": "EDward Gaming",
+    "gameId": "Valorant",
+    "name": "Zhang Juntai (张君泰)",
+    "handle": "Jieni7",
+    "country": "cn",
+    "img_url": "https://owcdn.net/img/67e2e8846d5a5.png"
+  },
+  {
+    "teamId": "TYLOO",
+    "gameId": "Valorant",
+    "name": "Kelun Sun (孙科伦)",
+    "handle": "slowly",
+    "country": "cn",
+    "img_url": "https://owcdn.net/img/6848f4fd4ff85.png"
+  },
+  {
+    "teamId": "TYLOO",
+    "gameId": "Valorant",
+    "name": "Zhang Zhen (张震)",
+    "handle": "Scales",
+    "country": "cn",
+    "img_url": "https://owcdn.net/img/6848f4745a824.png"
+  },
+  {
+    "teamId": "TYLOO",
+    "gameId": "Valorant",
+    "name": "Ding Yi (丁毅)",
+    "handle": "Ninebody",
+    "country": "cn",
+    "img_url": "https://owcdn.net/img/6848f4ec5244b.png"
+  },
+  {
+    "teamId": "TYLOO",
+    "gameId": "Valorant",
+    "name": "Li Wei (李卫)",
+    "handle": "sword9",
+    "country": "cn",
+    "img_url": "https://owcdn.net/img/6848f52264464.png"
+  },
+  {
+    "teamId": "TYLOO",
+    "gameId": "Valorant",
+    "name": "Xu Youxiang (徐佑翔)",
+    "handle": "Yoyo",
+    "country": "tw",
+    "img_url": "https://owcdn.net/img/65532c4463b60.png"
+  },
+  {
+    "teamId": "Trace Esports",
+    "gameId": "Valorant",
+    "name": "Zhang Zhanpeng (张展鹏)",
+    "handle": "LuoK1ng",
+    "country": "cn",
+    "img_url": "https://owcdn.net/img/67f0f3ba506f5.png"
+  },
+  {
+    "teamId": "Trace Esports",
+    "gameId": "Valorant",
+    "name": "Lu Zhinan (卢智楠)",
+    "handle": "Kai",
+    "country": "cn",
+    "img_url": "https://owcdn.net/img/67f0f409bdfc4.png"
+  },
+  {
+    "teamId": "Trace Esports",
+    "gameId": "Valorant",
+    "name": "Zhuo Zhengjie (卓政杰)",
+    "handle": "MarT1n",
+    "country": "cn",
+    "img_url": "https://owcdn.net/img/66372d34beefa.png"
+  },
+  {
+    "teamId": "Trace Esports",
+    "gameId": "Valorant",
+    "name": "Song Xuefeng (宋学锋)",
+    "handle": "FengF",
+    "country": "cn",
+    "img_url": "https://owcdn.net/img/67f0f41260680.png"
+  },
+  {
+    "teamId": "Trace Esports",
+    "gameId": "Valorant",
+    "name": "Zhong Jianfei (钟剑飞)",
+    "handle": "Biank",
+    "country": "cn",
+    "img_url": "https://owcdn.net/img/67f0f4250394a.png"
+  },
+  {
+    "teamId": "JDG Esports",
+    "gameId": "Valorant",
+    "name": "Zhang Ziling (张梓凌)",
+    "handle": "kklin",
+    "country": "cn",
+    "img_url": "https://www.vlr.gg/img/base/ph/sil.png"
+  },
+  {
+    "teamId": "JDG Esports",
+    "gameId": "Valorant",
+    "name": "Park Young-chan (박영찬)",
+    "handle": "stew",
+    "country": "kr",
+    "img_url": "https://owcdn.net/img/6780d408e3835.png"
+  },
+  {
+    "teamId": "JDG Esports",
+    "gameId": "Valorant",
+    "name": "Yong Haochong (杨浩聪)",
+    "handle": "jkuro",
+    "country": "cn",
+    "img_url": "https://owcdn.net/img/6780d3d43a117.png"
+  },
+  {
+    "teamId": "JDG Esports",
+    "gameId": "Valorant",
+    "name": "Geng Haoran (耿浩然)",
+    "handle": "Babyblue",
+    "country": "cn",
+    "img_url": "https://owcdn.net/img/6780d3ed5ecbc.png"
+  },
+  {
+    "teamId": "JDG Esports",
+    "gameId": "Valorant",
+    "name": "Liu Zihan (刘紫涵)",
+    "handle": "Z1yan",
+    "country": "cn",
+    "img_url": "https://owcdn.net/img/6780d3f6d3f99.png"
+  },
+  {
+    "teamId": "Titan Esports Club",
+    "gameId": "Valorant",
+    "name": "Guo Haodong (郭浩东)",
+    "handle": "Haodong",
+    "country": "cn",
+    "img_url": "https://owcdn.net/img/678247ccb12a1.png"
+  },
+  {
+    "teamId": "Titan Esports Club",
+    "gameId": "Valorant",
+    "name": "Yunkun Lu (路昀昆)",
+    "handle": "lucas",
+    "country": "cn",
+    "img_url": "https://www.vlr.gg/img/base/ph/sil.png"
+  },
+  {
+    "teamId": "Titan Esports Club",
+    "gameId": "Valorant",
+    "name": "Han Bohao (韩博皓)",
+    "handle": "Abo",
+    "country": "cn",
+    "img_url": "https://owcdn.net/img/678247f0bb722.png"
+  },
+  {
+    "teamId": "Titan Esports Club",
+    "gameId": "Valorant",
+    "name": "Chen Cheng-ching (陈振庆)",
+    "handle": "TvirusLuke",
+    "country": "tw",
+    "img_url": "https://owcdn.net/img/67f0ecb9c7e9a.png"
+  },
+  {
+    "teamId": "Titan Esports Club",
+    "gameId": "Valorant",
+    "name": "Ding Dajian (丁达建)",
+    "handle": "Coco",
+    "country": "cn",
+    "img_url": "https://owcdn.net/img/67f0eca557498.png"
+  },
+  {
+    "teamId": "Xi Lai Gaming",
+    "gameId": "Valorant",
+    "name": "Lifan Ran (冉立凡)",
+    "handle": "Viva",
+    "country": "cn",
+    "img_url": "https://owcdn.net/img/6782527d74487.png"
+  },
+  {
+    "teamId": "Xi Lai Gaming",
+    "gameId": "Valorant",
+    "name": "James Man",
+    "handle": "NoMan",
+    "country": "hk",
+    "img_url": "https://www.vlr.gg/img/base/ph/sil.png"
+  },
+  {
+    "teamId": "Xi Lai Gaming",
+    "gameId": "Valorant",
+    "name": "Arthur Churyumov",
+    "handle": "Rarga",
+    "country": "ru",
+    "img_url": "https://owcdn.net/img/6782528608fd1.png"
+  },
+  {
+    "teamId": "Xi Lai Gaming",
+    "gameId": "Valorant",
+    "name": "Deng Minwei (邓闵维)",
+    "handle": "happywei",
+    "country": "tw",
+    "img_url": "https://owcdn.net/img/6782528e85d4c.png"
+  },
+  {
+    "teamId": "Xi Lai Gaming",
+    "gameId": "Valorant",
+    "name": "Colin Patrick Chung (钟弘祖)",
+    "handle": "coconut",
+    "country": "hk",
+    "img_url": "https://owcdn.net/img/6782529707e67.png"
+  },
+  {
+    "teamId": "All Gamers",
+    "gameId": "Valorant",
+    "name": "Yang Yong (杨勇)",
+    "handle": "Shr1mp",
+    "country": "cn",
+    "img_url": "https://owcdn.net/img/67e2eb755cab7.png"
+  },
+  {
+    "teamId": "All Gamers",
+    "gameId": "Valorant",
+    "name": "Delbert Tanoto",
+    "handle": "deLb",
+    "country": "id",
+    "img_url": "https://owcdn.net/img/677fbe994eb91.png"
+  },
+  {
+    "teamId": "All Gamers",
+    "gameId": "Valorant",
+    "name": "Xin Mingyan (辛明阳)",
+    "handle": "Spitfires",
+    "country": "cn",
+    "img_url": "https://owcdn.net/img/661971c10b083.png"
+  },
+  {
+    "teamId": "All Gamers",
+    "gameId": "Valorant",
+    "name": "Huang Jingxuan (黄敬轩)",
+    "handle": "HanChe",
+    "country": "tw",
+    "img_url": "https://owcdn.net/img/67d41ea73c850.png"
+  },
+  {
+    "teamId": "All Gamers",
+    "gameId": "Valorant",
+    "name": "Huang Zhihao (黄志豪)",
+    "handle": "K1ra",
+    "country": "cn",
+    "img_url": "https://owcdn.net/img/677fbe754983a.png"
+  },
+  {
+    "teamId": "Dragon Ranger Gaming",
+    "gameId": "Valorant",
+    "name": "Shao Yi-qun (邵逸群)",
+    "handle": "Nicc",
+    "country": "tw",
+    "img_url": "https://owcdn.net/img/6782611e6a470.png"
+  },
+  {
+    "teamId": "Dragon Ranger Gaming",
+    "gameId": "Valorant",
+    "name": "Lo Rui (罗瑞)",
+    "handle": "Flex1n",
+    "country": "cn",
+    "img_url": "https://owcdn.net/img/678260fd260da.png"
+  },
+  {
+    "teamId": "Dragon Ranger Gaming",
+    "gameId": "Valorant",
+    "name": "Ilya Ushakov",
+    "handle": "vo0kashu",
+    "country": "ru",
+    "img_url": "https://owcdn.net/img/67826114df9ea.png"
+  },
+  {
+    "teamId": "Dragon Ranger Gaming",
+    "gameId": "Valorant",
+    "name": "Zhang Haoran (张浩然)",
+    "handle": "Akeman",
+    "country": "cn",
+    "img_url": "https://www.vlr.gg/img/base/ph/sil.png"
+  },
+  {
+    "teamId": "Dragon Ranger Gaming",
+    "gameId": "Valorant",
+    "name": "Lin Dingyu (林定宇)",
+    "handle": "SpiritZ1",
+    "country": "tw",
+    "img_url": "https://owcdn.net/img/67826152e8ca0.png"
+  },
+  {
+    "teamId": "FunPlus Phoenix",
+    "gameId": "Valorant",
+    "name": "Zhang Bolin (張柏霖)",
+    "handle": "BerLIN",
+    "country": "tw",
+    "img_url": "https://owcdn.net/img/6780cc73ecfb7.png"
+  },
+  {
+    "teamId": "FunPlus Phoenix",
+    "gameId": "Valorant",
+    "name": "Kale Dunne",
+    "handle": "Autumn",
+    "country": "au",
+    "img_url": "https://owcdn.net/img/6780cc5e726c5.png"
+  },
+  {
+    "teamId": "FunPlus Phoenix",
+    "gameId": "Valorant",
+    "name": "Qu Donghao (瞿东豪)",
+    "handle": "Life",
+    "country": "cn",
+    "img_url": "https://owcdn.net/img/6780cc893eb8f.png"
+  },
+  {
+    "teamId": "FunPlus Phoenix",
+    "gameId": "Valorant",
+    "name": "Zhang Yang (张杨)",
+    "handle": "AAAAY",
+    "country": "cn",
+    "img_url": "https://owcdn.net/img/6780cc68aef3a.png"
+  },
+  {
+    "teamId": "FunPlus Phoenix",
+    "gameId": "Valorant",
+    "name": "Wang Lei (王磊)",
+    "handle": "yosemite",
+    "country": "cn",
+    "img_url": "https://owcdn.net/img/6780cc7ef001a.png"
+  },
+  {
+    "teamId": "Nova Esports",
+    "gameId": "Valorant",
+    "name": "Wang Haoyu (王浩宇)",
+    "handle": "monk",
+    "country": "cn",
+    "img_url": "https://owcdn.net/img/677fbe91d1c1d.png"
+  },
+  {
+    "teamId": "Nova Esports",
+    "gameId": "Valorant",
+    "name": "Ali Kobraee",
+    "handle": "SWERL",
+    "country": "au",
+    "img_url": "https://owcdn.net/img/661235f45b72e.png"
+  },
+  {
+    "teamId": "Nova Esports",
+    "gameId": "Valorant",
+    "name": "Wang Qingchuan (王庆川)",
+    "handle": "CB",
+    "country": "cn",
+    "img_url": "https://owcdn.net/img/6780f19239654.png"
+  },
+  {
+    "teamId": "Nova Esports",
+    "gameId": "Valorant",
+    "name": "Zhao Zejun (赵泽骏)",
+    "handle": "Ezeir",
+    "country": "cn",
+    "img_url": "https://owcdn.net/img/6780f19ae199e.png"
+  },
+  {
+    "teamId": "Nova Esports",
+    "gameId": "Valorant",
+    "name": "Guang Honglin (光洪霖)",
+    "handle": "GuanG",
+    "country": "cn",
+    "img_url": "https://owcdn.net/img/6780f1a2e0d06.png"
+  },
+  {
+    "teamId": "Wolves Esports",
+    "gameId": "Valorant",
+    "name": "Pong Gaa Hei (庞加曦)",
+    "handle": "SiuFatBB",
+    "country": "hk",
+    "img_url": "https://owcdn.net/img/677d1d70cab8d.png"
+  },
+  {
+    "teamId": "Wolves Esports",
+    "gameId": "Valorant",
+    "name": "Huang Yung-chieh (黃湧傑)",
+    "handle": "Yuicaw",
+    "country": "tw",
+    "img_url": "https://owcdn.net/img/677d1d79e76fc.png"
+  },
+  {
+    "teamId": "Wolves Esports",
+    "gameId": "Valorant",
+    "name": "Liu Jiunting (刘俊霆)",
+    "handle": "Spring",
+    "country": "tw",
+    "img_url": "https://owcdn.net/img/677d1dbded193.png"
+  },
+  {
+    "teamId": "Wolves Esports",
+    "gameId": "Valorant",
+    "name": "Liang Youhao (梁优好)",
+    "handle": "Lysoar",
+    "country": "cn",
+    "img_url": "https://owcdn.net/img/677d1df2d375a.png"
+  },
+  {
+    "teamId": "Wolves Esports",
+    "gameId": "Valorant",
+    "name": "Tyler James Aeria",
+    "handle": "Juicy",
+    "country": "sg",
+    "img_url": "https://owcdn.net/img/677d1e0000b8e.png"
+  }
+]

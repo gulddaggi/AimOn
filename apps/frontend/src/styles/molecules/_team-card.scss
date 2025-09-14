@@ -1,0 +1,166 @@
+.team-card {
+    background: #1e1e2f;
+    border-radius: 16px;
+    padding: 32px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.35);
+    max-width: 600px;
+    margin: 0 auto;
+    position: relative;
+    height: 100%;
+
+    &.empty {
+        justify-content: center;
+        align-items: center;
+        height: 200px;
+        color: #666;
+        font-size: 16px;
+        display: flex;
+    }
+
+    .team-header {
+        margin-bottom: 24px;
+
+        .team-info-header {
+            font-size: 24px;
+            font-weight: 800;
+            color: #ffffff;
+            width: 100%;
+            text-align: left;
+        }
+    }
+
+    .team-main {
+        display: flex;
+        align-items: center;
+        gap: 32px;
+        margin-bottom: 40px;
+
+        .team-logo {
+            flex-shrink: 0;
+
+            .logo-image {
+                border-radius: 12px;
+                object-fit: contain;
+            }
+        }
+
+        .team-info {
+            flex: 1;
+
+            .team-basic {
+                margin-bottom: 20px;
+
+                .team-name {
+                    font-size: 32px;
+                    font-weight: 800;
+                    color: #ffffff;
+                    margin-bottom: 8px;
+                }
+
+                .team-country {
+                    font-size: 18px;
+                    color: #b0b0b0;
+                    font-weight: 600;
+                }
+            }
+
+            .team-stats {
+                display: flex;
+                flex-direction: column;
+                gap: 12px;
+
+                .stat-item {
+                    .stat-text {
+                        font-size: 20px;
+                        font-weight: 700;
+                        color: #ffffff;
+                    }
+                }
+            }
+        }
+    }
+
+    .team-navigation {
+        position: absolute;
+        bottom: 20px;
+        left: 50%;
+        transform: translateX(-50%);
+        display: flex;
+        align-items: center;
+        gap: 16px;
+
+        .nav-button {
+            background: rgba(255, 255, 255, 0.12);
+            border: none;
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 20px;
+            color: #ffffff;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+
+            &:hover {
+                background: rgba(255, 255, 255, 0.2);
+                box-shadow: 0 0 10px rgba(58, 125, 255, 0.6);
+            }
+
+            &:active {
+                transform: scale(0.95);
+            }
+        }
+
+        .page-indicators {
+            display: flex;
+            gap: 8px;
+
+            .indicator {
+                width: 12px;
+                height: 12px;
+                border-radius: 50%;
+                border: none;
+                background: rgba(255, 255, 255, 0.4);
+                cursor: pointer;
+                transition: all 0.2s ease;
+
+                &.active {
+                    background: #3a7dff;
+                }
+
+                &:hover:not(.active) {
+                    background: rgba(255, 255, 255, 0.7);
+                }
+            }
+        }
+    }
+}
+
+// 반응형 디자인
+@media (max-width: 768px) {
+    .team-card {
+        padding: 24px;
+
+        .team-main {
+            flex-direction: column;
+            text-align: center;
+            gap: 24px;
+
+            .team-logo .logo-image {
+                width: 100px;
+                height: 100px;
+            }
+
+            .team-info .team-basic .team-name {
+                font-size: 28px;
+            }
+
+            .team-stats .stat-item .stat-text {
+                font-size: 18px;
+            }
+        }
+    }
+}

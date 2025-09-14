@@ -1,0 +1,117 @@
+# ========================
+# Python / Django 기본
+# ========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+*.pot
+*.pyc
+
+# ========================
+# Jupyter Notebook
+# ========================
+.ipynb_checkpoints/
+
+# ========================
+# 가상환경
+# ========================
+.venv/
+venv/
+ENV/
+env/
+.venv.bak/
+
+# ========================
+# 모델 출력 및 체크포인트
+# ========================
+*.bin
+*.pt
+*.ckpt
+*.h5
+
+# ========================
+# Transformers / Hugging Face
+# ========================
+*.jsonl.cache
+*.arrow
+*.lock
+tokenizer_config.json
+special_tokens_map.json
+phi2-lora/
+phi2-lora-output/
+checkpoints/
+runs/
+
+# ========================
+# 캐시 디렉토리
+# ========================
+.cache/
+*.cache
+*.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+~$*
+
+# ========================
+# IDE / 에디터 설정
+# ========================
+.vscode/
+.idea/
+*.iml
+*.swp
+*.bak
+
+# ========================
+# Django 프로젝트
+# ========================
+db.sqlite3
+media/
+staticfiles/
+static/
+tmp/
+
+# ========================
+# 환경변수 / 설정 파일
+# ========================
+.env
+.env.*
+*.env
+!.env.example
+
+# ========================
+# 운영체제 불필요 파일
+# ========================
+.DS_Store
+Thumbs.db
+
+# ========================
+# FAISS 인덱스
+# ========================
+*.index
+faiss_index/
+
+# ========================
+# JSON / Embedding 데이터 (옵션)
+# ========================
+# DB_JSON/
+# *.json
+# *.jsonl
+
+# ========================
+# Migration 파일 (옵션)
+# ========================
+# rag/migrations/
+
+# ========================
+# 서버 로그
+# ========================
+gunicorn.log
+uvicorn.log

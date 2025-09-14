@@ -1,0 +1,178 @@
+@use '../_variables' as v;
+
+.pickAimLeague {
+    width: calc(100vw - 96px);
+    margin-left: 96px;
+    min-height: 100vh;
+    padding: 24px 24px 80px 24px;
+    background: transparent;
+    color: #ffffff;
+    font-family:
+        Pretendard,
+        -apple-system,
+        BlinkMacSystemFont,
+        'Segoe UI',
+        Roboto,
+        'Helvetica Neue',
+        Arial,
+        'Apple SD Gothic Neo',
+        'Noto Sans KR',
+        'Malgun Gothic',
+        sans-serif;
+
+    .bar {
+        background: #1e1e2f;
+        border-radius: 16px;
+        padding: 18px 24px;
+        display: grid;
+        grid-template-columns: 84px 1fr auto;
+        align-items: center;
+        margin-bottom: 24px;
+        h1 {
+            font-size: 56px;
+            text-align: center;
+            color: #ffffff;
+            font-weight: 700;
+        }
+        .mode {
+            font-size: 24px;
+            color: #b0b0b0;
+        }
+        .subtitle {
+            grid-column: 1 / -1;
+            text-align: center;
+            font-size: 32px;
+            font-weight: 700;
+            margin-top: 8px;
+            color: #ffffff;
+        }
+        .back {
+            background: transparent;
+            border: 0;
+            cursor: pointer;
+            color: #ffffff;
+            width: 64px;
+            height: 64px;
+            display: grid;
+            place-items: center;
+        }
+        .back :global(img) {
+            width: 64px;
+            height: 64px;
+        }
+    }
+
+    .noneSelect {
+        margin: 0 auto 8px auto;
+        display: block;
+        width: 640px;
+        height: 80px;
+        border-radius: 16px;
+        border: 0;
+        background: #121222;
+        color: #ffffff;
+        font-size: 42px;
+        font-weight: 700;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+        cursor: pointer;
+        transition:
+            box-shadow 0.2s ease,
+            transform 0.1s ease;
+        &:hover {
+            box-shadow: 0 0 10px rgba(255, 255, 255, 0.753);
+        }
+        &:active {
+            transform: translateY(1px);
+        }
+    }
+    .noneSelect.selected {
+        outline: 6px solid #ffffff;
+    }
+
+    .leaguePanel {
+        background: #1e1e2f;
+        border-radius: 16px;
+        padding: 24px;
+    }
+    .leagueGrid {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 24px;
+        align-items: start;
+        margin-top: 16px;
+    }
+
+    .leagueCard {
+        border: 0;
+        border-radius: 16px;
+        background: #121222;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+        cursor: pointer;
+        padding: 24px;
+        display: flex;
+        flex-direction: column;
+        gap: 12px;
+        align-items: center;
+        transition:
+            box-shadow 0.2s ease,
+            transform 0.1s ease;
+        &:hover {
+            box-shadow: 0 0 10px rgba(255, 255, 255, 0.777);
+        }
+        &:active {
+            transform: translateY(1px);
+        }
+        .logoWrap {
+            position: relative;
+            width: 180px; // 기본값: 카드에서 인라인 style로 덮어쓸 수 있음
+            height: 160px;
+        }
+        ul.desc {
+            list-style: none;
+            color: #ffffff;
+            font-size: 20px;
+            line-height: 1.6;
+            width: 100%;
+        }
+        &.selected {
+            outline: 6px solid #ffffff;
+        }
+    }
+
+    .footer {
+        display: flex;
+        justify-content: center;
+        margin-top: 24px;
+    }
+    .textButton.start {
+        min-width: 420px;
+        height: 96px;
+        border-radius: 52px;
+        font-size: 32px;
+        transition:
+            background-color 0.2s ease,
+            box-shadow 0.2s ease,
+            transform 0.1s ease,
+            filter 0.2s ease;
+    }
+    .textButton.start.primary {
+        background: #3a7dff;
+        color: #fff;
+        &:hover {
+            box-shadow: 0 0 10px rgba(58, 125, 255, 0.6);
+        }
+        &:active {
+            transform: translateY(1px);
+        }
+    }
+    .textButton.start.secondary {
+        background: #302e3c;
+        color: #fff;
+        &:hover {
+            box-shadow: 0 0 10px rgba(58, 125, 255, 0.6);
+        }
+        &:active {
+            transform: translateY(1px);
+        }
+    }
+}

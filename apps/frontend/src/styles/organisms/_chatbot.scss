@@ -1,0 +1,41 @@
+@use '../variables' as v;
+
+.chatbot {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 8px;
+    padding: 16px 24px;
+    width: 100%;
+    background: #1e1e2f;
+    border: 1px solid rgba(58, 125, 255, 0.25);
+    border-radius: 16px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.35);
+    margin-bottom: 24px; /* LeagueGameSelector와 간격 */
+    .buttonArea {
+        padding-left: 0;
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        gap: 12px;
+        .textButton {
+            min-width: 120px;
+            height: 40px;
+            border-radius: 20px;
+            font-size: 14px;
+            font-weight: 700;
+            background: #302e3c;
+            color: #ffffff;
+            border: 1px solid rgba(255, 255, 255, 0.06);
+            transition:
+                box-shadow 0.2s ease,
+                filter 0.2s ease;
+            &:hover {
+                box-shadow: 0 0 10px rgba(58, 125, 255, 0.6);
+                filter: brightness(1.03);
+            }
+        }
+    }
+}

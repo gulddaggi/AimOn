@@ -1,0 +1,13 @@
+{
+  "name": "S13P11B208",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://lab.ssafy.com/s13-webmobile2-sub1/S13P11B208.git",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*",
+    "infra"
+  ]
+}

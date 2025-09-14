@@ -1,0 +1,11 @@
+.oauthButtons {
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    padding-top: 20px;
+    border-top: 1px solid rgba(#111827, 25%);
+    width: 80%;
+    min-width: 200px;
+}

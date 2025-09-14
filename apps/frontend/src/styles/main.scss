@@ -1,0 +1,67 @@
+@use './atoms/buttons';
+@use './atoms/inputs';
+@use './atoms/texts';
+@use './atoms/contents';
+@use './molecules/auth';
+@use './molecules/route-button';
+@use './molecules/profile-button';
+@use './molecules/dropdown';
+@use './molecules/input-area';
+@use './organisms/auth-form';
+@use './organisms/chatbot';
+@use './organisms/oauth-buttons';
+@use './organisms/league-game-selector';
+@use './organisms/side-bar';
+@use './organisms/pick-and-aim-game';
+@use './organisms/pick-and-aim-league';
+@use './organisms/pick-and-aim-keyword';
+@use './organisms/pick-and-aim-team';
+@use './organisms/pick-and-aim-shot-keyword';
+@use './molecules/message-area';
+@use './molecules/guide-block';
+@use './molecules/player-card';
+@use './molecules/team-card';
+@use './templates/auth-template';
+@use './templates/home-template';
+@use './templates/pick-and-aim';
+@use './organisms/community';
+@use './organisms/my-page';
+@use './organisms/fav-team-area';
+@use './organisms/dashboard';
+
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+}
+
+.root,
+html,
+body {
+    overflow-x: hidden;
+    background:
+        radial-gradient(
+            1200px 600px at 15% 25%,
+            rgba(49, 90, 173, 0.36),
+            transparent 60%
+        ),
+        radial-gradient(
+            1000px 500px at 85% 75%,
+            rgba(123, 97, 255, 0.28),
+            transparent 60%
+        ),
+        radial-gradient(
+            800px 400px at 70% 20%,
+            rgba(0, 255, 170, 0.18),
+            transparent 60%
+        ),
+        linear-gradient(160deg, #242c4a 0%, #1e2442 100%);
+    color: #ffffff;
+}
+
+.page {
+    margin-left: 96px;
+    width: calc(100% - 96px);
+    min-height: 100vh;
+}

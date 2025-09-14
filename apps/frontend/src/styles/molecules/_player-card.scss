@@ -1,0 +1,180 @@
+.player-card {
+    background: #1e1e2f;
+    border-radius: 16px;
+    padding: 24px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.35);
+    display: flex;
+    gap: 24px;
+    max-width: 800px;
+    margin: 0 auto;
+    height: 100%;
+
+    &.empty {
+        justify-content: center;
+        align-items: center;
+        height: 200px;
+        color: #666;
+        font-size: 16px;
+    }
+
+    .player-header {
+        margin-bottom: 24px;
+
+        .player-info-header {
+            font-size: 24px;
+            font-weight: 800;
+            color: #ffffff;
+            width: 100%;
+            text-align: left;
+        }
+    }
+
+    .player-main {
+        display: flex;
+        align-items: center;
+        gap: 24px;
+        margin-bottom: 24px;
+    }
+    .player-image {
+        flex-shrink: 0;
+        .player-photo {
+            border-radius: 12px;
+            object-fit: cover;
+        }
+    }
+
+    .player-info {
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+
+        .player-basic {
+            .player-name {
+                margin-bottom: 16px;
+
+                .handle {
+                    font-size: 28px;
+                    font-weight: 800;
+                    color: #ffffff;
+                    margin-bottom: 4px;
+                }
+
+                .real-name {
+                    font-size: 16px;
+                    color: #b0b0b0;
+                    font-weight: 600;
+                }
+            }
+
+            .player-details {
+                display: flex;
+                flex-direction: column;
+                gap: 8px;
+
+                .country,
+                .team {
+                    display: flex;
+                    flex-direction: column; /* 라벨 다음 줄에 값 표시 */
+                    gap: 6px;
+                    align-items: flex-start;
+
+                    .label {
+                        display: none; /* 팀 카드처럼 값만 노출 */
+                    }
+
+                    .value {
+                        font-size: 14px;
+                        color: #b0b0b0; /* 팀 카드의 국가 스타일과 유사 */
+                        font-weight: 600;
+                        line-height: 1.4;
+                    }
+                }
+            }
+        }
+
+        .player-stats {
+            .stat-item {
+                margin-bottom: 12px;
+
+                .stat-text {
+                    font-size: 18px;
+                    font-weight: 700;
+                    color: #ffffff;
+                }
+            }
+
+            .stat-row {
+                display: flex;
+                gap: 40px;
+
+                .stat-item {
+                    margin-bottom: 0;
+                }
+            }
+        }
+    }
+
+    .player-navigation {
+        position: absolute;
+        bottom: 20px;
+        left: 50%;
+        transform: translateX(-50%);
+        display: flex;
+        align-items: center;
+        gap: 16px;
+
+        .nav-button {
+            background: rgba(255, 255, 255, 0.9);
+            border: none;
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 20px;
+            color: #333;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+
+            &:hover {
+                background: #fff;
+                box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+            }
+
+            &:active {
+                transform: scale(0.95);
+            }
+        }
+
+        .page-indicators {
+            display: flex;
+            gap: 8px;
+
+            .indicator {
+                width: 12px;
+                height: 12px;
+                border-radius: 50%;
+                border: none;
+                background: rgba(255, 255, 255, 0.5);
+                cursor: pointer;
+                transition: all 0.2s ease;
+
+                &.active {
+                    background: #000;
+                }
+
+                &:hover:not(.active) {
+                    background: rgba(255, 255, 255, 0.8);
+                }
+            }
+        }
+    }
+}
+
+// PlayerCard를 포함하는 컨테이너가 relative position을 가져야 함
+.player-card-container {
+    position: relative;
+}

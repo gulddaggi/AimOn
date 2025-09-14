@@ -1,0 +1,205 @@
+/* ===== My Page styles (separated) ===== */
+
+.profileCard {
+    position: relative;
+    background: #1e1e2f;
+    border: 1px solid rgba(58, 125, 255, 0.25);
+    border-radius: 16px;
+    padding: 24px;
+    margin-bottom: 24px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.35);
+    color: #ffffff;
+    animation: mpFadeUp 320ms ease both;
+}
+
+.profileEdit {
+    position: absolute;
+    top: 12px;
+    right: 12px;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    white-space: nowrap;
+    color: #ffffff; /* 프로필 편집 흰색 */
+}
+
+.profileRow {
+    display: grid;
+    grid-template-columns: 160px 1fr;
+    gap: 20px;
+}
+
+.profileAvatarLarge {
+    border-radius: 12px;
+    object-fit: cover;
+}
+
+/* 마이페이지의 아바타 영역에서만 로딩 아이콘을 흰색으로 */
+.profileAvatarWrap .loadingIcon div {
+    background-color: #636363;
+}
+
+.profileAvatarWrap {
+    position: relative;
+    width: fit-content;
+    height: fit-content;
+}
+/* 이미지 변경 버튼을 프로필 카드 상단(아바타와 닉네임 사이, 우측 상단)로 이동 */
+.profileCard .profileImageEdit {
+    position: absolute;
+    top: -15px;
+    right: -10px;
+    width: 28px;
+    height: 28px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid rgba(58, 125, 255, 0.35); /* 테마 테두리 */
+    border-radius: 999px;
+}
+.profileCard .profileImageEdit .tooltip {
+    position: absolute;
+    top: -30px;
+    right: 0;
+    white-space: nowrap;
+    background: rgba(0, 0, 0, 0.85);
+    color: #fff;
+    padding: 4px 8px;
+    border-radius: 6px;
+    font-size: 12px;
+    opacity: 0;
+    transform: translateY(4px);
+    pointer-events: none;
+    transition:
+        opacity 0.2s ease,
+        transform 0.2s ease;
+}
+.profileCard .profileImageEdit:hover .tooltip {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.profileInfo {
+    display: grid;
+    gap: 10px;
+    align-content: start;
+}
+
+.profileStat {
+    display: flex;
+    gap: 16px;
+    margin-top: 14px;
+    align-items: baseline;
+}
+
+.profileLevel {
+    font-weight: 800;
+    font-size: 28px;
+    color: #ffffff;
+}
+
+.profileExp {
+    font-weight: 700;
+    font-size: 20px;
+    color: #e6e6e6;
+}
+
+.profileMeta {
+    display: grid;
+    grid-template-columns: 80px 1fr;
+    gap: 10px;
+}
+
+.profileMeta .label {
+    color: #b0b0b0;
+    font-weight: 600;
+}
+
+.profileMeta .value {
+    font-weight: 700;
+    color: #ffffff;
+}
+
+.expBar {
+    height: 8px;
+    background: #242238;
+    border-radius: 6px;
+    overflow: hidden;
+}
+
+.expFill {
+    height: 100%;
+    background: #3a7dff;
+}
+
+.myPageGrid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 24px;
+}
+
+.myPostsSection {
+    margin-top: 16px;
+}
+
+/* 마이페이지 헤더 바 (공통 바를 사용하는 경우) */
+.myPageHeaderBar {
+    background: #1e1e2f;
+    border: 1px solid rgba(58, 125, 255, 0.25);
+    border-radius: 16px;
+    padding: 16px 20px;
+    margin-bottom: 16px;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.35);
+}
+
+.sectionTitle {
+    font-size: 28px;
+    font-weight: 900;
+    margin-bottom: 10px;
+    color: #ffffff;
+}
+
+.myPostsCard {
+    background: #1e1e2f;
+    border: 1px solid rgba(123, 97, 255, 0.25);
+    border-radius: 16px;
+    padding: 16px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.35);
+    color: #ffffff;
+    animation: mpFadeUp 360ms ease both;
+}
+
+.myPostsCard .communityTitle {
+    font-size: 20px;
+    margin: 6px 0 8px;
+    color: #ffffff;
+}
+
+.myPostsCard .communityBody {
+    font-size: 14px;
+    line-height: 1.5;
+    color: #e6e6e6;
+}
+
+.profileEdit.isRegister {
+    font-weight: 800;
+}
+
+.nicknameInput {
+    max-width: 220px;
+}
+
+@keyframes mpFadeUp {
+    from {
+        opacity: 0;
+        transform: translateY(8px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}

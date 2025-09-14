@@ -1,0 +1,4345 @@
+[
+  {
+    "player_handle": "valyn",
+    "agents": [
+      "omen",
+      "astra"
+    ],
+    "Rnd": "437",
+    "ACS": "199.0",
+    "KAST": "74%",
+    "ADR": "126.4",
+    "APR": "0.37",
+    "FKPR": "0.08",
+    "FDPR": "0.07",
+    "HS%": "25%",
+    "CL%": "14%",
+    "KDA": 1.59
+  },
+  {
+    "player_handle": "jawgemo",
+    "agents": [
+      "yoru",
+      "neon",
+      "sage"
+    ],
+    "Rnd": "437",
+    "ACS": "208.0",
+    "KAST": "72%",
+    "ADR": "138.7",
+    "APR": "0.27",
+    "FKPR": "0.15",
+    "FDPR": "0.17",
+    "HS%": "23%",
+    "CL%": "8%",
+    "KDA": 1.34
+  },
+  {
+    "player_handle": "trent",
+    "agents": [
+      "fade",
+      "sova",
+      "tejo"
+    ],
+    "Rnd": "437",
+    "ACS": "208.7",
+    "KAST": "77%",
+    "ADR": "135.9",
+    "APR": "0.29",
+    "FKPR": "0.07",
+    "FDPR": "0.07",
+    "HS%": "31%",
+    "CL%": "12%",
+    "KDA": 1.66
+  },
+  {
+    "player_handle": "JonahP",
+    "agents": [
+      "breach",
+      "viper",
+      "fade"
+    ],
+    "Rnd": "437",
+    "ACS": "205.2",
+    "KAST": "75%",
+    "ADR": "127.7",
+    "APR": "0.33",
+    "FKPR": "0.08",
+    "FDPR": "0.12",
+    "HS%": "23%",
+    "CL%": "15%",
+    "KDA": 1.54
+  },
+  {
+    "player_handle": "leaf",
+    "agents": [
+      "viper",
+      "killjoy",
+      "vyse"
+    ],
+    "Rnd": "198",
+    "ACS": "230.3",
+    "KAST": "75%",
+    "ADR": "148.6",
+    "APR": "0.26",
+    "FKPR": "0.08",
+    "FDPR": "0.08",
+    "HS%": "24%",
+    "CL%": "29%",
+    "KDA": 1.59
+  },
+  {
+    "player_handle": "johnqt",
+    "agents": [
+      "breach",
+      "viper",
+      "skye"
+    ],
+    "Rnd": "482",
+    "ACS": "159.0",
+    "KAST": "75%",
+    "ADR": "105.8",
+    "APR": "0.44",
+    "FKPR": "0.05",
+    "FDPR": "0.05",
+    "HS%": "24%",
+    "CL%": "6%",
+    "KDA": 1.72
+  },
+  {
+    "player_handle": "N4RRATE",
+    "agents": [
+      "fade",
+      "breach",
+      "tejo"
+    ],
+    "Rnd": "482",
+    "ACS": "245.5",
+    "KAST": "79%",
+    "ADR": "156.3",
+    "APR": "0.36",
+    "FKPR": "0.11",
+    "FDPR": "0.06",
+    "HS%": "27%",
+    "CL%": "20%",
+    "KDA": 1.76
+  },
+  {
+    "player_handle": "bang",
+    "agents": [
+      "omen",
+      "viper"
+    ],
+    "Rnd": "482",
+    "ACS": "196.5",
+    "KAST": "75%",
+    "ADR": "117.3",
+    "APR": "0.37",
+    "FKPR": "0.09",
+    "FDPR": "0.09",
+    "HS%": "30%",
+    "CL%": "13%",
+    "KDA": 1.69
+  },
+  {
+    "player_handle": "Zellsis",
+    "agents": [
+      "cypher",
+      "vyse",
+      "viper"
+    ],
+    "Rnd": "482",
+    "ACS": "183.0",
+    "KAST": "72%",
+    "ADR": "121.6",
+    "APR": "0.23",
+    "FKPR": "0.06",
+    "FDPR": "0.09",
+    "HS%": "22%",
+    "CL%": "15%",
+    "KDA": 1.39
+  },
+  {
+    "player_handle": "zekken",
+    "agents": [
+      "neon",
+      "raze",
+      "yoru"
+    ],
+    "Rnd": "482",
+    "ACS": "246.4",
+    "KAST": "75%",
+    "ADR": "152.5",
+    "APR": "0.24",
+    "FKPR": "0.22",
+    "FDPR": "0.18",
+    "HS%": "25%",
+    "CL%": "25%",
+    "KDA": 1.57
+  },
+  {
+    "player_handle": "artzin",
+    "agents": [
+      "yoru",
+      "kayo",
+      "iso"
+    ],
+    "Rnd": "195",
+    "ACS": "183.3",
+    "KAST": "65%",
+    "ADR": "118.6",
+    "APR": "0.23",
+    "FKPR": "0.12",
+    "FDPR": "0.21",
+    "HS%": "21%",
+    "CL%": "20%",
+    "KDA": 1.14
+  },
+  {
+    "player_handle": "xenom",
+    "agents": [
+      "astra",
+      "omen",
+      "viper"
+    ],
+    "Rnd": "195",
+    "ACS": "157.8",
+    "KAST": "73%",
+    "ADR": "104.2",
+    "APR": "0.35",
+    "FKPR": "0.05",
+    "FDPR": "0.05",
+    "HS%": "35%",
+    "CL%": "12%",
+    "KDA": 1.34
+  },
+  {
+    "player_handle": "cortezia",
+    "agents": [
+      "vyse",
+      "killjoy",
+      "cypher"
+    ],
+    "Rnd": "195",
+    "ACS": "206.0",
+    "KAST": "68%",
+    "ADR": "141.4",
+    "APR": "0.21",
+    "FKPR": "0.08",
+    "FDPR": "0.09",
+    "HS%": "35%",
+    "CL%": "17%",
+    "KDA": 1.42
+  },
+  {
+    "player_handle": "Verno",
+    "agents": [
+      "fade",
+      "sova",
+      "skye"
+    ],
+    "Rnd": "195",
+    "ACS": "134.7",
+    "KAST": "69%",
+    "ADR": "92.5",
+    "APR": "0.30",
+    "FKPR": "0.06",
+    "FDPR": "0.10",
+    "HS%": "27%",
+    "CL%": "10%",
+    "KDA": 1.0
+  },
+  {
+    "player_handle": "aspas",
+    "agents": [
+      "raze",
+      "jett",
+      "yoru"
+    ],
+    "Rnd": "195",
+    "ACS": "216.6",
+    "KAST": "74%",
+    "ADR": "139.5",
+    "APR": "0.15",
+    "FKPR": "0.17",
+    "FDPR": "0.09",
+    "HS%": "24%",
+    "CL%": "20%",
+    "KDA": 1.4
+  },
+  {
+    "player_handle": "NaturE",
+    "agents": [
+      "kayo",
+      "fade",
+      "breach"
+    ],
+    "Rnd": "205",
+    "ACS": "184.9",
+    "KAST": "71%",
+    "ADR": "115.4",
+    "APR": "0.40",
+    "FKPR": "0.04",
+    "FDPR": "0.07",
+    "HS%": "23%",
+    "CL%": "17%",
+    "KDA": 1.3
+  },
+  {
+    "player_handle": "Derrek",
+    "agents": [
+      "sova",
+      "chamber",
+      "tejo"
+    ],
+    "Rnd": "205",
+    "ACS": "219.7",
+    "KAST": "68%",
+    "ADR": "156.9",
+    "APR": "0.26",
+    "FKPR": "0.06",
+    "FDPR": "0.04",
+    "HS%": "31%",
+    "CL%": "11%",
+    "KDA": 1.43
+  },
+  {
+    "player_handle": "supamen",
+    "agents": [
+      "omen",
+      "viper"
+    ],
+    "Rnd": "205",
+    "ACS": "143.9",
+    "KAST": "63%",
+    "ADR": "93.0",
+    "APR": "0.23",
+    "FKPR": "0.08",
+    "FDPR": "0.10",
+    "HS%": "35%",
+    "CL%": "13%",
+    "KDA": 1.02
+  },
+  {
+    "player_handle": "icy",
+    "agents": [
+      "cypher",
+      "raze",
+      "neon"
+    ],
+    "Rnd": "205",
+    "ACS": "145.4",
+    "KAST": "62%",
+    "ADR": "98.0",
+    "APR": "0.19",
+    "FKPR": "0.08",
+    "FDPR": "0.14",
+    "HS%": "28%",
+    "CL%": "15%",
+    "KDA": 0.93
+  },
+  {
+    "player_handle": "yay",
+    "agents": [
+      "jett",
+      "clove",
+      "chamber"
+    ],
+    "Rnd": "205",
+    "ACS": "207.0",
+    "KAST": "64%",
+    "ADR": "136.9",
+    "APR": "0.19",
+    "FKPR": "0.17",
+    "FDPR": "0.21",
+    "HS%": "29%",
+    "CL%": "12%",
+    "KDA": 1.14
+  },
+  {
+    "player_handle": "zander",
+    "agents": [
+      "viper",
+      "omen"
+    ],
+    "Rnd": "215",
+    "ACS": "205.6",
+    "KAST": "73%",
+    "ADR": "129.2",
+    "APR": "0.27",
+    "FKPR": "0.11",
+    "FDPR": "0.08",
+    "HS%": "26%",
+    "CL%": "27%",
+    "KDA": 1.55
+  },
+  {
+    "player_handle": "Kess",
+    "agents": [
+      "fade",
+      "sova",
+      "skye"
+    ],
+    "Rnd": "1029",
+    "ACS": "223.4",
+    "KAST": "80%",
+    "ADR": "143.4",
+    "APR": "0.38",
+    "FKPR": "0.07",
+    "FDPR": "0.04",
+    "HS%": "26%",
+    "CL%": "16%",
+    "KDA": 1.98
+  },
+  {
+    "player_handle": "Cryocells",
+    "agents": [
+      "jett",
+      "yoru",
+      "chamber"
+    ],
+    "Rnd": "215",
+    "ACS": "210.7",
+    "KAST": "76%",
+    "ADR": "131.9",
+    "APR": "0.14",
+    "FKPR": "0.16",
+    "FDPR": "0.11",
+    "HS%": "27%",
+    "CL%": "15%",
+    "KDA": 1.43
+  },
+  {
+    "player_handle": "eeiu",
+    "agents": [
+      "sova",
+      "fade"
+    ],
+    "Rnd": "215",
+    "ACS": "206.9",
+    "KAST": "75%",
+    "ADR": "136.4",
+    "APR": "0.26",
+    "FKPR": "0.05",
+    "FDPR": "0.05",
+    "HS%": "33%",
+    "CL%": "11%",
+    "KDA": 1.6
+  },
+  {
+    "player_handle": "Asuna",
+    "agents": [
+      "omen",
+      "neon",
+      "kayo"
+    ],
+    "Rnd": "215",
+    "ACS": "232.6",
+    "KAST": "74%",
+    "ADR": "153.6",
+    "APR": "0.37",
+    "FKPR": "0.13",
+    "FDPR": "0.14",
+    "HS%": "22%",
+    "CL%": "22%",
+    "KDA": 1.59
+  },
+  {
+    "player_handle": "keznit",
+    "agents": [
+      "jett",
+      "raze",
+      "neon"
+    ],
+    "Rnd": "450",
+    "ACS": "234.8",
+    "KAST": "74%",
+    "ADR": "154.3",
+    "APR": "0.27",
+    "FKPR": "0.15",
+    "FDPR": "0.13",
+    "HS%": "23%",
+    "CL%": "13%",
+    "KDA": 1.53
+  },
+  {
+    "player_handle": "Dantedeu5",
+    "agents": [
+      "jett",
+      "yoru",
+      "neon"
+    ],
+    "Rnd": "256",
+    "ACS": "204.6",
+    "KAST": "71%",
+    "ADR": "130.6",
+    "APR": "0.26",
+    "FKPR": "0.16",
+    "FDPR": "0.18",
+    "HS%": "26%",
+    "CL%": "8%",
+    "KDA": 1.28
+  },
+  {
+    "player_handle": "Mazino",
+    "agents": [
+      "harbor",
+      "yoru",
+      "breach"
+    ],
+    "Rnd": "450",
+    "ACS": "202.5",
+    "KAST": "70%",
+    "ADR": "131.0",
+    "APR": "0.30",
+    "FKPR": "0.12",
+    "FDPR": "0.10",
+    "HS%": "24%",
+    "CL%": "15%",
+    "KDA": 1.37
+  },
+  {
+    "player_handle": "Shyy",
+    "agents": [
+      "killjoy",
+      "clove",
+      "cypher"
+    ],
+    "Rnd": "450",
+    "ACS": "182.3",
+    "KAST": "73%",
+    "ADR": "122.8",
+    "APR": "0.23",
+    "FKPR": "0.07",
+    "FDPR": "0.06",
+    "HS%": "26%",
+    "CL%": "11%",
+    "KDA": 1.33
+  },
+  {
+    "player_handle": "Melser",
+    "agents": [
+      "viper",
+      "cypher",
+      "omen"
+    ],
+    "Rnd": "450",
+    "ACS": "176.2",
+    "KAST": "74%",
+    "ADR": "115.8",
+    "APR": "0.36",
+    "FKPR": "0.06",
+    "FDPR": "0.08",
+    "HS%": "29%",
+    "CL%": "21%",
+    "KDA": 1.53
+  },
+  {
+    "player_handle": "mitch",
+    "agents": [
+      "skye",
+      "fade"
+    ],
+    "Rnd": "152",
+    "ACS": "191.9",
+    "KAST": "77%",
+    "ADR": "125.7",
+    "APR": "0.46",
+    "FKPR": "0.09",
+    "FDPR": "0.10",
+    "HS%": "19%",
+    "CL%": "21%",
+    "KDA": 1.96
+  },
+  {
+    "player_handle": "Xeppaa",
+    "agents": [
+      "killjoy",
+      "vyse"
+    ],
+    "Rnd": "152",
+    "ACS": "215.9",
+    "KAST": "80%",
+    "ADR": "136.7",
+    "APR": "0.27",
+    "FKPR": "0.11",
+    "FDPR": "0.05",
+    "HS%": "22%",
+    "CL%": "7%",
+    "KDA": 1.65
+  },
+  {
+    "player_handle": "v1c",
+    "agents": [
+      "omen",
+      "brimstone"
+    ],
+    "Rnd": "152",
+    "ACS": "203.3",
+    "KAST": "82%",
+    "ADR": "125.1",
+    "APR": "0.42",
+    "FKPR": "0.11",
+    "FDPR": "0.06",
+    "HS%": "30%",
+    "CL%": "18%",
+    "KDA": 1.99
+  },
+  {
+    "player_handle": "neT",
+    "agents": [
+      "viper"
+    ],
+    "Rnd": "152",
+    "ACS": "146.9",
+    "KAST": "70%",
+    "ADR": "97.1",
+    "APR": "0.26",
+    "FKPR": "0.07",
+    "FDPR": "0.09",
+    "HS%": "30%",
+    "CL%": "29%",
+    "KDA": 1.42
+  },
+  {
+    "player_handle": "OXY",
+    "agents": [
+      "jett",
+      "raze",
+      "neon"
+    ],
+    "Rnd": "152",
+    "ACS": "287.5",
+    "KAST": "78%",
+    "ADR": "175.6",
+    "APR": "0.16",
+    "FKPR": "0.22",
+    "FDPR": "0.12",
+    "HS%": "24%",
+    "CL%": "20%",
+    "KDA": 1.82
+  },
+  {
+    "player_handle": "Ethan",
+    "agents": [
+      "fade",
+      "skye",
+      "kayo"
+    ],
+    "Rnd": "300",
+    "ACS": "179.5",
+    "KAST": "76%",
+    "ADR": "114.9",
+    "APR": "0.46",
+    "FKPR": "0.04",
+    "FDPR": "0.08",
+    "HS%": "23%",
+    "CL%": "10%",
+    "KDA": 1.56
+  },
+  {
+    "player_handle": "s0m",
+    "agents": [
+      "omen",
+      "vyse",
+      "killjoy"
+    ],
+    "Rnd": "300",
+    "ACS": "203.2",
+    "KAST": "73%",
+    "ADR": "132.1",
+    "APR": "0.43",
+    "FKPR": "0.09",
+    "FDPR": "0.13",
+    "HS%": "26%",
+    "CL%": "20%",
+    "KDA": 1.69
+  },
+  {
+    "player_handle": "brawk",
+    "agents": [
+      "vyse",
+      "sova",
+      "fade"
+    ],
+    "Rnd": "300",
+    "ACS": "193.0",
+    "KAST": "77%",
+    "ADR": "125.7",
+    "APR": "0.35",
+    "FKPR": "0.06",
+    "FDPR": "0.04",
+    "HS%": "18%",
+    "CL%": "7%",
+    "KDA": 1.64
+  },
+  {
+    "player_handle": "mada",
+    "agents": [
+      "raze",
+      "jett",
+      "neon"
+    ],
+    "Rnd": "300",
+    "ACS": "229.6",
+    "KAST": "67%",
+    "ADR": "146.8",
+    "APR": "0.13",
+    "FKPR": "0.24",
+    "FDPR": "0.20",
+    "HS%": "26%",
+    "CL%": "14%",
+    "KDA": 1.3
+  },
+  {
+    "player_handle": "skuba",
+    "agents": [
+      "viper",
+      "astra",
+      "cypher"
+    ],
+    "Rnd": "300",
+    "ACS": "194.1",
+    "KAST": "74%",
+    "ADR": "130.9",
+    "APR": "0.23",
+    "FKPR": "0.06",
+    "FDPR": "0.06",
+    "HS%": "23%",
+    "CL%": "13%",
+    "KDA": 1.62
+  },
+  {
+    "player_handle": "gobera",
+    "agents": [
+      "breach",
+      "cypher",
+      "chamber"
+    ],
+    "Rnd": "335",
+    "ACS": "165.9",
+    "KAST": "69%",
+    "ADR": "107.7",
+    "APR": "0.33",
+    "FKPR": "0.05",
+    "FDPR": "0.06",
+    "HS%": "27%",
+    "CL%": "23%",
+    "KDA": 1.22
+  },
+  {
+    "player_handle": "lz",
+    "agents": [
+      "omen",
+      "astra",
+      "brimstone"
+    ],
+    "Rnd": "335",
+    "ACS": "166.4",
+    "KAST": "69%",
+    "ADR": "107.0",
+    "APR": "0.39",
+    "FKPR": "0.09",
+    "FDPR": "0.12",
+    "HS%": "40%",
+    "CL%": "13%",
+    "KDA": 1.32
+  },
+  {
+    "player_handle": "spike",
+    "agents": [
+      "neon",
+      "yoru",
+      "breach"
+    ],
+    "Rnd": "335",
+    "ACS": "235.7",
+    "KAST": "67%",
+    "ADR": "154.1",
+    "APR": "0.30",
+    "FKPR": "0.18",
+    "FDPR": "0.17",
+    "HS%": "25%",
+    "CL%": "37%",
+    "KDA": 1.39
+  },
+  {
+    "player_handle": "silentzz",
+    "agents": [
+      "cypher",
+      "iso",
+      "raze"
+    ],
+    "Rnd": "335",
+    "ACS": "202.6",
+    "KAST": "70%",
+    "ADR": "136.5",
+    "APR": "0.16",
+    "FKPR": "0.13",
+    "FDPR": "0.10",
+    "HS%": "37%",
+    "CL%": "14%",
+    "KDA": 1.28
+  },
+  {
+    "player_handle": "pryze",
+    "agents": [
+      "fade",
+      "sova"
+    ],
+    "Rnd": "335",
+    "ACS": "196.1",
+    "KAST": "73%",
+    "ADR": "134.6",
+    "APR": "0.28",
+    "FKPR": "0.06",
+    "FDPR": "0.04",
+    "HS%": "23%",
+    "CL%": "17%",
+    "KDA": 1.45
+  },
+  {
+    "player_handle": "lukxo",
+    "agents": [
+      "viper",
+      "cypher",
+      "omen"
+    ],
+    "Rnd": "168",
+    "ACS": "206.3",
+    "KAST": "69%",
+    "ADR": "136.8",
+    "APR": "0.15",
+    "FKPR": "0.14",
+    "FDPR": "0.07",
+    "HS%": "33%",
+    "CL%": "4%",
+    "KDA": 1.32
+  },
+  {
+    "player_handle": "Virtyy",
+    "agents": [
+      "raze",
+      "jett",
+      "neon"
+    ],
+    "Rnd": "168",
+    "ACS": "221.8",
+    "KAST": "71%",
+    "ADR": "140.8",
+    "APR": "0.20",
+    "FKPR": "0.21",
+    "FDPR": "0.20",
+    "HS%": "23%",
+    "CL%": null,
+    "KDA": 1.38
+  },
+  {
+    "player_handle": "RobbieBk",
+    "agents": [
+      "skye",
+      "sova",
+      "killjoy"
+    ],
+    "Rnd": "168",
+    "ACS": "153.1",
+    "KAST": "61%",
+    "ADR": "106.1",
+    "APR": "0.19",
+    "FKPR": "0.04",
+    "FDPR": "0.07",
+    "HS%": "34%",
+    "CL%": "10%",
+    "KDA": 1.03
+  },
+  {
+    "player_handle": "pANcada",
+    "agents": [
+      "brimstone",
+      "omen",
+      "viper"
+    ],
+    "Rnd": "168",
+    "ACS": "156.5",
+    "KAST": "63%",
+    "ADR": "108.2",
+    "APR": "0.33",
+    "FKPR": "0.04",
+    "FDPR": "0.06",
+    "HS%": "40%",
+    "CL%": "11%",
+    "KDA": 1.2
+  },
+  {
+    "player_handle": "cauanzin",
+    "agents": [
+      "gekko",
+      "kayo",
+      "sova"
+    ],
+    "Rnd": "168",
+    "ACS": "176.8",
+    "KAST": "65%",
+    "ADR": "116.9",
+    "APR": "0.26",
+    "FKPR": "0.09",
+    "FDPR": "0.09",
+    "HS%": "25%",
+    "CL%": "17%",
+    "KDA": 1.16
+  },
+  {
+    "player_handle": "heat",
+    "agents": [
+      "viper",
+      "cypher"
+    ],
+    "Rnd": "233",
+    "ACS": "190.0",
+    "KAST": "69%",
+    "ADR": "127.9",
+    "APR": "0.22",
+    "FKPR": "0.06",
+    "FDPR": "0.08",
+    "HS%": "33%",
+    "CL%": "8%",
+    "KDA": 1.18
+  },
+  {
+    "player_handle": "basic",
+    "agents": [
+      "sova",
+      "deadlock",
+      "breach"
+    ],
+    "Rnd": "111",
+    "ACS": "142.6",
+    "KAST": "64%",
+    "ADR": "97.9",
+    "APR": "0.24",
+    "FKPR": "0.01",
+    "FDPR": "0.08",
+    "HS%": "28%",
+    "CL%": "40%",
+    "KDA": 1.12
+  },
+  {
+    "player_handle": "Palla",
+    "agents": [
+      "jett",
+      "neon",
+      "raze"
+    ],
+    "Rnd": "233",
+    "ACS": "206.3",
+    "KAST": "61%",
+    "ADR": "133.3",
+    "APR": "0.15",
+    "FKPR": "0.18",
+    "FDPR": "0.23",
+    "HS%": "28%",
+    "CL%": null,
+    "KDA": 0.99
+  },
+  {
+    "player_handle": "Urango",
+    "agents": [
+      "killjoy",
+      "sova",
+      "skye"
+    ],
+    "Rnd": "233",
+    "ACS": "151.9",
+    "KAST": "64%",
+    "ADR": "102.8",
+    "APR": "0.21",
+    "FKPR": "0.04",
+    "FDPR": "0.15",
+    "HS%": "29%",
+    "CL%": "19%",
+    "KDA": 0.94
+  },
+  {
+    "player_handle": "tuyz",
+    "agents": [
+      "harbor",
+      "omen",
+      "brimstone"
+    ],
+    "Rnd": "233",
+    "ACS": "159.7",
+    "KAST": "70%",
+    "ADR": "108.4",
+    "APR": "0.37",
+    "FKPR": "0.06",
+    "FDPR": "0.08",
+    "HS%": "32%",
+    "CL%": "21%",
+    "KDA": 1.29
+  },
+  {
+    "player_handle": "kiNgg",
+    "agents": [
+      "viper",
+      "omen",
+      "vyse"
+    ],
+    "Rnd": "463",
+    "ACS": "199.7",
+    "KAST": "77%",
+    "ADR": "129.9",
+    "APR": "0.32",
+    "FKPR": "0.07",
+    "FDPR": "0.07",
+    "HS%": "28%",
+    "CL%": "18%",
+    "KDA": 1.69
+  },
+  {
+    "player_handle": "tex",
+    "agents": [
+      "chamber",
+      "killjoy",
+      "cypher"
+    ],
+    "Rnd": "463",
+    "ACS": "181.3",
+    "KAST": "69%",
+    "ADR": "118.9",
+    "APR": "0.14",
+    "FKPR": "0.11",
+    "FDPR": "0.11",
+    "HS%": "32%",
+    "CL%": "15%",
+    "KDA": 1.19
+  },
+  {
+    "player_handle": "Okeanos",
+    "agents": [
+      "omen",
+      "kayo",
+      "iso"
+    ],
+    "Rnd": "463",
+    "ACS": "191.4",
+    "KAST": "76%",
+    "ADR": "124.7",
+    "APR": "0.38",
+    "FKPR": "0.10",
+    "FDPR": "0.08",
+    "HS%": "33%",
+    "CL%": "17%",
+    "KDA": 1.56
+  },
+  {
+    "player_handle": "Sato",
+    "agents": [
+      "raze",
+      "reyna",
+      "yoru"
+    ],
+    "Rnd": "463",
+    "ACS": "237.9",
+    "KAST": "70%",
+    "ADR": "155.4",
+    "APR": "0.19",
+    "FKPR": "0.17",
+    "FDPR": "0.16",
+    "HS%": "31%",
+    "CL%": "19%",
+    "KDA": 1.44
+  },
+  {
+    "player_handle": "C0M",
+    "agents": [
+      "fade",
+      "gekko",
+      "sova"
+    ],
+    "Rnd": "463",
+    "ACS": "183.3",
+    "KAST": "73%",
+    "ADR": "126.6",
+    "APR": "0.32",
+    "FKPR": "0.06",
+    "FDPR": "0.07",
+    "HS%": "25%",
+    "CL%": "15%",
+    "KDA": 1.52
+  },
+  {
+    "player_handle": "Boo",
+    "agents": [
+      "omen",
+      "viper",
+      "brimstone"
+    ],
+    "Rnd": "554",
+    "ACS": "164.7",
+    "KAST": "75%",
+    "ADR": "100.2",
+    "APR": "0.42",
+    "FKPR": "0.08",
+    "FDPR": "0.08",
+    "HS%": "32%",
+    "CL%": "17%",
+    "KDA": 1.61
+  },
+  {
+    "player_handle": "MiniBoo",
+    "agents": [
+      "neon",
+      "omen",
+      "yoru"
+    ],
+    "Rnd": "554",
+    "ACS": "205.3",
+    "KAST": "71%",
+    "ADR": "134.5",
+    "APR": "0.18",
+    "FKPR": "0.15",
+    "FDPR": "0.18",
+    "HS%": "31%",
+    "CL%": "17%",
+    "KDA": 1.29
+  },
+  {
+    "player_handle": "Wo0t",
+    "agents": [
+      "fade",
+      "kayo",
+      "iso"
+    ],
+    "Rnd": "554",
+    "ACS": "243.7",
+    "KAST": "73%",
+    "ADR": "153.1",
+    "APR": "0.32",
+    "FKPR": "0.14",
+    "FDPR": "0.09",
+    "HS%": "36%",
+    "CL%": "27%",
+    "KDA": 1.71
+  },
+  {
+    "player_handle": "RieNs",
+    "agents": [
+      "breach",
+      "sova",
+      "fade"
+    ],
+    "Rnd": "554",
+    "ACS": "223.0",
+    "KAST": "75%",
+    "ADR": "145.3",
+    "APR": "0.31",
+    "FKPR": "0.08",
+    "FDPR": "0.04",
+    "HS%": "36%",
+    "CL%": "22%",
+    "KDA": 1.63
+  },
+  {
+    "player_handle": "benjyfishy",
+    "agents": [
+      "viper",
+      "killjoy",
+      "cypher"
+    ],
+    "Rnd": "554",
+    "ACS": "179.5",
+    "KAST": "69%",
+    "ADR": "112.1",
+    "APR": "0.22",
+    "FKPR": "0.07",
+    "FDPR": "0.09",
+    "HS%": "31%",
+    "CL%": "14%",
+    "KDA": 1.25
+  },
+  {
+    "player_handle": "Boaster",
+    "agents": [
+      "omen",
+      "astra",
+      "viper"
+    ],
+    "Rnd": "924",
+    "ACS": "147.2",
+    "KAST": "71%",
+    "ADR": "97.8",
+    "APR": "0.37",
+    "FKPR": "0.06",
+    "FDPR": "0.07",
+    "HS%": "25%",
+    "CL%": "13%",
+    "KDA": 1.36
+  },
+  {
+    "player_handle": "crashies",
+    "agents": [
+      "sova",
+      "fade"
+    ],
+    "Rnd": "924",
+    "ACS": "190.7",
+    "KAST": "74%",
+    "ADR": "132.5",
+    "APR": "0.29",
+    "FKPR": "0.05",
+    "FDPR": "0.04",
+    "HS%": "34%",
+    "CL%": "12%",
+    "KDA": 1.57
+  },
+  {
+    "player_handle": "kaajak",
+    "agents": [
+      "yoru",
+      "neon",
+      "raze"
+    ],
+    "Rnd": "924",
+    "ACS": "225.9",
+    "KAST": "71%",
+    "ADR": "147.2",
+    "APR": "0.16",
+    "FKPR": "0.18",
+    "FDPR": "0.14",
+    "HS%": "36%",
+    "CL%": "27%",
+    "KDA": 1.4
+  },
+  {
+    "player_handle": "Chronicle",
+    "agents": [
+      "cypher",
+      "viper",
+      "vyse"
+    ],
+    "Rnd": "924",
+    "ACS": "212.2",
+    "KAST": "73%",
+    "ADR": "142.5",
+    "APR": "0.29",
+    "FKPR": "0.09",
+    "FDPR": "0.07",
+    "HS%": "25%",
+    "CL%": "10%",
+    "KDA": 1.61
+  },
+  {
+    "player_handle": "Alfajer",
+    "agents": [
+      "iso",
+      "raze",
+      "cypher"
+    ],
+    "Rnd": "924",
+    "ACS": "238.4",
+    "KAST": "71%",
+    "ADR": "157.0",
+    "APR": "0.14",
+    "FKPR": "0.17",
+    "FDPR": "0.13",
+    "HS%": "33%",
+    "CL%": "18%",
+    "KDA": 1.4
+  },
+  {
+    "player_handle": "Cloud",
+    "agents": [
+      "sova",
+      "gekko",
+      "fade"
+    ],
+    "Rnd": "240",
+    "ACS": "179.5",
+    "KAST": "70%",
+    "ADR": "122.4",
+    "APR": "0.25",
+    "FKPR": "0.07",
+    "FDPR": "0.07",
+    "HS%": "34%",
+    "CL%": "14%",
+    "KDA": 1.23
+  },
+  {
+    "player_handle": "grubinho",
+    "agents": [
+      "omen",
+      "astra",
+      "viper"
+    ],
+    "Rnd": "240",
+    "ACS": "207.4",
+    "KAST": "70%",
+    "ADR": "135.1",
+    "APR": "0.45",
+    "FKPR": "0.10",
+    "FDPR": "0.10",
+    "HS%": "27%",
+    "CL%": "27%",
+    "KDA": 1.66
+  },
+  {
+    "player_handle": "westside",
+    "agents": [
+      "cypher",
+      "deadlock",
+      "killjoy"
+    ],
+    "Rnd": "240",
+    "ACS": "192.5",
+    "KAST": "68%",
+    "ADR": "129.1",
+    "APR": "0.16",
+    "FKPR": "0.10",
+    "FDPR": "0.07",
+    "HS%": "44%",
+    "CL%": "20%",
+    "KDA": 1.24
+  },
+  {
+    "player_handle": "Flickless",
+    "agents": [
+      "breach",
+      "viper",
+      "kayo"
+    ],
+    "Rnd": "240",
+    "ACS": "191.6",
+    "KAST": "72%",
+    "ADR": "122.3",
+    "APR": "0.43",
+    "FKPR": "0.10",
+    "FDPR": "0.11",
+    "HS%": "24%",
+    "CL%": "17%",
+    "KDA": 1.49
+  },
+  {
+    "player_handle": "ara",
+    "agents": [
+      "neon",
+      "raze",
+      "jett"
+    ],
+    "Rnd": "240",
+    "ACS": "206.2",
+    "KAST": "71%",
+    "ADR": "133.3",
+    "APR": "0.13",
+    "FKPR": "0.15",
+    "FDPR": "0.14",
+    "HS%": "26%",
+    "CL%": "12%",
+    "KDA": 1.25
+  },
+  {
+    "player_handle": "MrFaliN",
+    "agents": [
+      "fade",
+      "omen",
+      "sova"
+    ],
+    "Rnd": "201",
+    "ACS": "159.2",
+    "KAST": "64%",
+    "ADR": "107.7",
+    "APR": "0.39",
+    "FKPR": "0.07",
+    "FDPR": "0.09",
+    "HS%": "22%",
+    "CL%": "12%",
+    "KDA": 1.28
+  },
+  {
+    "player_handle": "xeus",
+    "agents": [
+      "raze",
+      "neon"
+    ],
+    "Rnd": "201",
+    "ACS": "212.3",
+    "KAST": "70%",
+    "ADR": "133.5",
+    "APR": "0.23",
+    "FKPR": "0.14",
+    "FDPR": "0.17",
+    "HS%": "29%",
+    "CL%": null,
+    "KDA": 1.2
+  },
+  {
+    "player_handle": "yetujey",
+    "agents": [
+      "viper",
+      "cypher"
+    ],
+    "Rnd": "201",
+    "ACS": "204.4",
+    "KAST": "70%",
+    "ADR": "140.1",
+    "APR": "0.19",
+    "FKPR": "0.10",
+    "FDPR": "0.09",
+    "HS%": "27%",
+    "CL%": "19%",
+    "KDA": 1.35
+  },
+  {
+    "player_handle": "cNed",
+    "agents": [
+      "omen",
+      "yoru"
+    ],
+    "Rnd": "201",
+    "ACS": "226.7",
+    "KAST": "70%",
+    "ADR": "145.9",
+    "APR": "0.29",
+    "FKPR": "0.12",
+    "FDPR": "0.11",
+    "HS%": "33%",
+    "CL%": "11%",
+    "KDA": 1.5
+  },
+  {
+    "player_handle": "qRaxs",
+    "agents": [
+      "kayo",
+      "fade",
+      "breach"
+    ],
+    "Rnd": "201",
+    "ACS": "187.4",
+    "KAST": "75%",
+    "ADR": "117.2",
+    "APR": "0.53",
+    "FKPR": "0.05",
+    "FDPR": "0.05",
+    "HS%": "36%",
+    "CL%": "17%",
+    "KDA": 1.53
+  },
+  {
+    "player_handle": "Jamppi",
+    "agents": [
+      "sova",
+      "breach",
+      "fade"
+    ],
+    "Rnd": "346",
+    "ACS": "194.7",
+    "KAST": "73%",
+    "ADR": "126.4",
+    "APR": "0.28",
+    "FKPR": "0.07",
+    "FDPR": "0.08",
+    "HS%": "26%",
+    "CL%": "10%",
+    "KDA": 1.42
+  },
+  {
+    "player_handle": "sociablEE",
+    "agents": [
+      "omen",
+      "deadlock",
+      "chamber"
+    ],
+    "Rnd": "346",
+    "ACS": "196.6",
+    "KAST": "68%",
+    "ADR": "129.8",
+    "APR": "0.22",
+    "FKPR": "0.10",
+    "FDPR": "0.10",
+    "HS%": "29%",
+    "CL%": "13%",
+    "KDA": 1.26
+  },
+  {
+    "player_handle": "PROFEK",
+    "agents": [
+      "viper",
+      "omen",
+      "astra"
+    ],
+    "Rnd": "346",
+    "ACS": "187.3",
+    "KAST": "72%",
+    "ADR": "128.7",
+    "APR": "0.34",
+    "FKPR": "0.07",
+    "FDPR": "0.06",
+    "HS%": "27%",
+    "CL%": "18%",
+    "KDA": 1.54
+  },
+  {
+    "player_handle": "LewN",
+    "agents": [
+      "jett",
+      "neon",
+      "yoru"
+    ],
+    "Rnd": "346",
+    "ACS": "230.4",
+    "KAST": "68%",
+    "ADR": "149.3",
+    "APR": "0.12",
+    "FKPR": "0.19",
+    "FDPR": "0.16",
+    "HS%": "32%",
+    "CL%": "14%",
+    "KDA": 1.3
+  },
+  {
+    "player_handle": "MAGNUM",
+    "agents": [
+      "killjoy",
+      "viper",
+      "vyse"
+    ],
+    "Rnd": "346",
+    "ACS": "202.9",
+    "KAST": "72%",
+    "ADR": "130.7",
+    "APR": "0.28",
+    "FKPR": "0.08",
+    "FDPR": "0.09",
+    "HS%": "29%",
+    "CL%": "21%",
+    "KDA": 1.45
+  },
+  {
+    "player_handle": "UNFAKE",
+    "agents": [
+      "sova",
+      "gekko",
+      "fade"
+    ],
+    "Rnd": "193",
+    "ACS": "168.1",
+    "KAST": "68%",
+    "ADR": "111.3",
+    "APR": "0.25",
+    "FKPR": "0.06",
+    "FDPR": "0.08",
+    "HS%": "40%",
+    "CL%": "25%",
+    "KDA": 1.17
+  },
+  {
+    "player_handle": "Derke",
+    "agents": [
+      "neon",
+      "raze",
+      "yoru"
+    ],
+    "Rnd": "193",
+    "ACS": "250.6",
+    "KAST": "72%",
+    "ADR": "164.8",
+    "APR": "0.18",
+    "FKPR": "0.16",
+    "FDPR": "0.17",
+    "HS%": "24%",
+    "CL%": "27%",
+    "KDA": 1.44
+  },
+  {
+    "player_handle": "Kicks",
+    "agents": [
+      "omen",
+      "skye",
+      "harbor"
+    ],
+    "Rnd": "193",
+    "ACS": "155.2",
+    "KAST": "70%",
+    "ADR": "99.4",
+    "APR": "0.42",
+    "FKPR": "0.05",
+    "FDPR": "0.06",
+    "HS%": "29%",
+    "CL%": "15%",
+    "KDA": 1.36
+  },
+  {
+    "player_handle": "KovaQ",
+    "agents": [
+      "cypher",
+      "sova",
+      "breach"
+    ],
+    "Rnd": "235",
+    "ACS": "197.7",
+    "KAST": "69%",
+    "ADR": "123.0",
+    "APR": "0.20",
+    "FKPR": "0.13",
+    "FDPR": "0.10",
+    "HS%": "35%",
+    "CL%": "6%",
+    "KDA": 1.22
+  },
+  {
+    "player_handle": "Less",
+    "agents": [
+      "cypher",
+      "viper"
+    ],
+    "Rnd": "193",
+    "ACS": "224.3",
+    "KAST": "78%",
+    "ADR": "146.9",
+    "APR": "0.23",
+    "FKPR": "0.09",
+    "FDPR": "0.08",
+    "HS%": "32%",
+    "CL%": "20%",
+    "KDA": 1.64
+  },
+  {
+    "player_handle": "Proxh",
+    "agents": [
+      "omen",
+      "viper",
+      "astra"
+    ],
+    "Rnd": "394",
+    "ACS": "188.9",
+    "KAST": "75%",
+    "ADR": "123.0",
+    "APR": "0.39",
+    "FKPR": "0.06",
+    "FDPR": "0.08",
+    "HS%": "24%",
+    "CL%": "19%",
+    "KDA": 1.56
+  },
+  {
+    "player_handle": "Veqaj",
+    "agents": [
+      "yoru",
+      "sova",
+      "fade"
+    ],
+    "Rnd": "394",
+    "ACS": "192.4",
+    "KAST": "73%",
+    "ADR": "134.9",
+    "APR": "0.30",
+    "FKPR": "0.06",
+    "FDPR": "0.09",
+    "HS%": "28%",
+    "CL%": "4%",
+    "KDA": 1.41
+  },
+  {
+    "player_handle": "ComeBack",
+    "agents": [
+      "chamber",
+      "neon",
+      "jett"
+    ],
+    "Rnd": "394",
+    "ACS": "226.6",
+    "KAST": "66%",
+    "ADR": "145.4",
+    "APR": "0.16",
+    "FKPR": "0.15",
+    "FDPR": "0.17",
+    "HS%": "32%",
+    "CL%": "12%",
+    "KDA": 1.39
+  },
+  {
+    "player_handle": "Minny",
+    "agents": [
+      "viper",
+      "killjoy",
+      "cypher"
+    ],
+    "Rnd": "394",
+    "ACS": "201.4",
+    "KAST": "71%",
+    "ADR": "135.8",
+    "APR": "0.20",
+    "FKPR": "0.09",
+    "FDPR": "0.11",
+    "HS%": "37%",
+    "CL%": "24%",
+    "KDA": 1.36
+  },
+  {
+    "player_handle": "kamyk",
+    "agents": [
+      "fade",
+      "viper",
+      "harbor"
+    ],
+    "Rnd": "394",
+    "ACS": "190.7",
+    "KAST": "74%",
+    "ADR": "123.5",
+    "APR": "0.32",
+    "FKPR": "0.10",
+    "FDPR": "0.09",
+    "HS%": "30%",
+    "CL%": "7%",
+    "KDA": 1.4
+  },
+  {
+    "player_handle": "nAts",
+    "agents": [
+      "viper",
+      "cypher",
+      "vyse"
+    ],
+    "Rnd": "279",
+    "ACS": "213.7",
+    "KAST": "77%",
+    "ADR": "140.6",
+    "APR": "0.27",
+    "FKPR": "0.09",
+    "FDPR": "0.07",
+    "HS%": "27%",
+    "CL%": "9%",
+    "KDA": 1.48
+  },
+  {
+    "player_handle": "paTiTek",
+    "agents": [
+      "fade",
+      "sova",
+      "skye"
+    ],
+    "Rnd": "279",
+    "ACS": "178.3",
+    "KAST": "78%",
+    "ADR": "115.0",
+    "APR": "0.30",
+    "FKPR": "0.10",
+    "FDPR": "0.09",
+    "HS%": "24%",
+    "CL%": "25%",
+    "KDA": 1.48
+  },
+  {
+    "player_handle": "trexx",
+    "agents": [
+      "gekko",
+      "kayo",
+      "fade"
+    ],
+    "Rnd": "207",
+    "ACS": "207.1",
+    "KAST": "76%",
+    "ADR": "134.0",
+    "APR": "0.42",
+    "FKPR": "0.07",
+    "FDPR": "0.06",
+    "HS%": "18%",
+    "CL%": "24%",
+    "KDA": 1.75
+  },
+  {
+    "player_handle": "Keiko",
+    "agents": [
+      "raze",
+      "omen",
+      "brimstone"
+    ],
+    "Rnd": "279",
+    "ACS": "242.5",
+    "KAST": "77%",
+    "ADR": "150.3",
+    "APR": "0.24",
+    "FKPR": "0.10",
+    "FDPR": "0.05",
+    "HS%": "36%",
+    "CL%": "24%",
+    "KDA": 1.78
+  },
+  {
+    "player_handle": "kamo",
+    "agents": [
+      "yoru",
+      "neon",
+      "waylay"
+    ],
+    "Rnd": "279",
+    "ACS": "232.7",
+    "KAST": "73%",
+    "ADR": "154.1",
+    "APR": "0.18",
+    "FKPR": "0.18",
+    "FDPR": "0.18",
+    "HS%": "30%",
+    "CL%": "20%",
+    "KDA": 1.38
+  },
+  {
+    "player_handle": "saadhak",
+    "agents": [
+      "sova",
+      "fade",
+      "kayo"
+    ],
+    "Rnd": "406",
+    "ACS": "167.3",
+    "KAST": "68%",
+    "ADR": "112.0",
+    "APR": "0.35",
+    "FKPR": "0.05",
+    "FDPR": "0.08",
+    "HS%": "31%",
+    "CL%": "19%",
+    "KDA": 1.31
+  },
+  {
+    "player_handle": "Avez",
+    "agents": [
+      "phoenix",
+      "raze",
+      "sova"
+    ],
+    "Rnd": "406",
+    "ACS": "237.8",
+    "KAST": "71%",
+    "ADR": "157.1",
+    "APR": "0.22",
+    "FKPR": "0.12",
+    "FDPR": "0.11",
+    "HS%": "32%",
+    "CL%": "28%",
+    "KDA": 1.55
+  },
+  {
+    "player_handle": "Elite",
+    "agents": [
+      "cypher",
+      "killjoy",
+      "astra"
+    ],
+    "Rnd": "406",
+    "ACS": "189.4",
+    "KAST": "69%",
+    "ADR": "125.3",
+    "APR": "0.17",
+    "FKPR": "0.08",
+    "FDPR": "0.08",
+    "HS%": "41%",
+    "CL%": "15%",
+    "KDA": 1.23
+  },
+  {
+    "player_handle": "SUYGETSU",
+    "agents": [
+      "omen",
+      "viper",
+      "astra"
+    ],
+    "Rnd": "406",
+    "ACS": "202.8",
+    "KAST": "72%",
+    "ADR": "132.8",
+    "APR": "0.30",
+    "FKPR": "0.11",
+    "FDPR": "0.09",
+    "HS%": "42%",
+    "CL%": "20%",
+    "KDA": 1.5
+  },
+  {
+    "player_handle": "marteen",
+    "agents": [
+      "yoru",
+      "omen",
+      "waylay"
+    ],
+    "Rnd": "406",
+    "ACS": "193.1",
+    "KAST": "72%",
+    "ADR": "126.1",
+    "APR": "0.27",
+    "FKPR": "0.12",
+    "FDPR": "0.17",
+    "HS%": "32%",
+    "CL%": "10%",
+    "KDA": 1.31
+  },
+  {
+    "player_handle": "ANGE1",
+    "agents": [
+      "kayo",
+      "sova",
+      "fade"
+    ],
+    "Rnd": "329",
+    "ACS": "154.2",
+    "KAST": "68%",
+    "ADR": "103.3",
+    "APR": "0.38",
+    "FKPR": "0.08",
+    "FDPR": "0.08",
+    "HS%": "30%",
+    "CL%": "5%",
+    "KDA": 1.24
+  },
+  {
+    "player_handle": "Shao",
+    "agents": [
+      "sova",
+      "sage",
+      "vyse"
+    ],
+    "Rnd": "329",
+    "ACS": "160.8",
+    "KAST": "70%",
+    "ADR": "110.4",
+    "APR": "0.24",
+    "FKPR": "0.05",
+    "FDPR": "0.05",
+    "HS%": "31%",
+    "CL%": "29%",
+    "KDA": 1.29
+  },
+  {
+    "player_handle": "alexiiik",
+    "agents": [
+      "neon",
+      "jett",
+      "yoru"
+    ],
+    "Rnd": "329",
+    "ACS": "212.6",
+    "KAST": "67%",
+    "ADR": "134.0",
+    "APR": "0.12",
+    "FKPR": "0.19",
+    "FDPR": "0.19",
+    "HS%": "30%",
+    "CL%": "5%",
+    "KDA": 1.19
+  },
+  {
+    "player_handle": "Ruxic",
+    "agents": [
+      "omen",
+      "viper"
+    ],
+    "Rnd": "329",
+    "ACS": "237.8",
+    "KAST": "70%",
+    "ADR": "156.7",
+    "APR": "0.26",
+    "FKPR": "0.11",
+    "FDPR": "0.05",
+    "HS%": "30%",
+    "CL%": "14%",
+    "KDA": 1.66
+  },
+  {
+    "player_handle": "hiro",
+    "agents": [
+      "cypher",
+      "killjoy",
+      "raze"
+    ],
+    "Rnd": "329",
+    "ACS": "221.8",
+    "KAST": "68%",
+    "ADR": "149.4",
+    "APR": "0.19",
+    "FKPR": "0.10",
+    "FDPR": "0.11",
+    "HS%": "33%",
+    "CL%": "7%",
+    "KDA": 1.41
+  },
+  {
+    "player_handle": "MOLSI",
+    "agents": [
+      "sova",
+      "kayo",
+      "fade"
+    ],
+    "Rnd": "249",
+    "ACS": "194.6",
+    "KAST": "71%",
+    "ADR": "134.0",
+    "APR": "0.40",
+    "FKPR": "0.06",
+    "FDPR": "0.04",
+    "HS%": "29%",
+    "CL%": "5%",
+    "KDA": 1.44
+  },
+  {
+    "player_handle": "penny",
+    "agents": [
+      "raze",
+      "jett",
+      "neon"
+    ],
+    "Rnd": "275",
+    "ACS": "209.1",
+    "KAST": "69%",
+    "ADR": "138.9",
+    "APR": "0.19",
+    "FKPR": "0.14",
+    "FDPR": "0.17",
+    "HS%": "21%",
+    "CL%": "15%",
+    "KDA": 1.3
+  },
+  {
+    "player_handle": "OLIZERA",
+    "agents": [
+      "killjoy",
+      "viper",
+      "vyse"
+    ],
+    "Rnd": "249",
+    "ACS": "197.5",
+    "KAST": "71%",
+    "ADR": "128.8",
+    "APR": "0.21",
+    "FKPR": "0.11",
+    "FDPR": "0.10",
+    "HS%": "27%",
+    "CL%": "10%",
+    "KDA": 1.25
+  },
+  {
+    "player_handle": "AvovA",
+    "agents": [
+      "viper",
+      "omen"
+    ],
+    "Rnd": "249",
+    "ACS": "143.0",
+    "KAST": "66%",
+    "ADR": "96.3",
+    "APR": "0.34",
+    "FKPR": "0.05",
+    "FDPR": "0.06",
+    "HS%": "29%",
+    "CL%": "16%",
+    "KDA": 1.17
+  },
+  {
+    "player_handle": "batujnax",
+    "agents": [
+      "omen",
+      "deadlock",
+      "sova"
+    ],
+    "Rnd": "249",
+    "ACS": "179.8",
+    "KAST": "71%",
+    "ADR": "117.8",
+    "APR": "0.26",
+    "FKPR": "0.09",
+    "FDPR": "0.15",
+    "HS%": "28%",
+    "CL%": null,
+    "KDA": 1.19
+  },
+  {
+    "player_handle": "flyuh",
+    "agents": [
+      "fade",
+      "sova",
+      "kayo"
+    ],
+    "Rnd": "219",
+    "ACS": "188.7",
+    "KAST": "69%",
+    "ADR": "128.1",
+    "APR": "0.28",
+    "FKPR": "0.06",
+    "FDPR": "0.07",
+    "HS%": "25%",
+    "CL%": "16%",
+    "KDA": 1.28
+  },
+  {
+    "player_handle": "nataNk",
+    "agents": [
+      "gekko",
+      "killjoy",
+      "vyse"
+    ],
+    "Rnd": "219",
+    "ACS": "184.3",
+    "KAST": "66%",
+    "ADR": "124.6",
+    "APR": "0.21",
+    "FKPR": "0.11",
+    "FDPR": "0.15",
+    "HS%": "29%",
+    "CL%": "14%",
+    "KDA": 1.23
+  },
+  {
+    "player_handle": "baddyG",
+    "agents": [
+      "brimstone",
+      "omen"
+    ],
+    "Rnd": "219",
+    "ACS": "174.5",
+    "KAST": "73%",
+    "ADR": "110.3",
+    "APR": "0.37",
+    "FKPR": "0.07",
+    "FDPR": "0.07",
+    "HS%": "21%",
+    "CL%": "11%",
+    "KDA": 1.35
+  },
+  {
+    "player_handle": "MONSTEERR",
+    "agents": [
+      "viper",
+      "killjoy",
+      "cypher"
+    ],
+    "Rnd": "219",
+    "ACS": "189.4",
+    "KAST": "67%",
+    "ADR": "126.9",
+    "APR": "0.18",
+    "FKPR": "0.07",
+    "FDPR": "0.08",
+    "HS%": "27%",
+    "CL%": "15%",
+    "KDA": 1.2
+  },
+  {
+    "player_handle": "Filu",
+    "agents": [
+      "raze",
+      "sage",
+      "waylay"
+    ],
+    "Rnd": "219",
+    "ACS": "209.7",
+    "KAST": "69%",
+    "ADR": "137.7",
+    "APR": "0.21",
+    "FKPR": "0.17",
+    "FDPR": "0.14",
+    "HS%": "26%",
+    "CL%": "6%",
+    "KDA": 1.16
+  },
+  {
+    "player_handle": "Munchkin",
+    "agents": [
+      "viper",
+      "kayo"
+    ],
+    "Rnd": "682",
+    "ACS": "209.8",
+    "KAST": "71%",
+    "ADR": "136.5",
+    "APR": "0.33",
+    "FKPR": "0.12",
+    "FDPR": "0.10",
+    "HS%": "24%",
+    "CL%": "5%",
+    "KDA": 1.51
+  },
+  {
+    "player_handle": "Foxy9",
+    "agents": [
+      "killjoy",
+      "deadlock",
+      "vyse"
+    ],
+    "Rnd": "682",
+    "ACS": "196.8",
+    "KAST": "71%",
+    "ADR": "126.0",
+    "APR": "0.15",
+    "FKPR": "0.10",
+    "FDPR": "0.08",
+    "HS%": "33%",
+    "CL%": "10%",
+    "KDA": 1.32
+  },
+  {
+    "player_handle": "Ash",
+    "agents": [
+      "sova",
+      "tejo",
+      "fade"
+    ],
+    "Rnd": "682",
+    "ACS": "175.2",
+    "KAST": "73%",
+    "ADR": "119.8",
+    "APR": "0.23",
+    "FKPR": "0.05",
+    "FDPR": "0.04",
+    "HS%": "33%",
+    "CL%": "18%",
+    "KDA": 1.44
+  },
+  {
+    "player_handle": "t3xture",
+    "agents": [
+      "neon",
+      "raze",
+      "jett"
+    ],
+    "Rnd": "682",
+    "ACS": "230.4",
+    "KAST": "70%",
+    "ADR": "146.6",
+    "APR": "0.18",
+    "FKPR": "0.18",
+    "FDPR": "0.16",
+    "HS%": "26%",
+    "CL%": "24%",
+    "KDA": 1.42
+  },
+  {
+    "player_handle": "Lakia",
+    "agents": null,
+    "Rnd": null,
+    "ACS": null,
+    "KAST": null,
+    "ADR": null,
+    "APR": null,
+    "FKPR": null,
+    "FDPR": null,
+    "HS%": null,
+    "CL%": null,
+    "KDA": null
+  },
+  {
+    "player_handle": "Karon",
+    "agents": [
+      "omen"
+    ],
+    "Rnd": "682",
+    "ACS": "192.2",
+    "KAST": "77%",
+    "ADR": "121.8",
+    "APR": "0.41",
+    "FKPR": "0.10",
+    "FDPR": "0.08",
+    "HS%": "29%",
+    "CL%": "17%",
+    "KDA": 1.63
+  },
+  {
+    "player_handle": "MaKo",
+    "agents": [
+      "omen",
+      "viper",
+      "brimstone"
+    ],
+    "Rnd": "326",
+    "ACS": "200.7",
+    "KAST": "71%",
+    "ADR": "130.2",
+    "APR": "0.37",
+    "FKPR": "0.08",
+    "FDPR": "0.12",
+    "HS%": "25%",
+    "CL%": "9%",
+    "KDA": 1.59
+  },
+  {
+    "player_handle": "Flicker",
+    "agents": [
+      "viper",
+      "sova",
+      "yoru"
+    ],
+    "Rnd": "101",
+    "ACS": "164.0",
+    "KAST": "68%",
+    "ADR": "107.3",
+    "APR": "0.25",
+    "FKPR": "0.09",
+    "FDPR": "0.14",
+    "HS%": "29%",
+    "CL%": "9%",
+    "KDA": 1.18
+  },
+  {
+    "player_handle": "Flashback",
+    "agents": [
+      "cypher",
+      "killjoy",
+      "viper"
+    ],
+    "Rnd": "225",
+    "ACS": "200.3",
+    "KAST": "74%",
+    "ADR": "134.6",
+    "APR": "0.19",
+    "FKPR": "0.09",
+    "FDPR": "0.08",
+    "HS%": "31%",
+    "CL%": "9%",
+    "KDA": 1.55
+  },
+  {
+    "player_handle": "free1ng",
+    "agents": [
+      "sova",
+      "deadlock",
+      "fade"
+    ],
+    "Rnd": "326",
+    "ACS": "190.1",
+    "KAST": "72%",
+    "ADR": "123.7",
+    "APR": "0.29",
+    "FKPR": "0.08",
+    "FDPR": "0.09",
+    "HS%": "34%",
+    "CL%": "17%",
+    "KDA": 1.39
+  },
+  {
+    "player_handle": "HYUNMIN",
+    "agents": [
+      "neon",
+      "jett",
+      "waylay"
+    ],
+    "Rnd": "326",
+    "ACS": "246.5",
+    "KAST": "72%",
+    "ADR": "156.9",
+    "APR": "0.20",
+    "FKPR": "0.17",
+    "FDPR": "0.13",
+    "HS%": "30%",
+    "CL%": "12%",
+    "KDA": 1.43
+  },
+  {
+    "player_handle": "Estrella",
+    "agents": [
+      "viper",
+      "sage",
+      "gekko"
+    ],
+    "Rnd": "225",
+    "ACS": "158.1",
+    "KAST": "73%",
+    "ADR": "101.5",
+    "APR": "0.39",
+    "FKPR": "0.06",
+    "FDPR": "0.11",
+    "HS%": "26%",
+    "CL%": "25%",
+    "KDA": 1.4
+  },
+  {
+    "player_handle": "BeYN",
+    "agents": [
+      "cypher",
+      "vyse"
+    ],
+    "Rnd": "101",
+    "ACS": "150.4",
+    "KAST": "62%",
+    "ADR": "105.3",
+    "APR": "0.19",
+    "FKPR": "0.05",
+    "FDPR": "0.04",
+    "HS%": "24%",
+    "CL%": "5%",
+    "KDA": 1.03
+  },
+  {
+    "player_handle": "crazyguy",
+    "agents": [
+      "kayo",
+      "omen",
+      "fade"
+    ],
+    "Rnd": "472",
+    "ACS": "165.3",
+    "KAST": "71%",
+    "ADR": "106.6",
+    "APR": "0.34",
+    "FKPR": "0.08",
+    "FDPR": "0.08",
+    "HS%": "27%",
+    "CL%": "6%",
+    "KDA": 1.3
+  },
+  {
+    "player_handle": "Monyet",
+    "agents": [
+      "omen",
+      "viper",
+      "neon"
+    ],
+    "Rnd": "472",
+    "ACS": "208.8",
+    "KAST": "71%",
+    "ADR": "133.8",
+    "APR": "0.34",
+    "FKPR": "0.10",
+    "FDPR": "0.14",
+    "HS%": "26%",
+    "CL%": "15%",
+    "KDA": 1.45
+  },
+  {
+    "player_handle": "xffero",
+    "agents": [
+      "cypher",
+      "killjoy",
+      "viper"
+    ],
+    "Rnd": "472",
+    "ACS": "182.3",
+    "KAST": "67%",
+    "ADR": "120.2",
+    "APR": "0.26",
+    "FKPR": "0.06",
+    "FDPR": "0.07",
+    "HS%": "28%",
+    "CL%": "15%",
+    "KDA": 1.33
+  },
+  {
+    "player_handle": "Jemkin",
+    "agents": [
+      "jett",
+      "raze",
+      "yoru"
+    ],
+    "Rnd": "472",
+    "ACS": "219.3",
+    "KAST": "71%",
+    "ADR": "138.0",
+    "APR": "0.17",
+    "FKPR": "0.18",
+    "FDPR": "0.16",
+    "HS%": "33%",
+    "CL%": "9%",
+    "KDA": 1.4
+  },
+  {
+    "player_handle": "Kushy",
+    "agents": [
+      "sova",
+      "vyse",
+      "fade"
+    ],
+    "Rnd": "472",
+    "ACS": "177.7",
+    "KAST": "71%",
+    "ADR": "116.3",
+    "APR": "0.24",
+    "FKPR": "0.05",
+    "FDPR": "0.07",
+    "HS%": "31%",
+    "CL%": "20%",
+    "KDA": 1.25
+  },
+  {
+    "player_handle": "Persia",
+    "agents": [
+      "omen",
+      "viper",
+      "astra"
+    ],
+    "Rnd": "269",
+    "ACS": "192.9",
+    "KAST": "75%",
+    "ADR": "120.0",
+    "APR": "0.41",
+    "FKPR": "0.09",
+    "FDPR": "0.07",
+    "HS%": "28%",
+    "CL%": "17%",
+    "KDA": 1.74
+  },
+  {
+    "player_handle": "Francis",
+    "agents": [
+      "viper",
+      "harbor",
+      "fade"
+    ],
+    "Rnd": "269",
+    "ACS": "207.5",
+    "KAST": "73%",
+    "ADR": "134.5",
+    "APR": "0.37",
+    "FKPR": "0.09",
+    "FDPR": "0.08",
+    "HS%": "25%",
+    "CL%": "16%",
+    "KDA": 1.58
+  },
+  {
+    "player_handle": "Rb",
+    "agents": [
+      "sova",
+      "kayo",
+      "fade"
+    ],
+    "Rnd": "269",
+    "ACS": "185.0",
+    "KAST": "71%",
+    "ADR": "123.9",
+    "APR": "0.30",
+    "FKPR": "0.09",
+    "FDPR": "0.09",
+    "HS%": "27%",
+    "CL%": "20%",
+    "KDA": 1.38
+  },
+  {
+    "player_handle": "Dambi",
+    "agents": [
+      "neon",
+      "jett",
+      "raze"
+    ],
+    "Rnd": "269",
+    "ACS": "237.1",
+    "KAST": "71%",
+    "ADR": "146.8",
+    "APR": "0.22",
+    "FKPR": "0.20",
+    "FDPR": "0.16",
+    "HS%": "23%",
+    "CL%": "25%",
+    "KDA": 1.45
+  },
+  {
+    "player_handle": "Ivy",
+    "agents": [
+      "deadlock",
+      "killjoy",
+      "fade"
+    ],
+    "Rnd": "269",
+    "ACS": "180.0",
+    "KAST": "72%",
+    "ADR": "116.2",
+    "APR": "0.22",
+    "FKPR": "0.06",
+    "FDPR": "0.07",
+    "HS%": "29%",
+    "CL%": "7%",
+    "KDA": 1.31
+  },
+  {
+    "player_handle": "invy",
+    "agents": [
+      "gekko",
+      "sova",
+      "fade"
+    ],
+    "Rnd": "281",
+    "ACS": "204.9",
+    "KAST": "68%",
+    "ADR": "136.5",
+    "APR": "0.23",
+    "FKPR": "0.08",
+    "FDPR": "0.06",
+    "HS%": "30%",
+    "CL%": "8%",
+    "KDA": 1.24
+  },
+  {
+    "player_handle": "n1zzy",
+    "agents": [
+      "reyna",
+      "cypher",
+      "yoru"
+    ],
+    "Rnd": "281",
+    "ACS": "189.5",
+    "KAST": "67%",
+    "ADR": "130.2",
+    "APR": "0.19",
+    "FKPR": "0.11",
+    "FDPR": "0.11",
+    "HS%": "39%",
+    "CL%": "20%",
+    "KDA": 1.17
+  },
+  {
+    "player_handle": "ZesBeeW",
+    "agents": [
+      "jett",
+      "neon",
+      "omen"
+    ],
+    "Rnd": "220",
+    "ACS": "162.7",
+    "KAST": "64%",
+    "ADR": "101.2",
+    "APR": "0.31",
+    "FKPR": "0.08",
+    "FDPR": "0.17",
+    "HS%": "24%",
+    "CL%": "20%",
+    "KDA": 1.22
+  },
+  {
+    "player_handle": "kellyS",
+    "agents": [
+      "raze",
+      "breach",
+      "deadlock"
+    ],
+    "Rnd": "281",
+    "ACS": "193.4",
+    "KAST": "68%",
+    "ADR": "125.6",
+    "APR": "0.22",
+    "FKPR": "0.08",
+    "FDPR": "0.13",
+    "HS%": "19%",
+    "CL%": "4%",
+    "KDA": 1.17
+  },
+  {
+    "player_handle": "Wild0reoo",
+    "agents": [
+      "clove",
+      "omen",
+      "cypher"
+    ],
+    "Rnd": "281",
+    "ACS": "162.1",
+    "KAST": "63%",
+    "ADR": "107.5",
+    "APR": "0.26",
+    "FKPR": "0.06",
+    "FDPR": "0.15",
+    "HS%": "34%",
+    "CL%": "26%",
+    "KDA": 1.05
+  },
+  {
+    "player_handle": "UdoTan",
+    "agents": [
+      "waylay",
+      "raze",
+      "neon"
+    ],
+    "Rnd": "266",
+    "ACS": "235.2",
+    "KAST": "66%",
+    "ADR": "152.5",
+    "APR": "0.15",
+    "FKPR": "0.16",
+    "FDPR": "0.16",
+    "HS%": "22%",
+    "CL%": "22%",
+    "KDA": 1.29
+  },
+  {
+    "player_handle": "Kr1stal",
+    "agents": [
+      "deadlock",
+      "fade",
+      "tejo"
+    ],
+    "Rnd": "266",
+    "ACS": "193.4",
+    "KAST": "69%",
+    "ADR": "130.4",
+    "APR": "0.24",
+    "FKPR": "0.09",
+    "FDPR": "0.09",
+    "HS%": "28%",
+    "CL%": "30%",
+    "KDA": 1.22
+  },
+  {
+    "player_handle": "Papi",
+    "agents": [
+      "brimstone",
+      "astra",
+      "omen"
+    ],
+    "Rnd": "266",
+    "ACS": "177.2",
+    "KAST": "71%",
+    "ADR": "113.6",
+    "APR": "0.33",
+    "FKPR": "0.06",
+    "FDPR": "0.06",
+    "HS%": "27%",
+    "CL%": "6%",
+    "KDA": 1.37
+  },
+  {
+    "player_handle": "ban",
+    "agents": [
+      "chamber",
+      "iso",
+      "cypher"
+    ],
+    "Rnd": "266",
+    "ACS": "203.4",
+    "KAST": "66%",
+    "ADR": "135.0",
+    "APR": "0.19",
+    "FKPR": "0.13",
+    "FDPR": "0.13",
+    "HS%": "30%",
+    "CL%": "9%",
+    "KDA": 1.21
+  },
+  {
+    "player_handle": "yoman",
+    "agents": [
+      "gekko",
+      "sage",
+      "sova"
+    ],
+    "Rnd": "266",
+    "ACS": "162.2",
+    "KAST": "71%",
+    "ADR": "104.0",
+    "APR": "0.29",
+    "FKPR": "0.07",
+    "FDPR": "0.06",
+    "HS%": "27%",
+    "CL%": "18%",
+    "KDA": 1.23
+  },
+  {
+    "player_handle": "Deryeon",
+    "agents": null,
+    "Rnd": null,
+    "ACS": null,
+    "KAST": null,
+    "ADR": null,
+    "APR": null,
+    "FKPR": null,
+    "FDPR": null,
+    "HS%": null,
+    "CL%": null,
+    "KDA": null
+  },
+  {
+    "player_handle": "Crws",
+    "agents": [
+      "fade",
+      "viper",
+      "omen"
+    ],
+    "Rnd": "235",
+    "ACS": "176.2",
+    "KAST": "72%",
+    "ADR": "119.1",
+    "APR": "0.31",
+    "FKPR": "0.07",
+    "FDPR": "0.09",
+    "HS%": "27%",
+    "CL%": "21%",
+    "KDA": 1.38
+  },
+  {
+    "player_handle": "Killua",
+    "agents": [
+      "gekko",
+      "sova",
+      "fade"
+    ],
+    "Rnd": "235",
+    "ACS": "210.8",
+    "KAST": "75%",
+    "ADR": "138.1",
+    "APR": "0.14",
+    "FKPR": "0.09",
+    "FDPR": "0.09",
+    "HS%": "43%",
+    "CL%": "29%",
+    "KDA": 1.28
+  },
+  {
+    "player_handle": "thyy",
+    "agents": [
+      "raze",
+      "jett",
+      "yoru"
+    ],
+    "Rnd": "235",
+    "ACS": "227.4",
+    "KAST": "70%",
+    "ADR": "140.5",
+    "APR": "0.15",
+    "FKPR": "0.19",
+    "FDPR": "0.14",
+    "HS%": "26%",
+    "CL%": "16%",
+    "KDA": 1.29
+  },
+  {
+    "player_handle": "JitBoyS",
+    "agents": [
+      "astra",
+      "killjoy",
+      "cypher"
+    ],
+    "Rnd": "235",
+    "ACS": "171.7",
+    "KAST": "70%",
+    "ADR": "110.0",
+    "APR": "0.23",
+    "FKPR": "0.06",
+    "FDPR": "0.12",
+    "HS%": "36%",
+    "CL%": "8%",
+    "KDA": 1.23
+  },
+  {
+    "player_handle": "primmie",
+    "agents": [
+      "deadlock",
+      "sage",
+      "yoru"
+    ],
+    "Rnd": "235",
+    "ACS": "215.2",
+    "KAST": "74%",
+    "ADR": "135.9",
+    "APR": "0.23",
+    "FKPR": "0.08",
+    "FDPR": "0.08",
+    "HS%": "41%",
+    "CL%": "32%",
+    "KDA": 1.57
+  },
+  {
+    "player_handle": "PatMen",
+    "agents": [
+      "fade",
+      "viper",
+      "kayo"
+    ],
+    "Rnd": "762",
+    "ACS": "183.5",
+    "KAST": "72%",
+    "ADR": "122.3",
+    "APR": "0.33",
+    "FKPR": "0.07",
+    "FDPR": "0.08",
+    "HS%": "31%",
+    "CL%": "19%",
+    "KDA": 1.44
+  },
+  {
+    "player_handle": "Jinggg",
+    "agents": [
+      "raze",
+      "omen"
+    ],
+    "Rnd": "762",
+    "ACS": "222.1",
+    "KAST": "74%",
+    "ADR": "149.0",
+    "APR": "0.25",
+    "FKPR": "0.12",
+    "FDPR": "0.12",
+    "HS%": "23%",
+    "CL%": "13%",
+    "KDA": 1.43
+  },
+  {
+    "player_handle": "f0rsakeN",
+    "agents": [
+      "omen",
+      "fade",
+      "sova"
+    ],
+    "Rnd": "762",
+    "ACS": "206.8",
+    "KAST": "73%",
+    "ADR": "136.9",
+    "APR": "0.39",
+    "FKPR": "0.11",
+    "FDPR": "0.11",
+    "HS%": "27%",
+    "CL%": "33%",
+    "KDA": 1.6
+  },
+  {
+    "player_handle": "d4v41",
+    "agents": [
+      "viper",
+      "sage",
+      "vyse"
+    ],
+    "Rnd": "762",
+    "ACS": "204.4",
+    "KAST": "73%",
+    "ADR": "138.6",
+    "APR": "0.25",
+    "FKPR": "0.09",
+    "FDPR": "0.07",
+    "HS%": "26%",
+    "CL%": "9%",
+    "KDA": 1.52
+  },
+  {
+    "player_handle": "something",
+    "agents": [
+      "yoru",
+      "sova",
+      "jett"
+    ],
+    "Rnd": "762",
+    "ACS": "208.7",
+    "KAST": "75%",
+    "ADR": "135.9",
+    "APR": "0.21",
+    "FKPR": "0.15",
+    "FDPR": "0.10",
+    "HS%": "27%",
+    "CL%": "15%",
+    "KDA": 1.46
+  },
+  {
+    "player_handle": "Meiy",
+    "agents": [
+      "yoru",
+      "jett",
+      "waylay"
+    ],
+    "Rnd": "191",
+    "ACS": "280.2",
+    "KAST": "75%",
+    "ADR": "176.5",
+    "APR": "0.18",
+    "FKPR": "0.16",
+    "FDPR": "0.09",
+    "HS%": "31%",
+    "CL%": "19%",
+    "KDA": 1.74
+  },
+  {
+    "player_handle": "SSeeS",
+    "agents": [
+      "sova",
+      "fade",
+      "omen"
+    ],
+    "Rnd": "191",
+    "ACS": "120.2",
+    "KAST": "63%",
+    "ADR": "77.8",
+    "APR": "0.21",
+    "FKPR": "0.04",
+    "FDPR": "0.11",
+    "HS%": "30%",
+    "CL%": "19%",
+    "KDA": 1.0
+  },
+  {
+    "player_handle": "Jinboong",
+    "agents": [
+      "cypher",
+      "vyse",
+      "killjoy"
+    ],
+    "Rnd": "191",
+    "ACS": "184.9",
+    "KAST": "71%",
+    "ADR": "118.3",
+    "APR": "0.20",
+    "FKPR": "0.09",
+    "FDPR": "0.07",
+    "HS%": "32%",
+    "CL%": "17%",
+    "KDA": 1.23
+  },
+  {
+    "player_handle": "Akame",
+    "agents": [
+      "iso",
+      "raze",
+      "harbor"
+    ],
+    "Rnd": "191",
+    "ACS": "220.9",
+    "KAST": "74%",
+    "ADR": "146.9",
+    "APR": "0.24",
+    "FKPR": "0.11",
+    "FDPR": "0.11",
+    "HS%": "30%",
+    "CL%": "21%",
+    "KDA": 1.36
+  },
+  {
+    "player_handle": "gyen",
+    "agents": [
+      "omen",
+      "viper"
+    ],
+    "Rnd": "191",
+    "ACS": "191.9",
+    "KAST": "71%",
+    "ADR": "124.1",
+    "APR": "0.23",
+    "FKPR": "0.11",
+    "FDPR": "0.11",
+    "HS%": "33%",
+    "CL%": "19%",
+    "KDA": 1.45
+  },
+  {
+    "player_handle": "stax",
+    "agents": [
+      "sova",
+      "fade"
+    ],
+    "Rnd": "185",
+    "ACS": "169.8",
+    "KAST": "66%",
+    "ADR": "116.7",
+    "APR": "0.22",
+    "FKPR": "0.02",
+    "FDPR": "0.05",
+    "HS%": "33%",
+    "CL%": "17%",
+    "KDA": 1.2
+  },
+  {
+    "player_handle": "Meteor",
+    "agents": [
+      "cypher",
+      "vyse",
+      "astra"
+    ],
+    "Rnd": "185",
+    "ACS": "215.3",
+    "KAST": "72%",
+    "ADR": "136.5",
+    "APR": "0.28",
+    "FKPR": "0.09",
+    "FDPR": "0.08",
+    "HS%": "30%",
+    "CL%": "5%",
+    "KDA": 1.4
+  },
+  {
+    "player_handle": "BuZz",
+    "agents": [
+      "yoru",
+      "chamber"
+    ],
+    "Rnd": "185",
+    "ACS": "202.6",
+    "KAST": "67%",
+    "ADR": "129.1",
+    "APR": "0.12",
+    "FKPR": "0.16",
+    "FDPR": "0.15",
+    "HS%": "17%",
+    "CL%": "12%",
+    "KDA": 1.26
+  },
+  {
+    "player_handle": "DH",
+    "agents": [
+      "omen"
+    ],
+    "Rnd": "185",
+    "ACS": "217.4",
+    "KAST": "76%",
+    "ADR": "136.5",
+    "APR": "0.44",
+    "FKPR": "0.10",
+    "FDPR": "0.09",
+    "HS%": "38%",
+    "CL%": "22%",
+    "KDA": 1.73
+  },
+  {
+    "player_handle": "iZu",
+    "agents": [
+      "neon",
+      "yoru"
+    ],
+    "Rnd": "185",
+    "ACS": "209.6",
+    "KAST": "65%",
+    "ADR": "133.3",
+    "APR": "0.22",
+    "FKPR": "0.12",
+    "FDPR": "0.15",
+    "HS%": "24%",
+    "CL%": "8%",
+    "KDA": 1.21
+  },
+  {
+    "player_handle": "TenTen",
+    "agents": [
+      "neon",
+      "raze",
+      "omen"
+    ],
+    "Rnd": "238",
+    "ACS": "194.9",
+    "KAST": "64%",
+    "ADR": "130.8",
+    "APR": "0.21",
+    "FKPR": "0.13",
+    "FDPR": "0.23",
+    "HS%": "17%",
+    "CL%": "10%",
+    "KDA": 1.12
+  },
+  {
+    "player_handle": "Dep",
+    "agents": [
+      "viper",
+      "killjoy",
+      "vyse"
+    ],
+    "Rnd": "238",
+    "ACS": "218.8",
+    "KAST": "71%",
+    "ADR": "141.8",
+    "APR": "0.19",
+    "FKPR": "0.13",
+    "FDPR": "0.10",
+    "HS%": "33%",
+    "CL%": "13%",
+    "KDA": 1.33
+  },
+  {
+    "player_handle": "SugarZ3ro",
+    "agents": [
+      "omen",
+      "viper",
+      "brimstone"
+    ],
+    "Rnd": "238",
+    "ACS": "204.4",
+    "KAST": "70%",
+    "ADR": "132.2",
+    "APR": "0.35",
+    "FKPR": "0.07",
+    "FDPR": "0.06",
+    "HS%": "31%",
+    "CL%": "17%",
+    "KDA": 1.47
+  },
+  {
+    "player_handle": "CLZ",
+    "agents": [
+      "killjoy",
+      "vyse",
+      "sova"
+    ],
+    "Rnd": "238",
+    "ACS": "161.3",
+    "KAST": "68%",
+    "ADR": "108.3",
+    "APR": "0.23",
+    "FKPR": "0.06",
+    "FDPR": "0.06",
+    "HS%": "35%",
+    "CL%": "24%",
+    "KDA": 1.12
+  },
+  {
+    "player_handle": "Xdll",
+    "agents": [
+      "sova",
+      "fade",
+      "sage"
+    ],
+    "Rnd": "238",
+    "ACS": "186.2",
+    "KAST": "66%",
+    "ADR": "122.1",
+    "APR": "0.23",
+    "FKPR": "0.08",
+    "FDPR": "0.09",
+    "HS%": "34%",
+    "CL%": "14%",
+    "KDA": 1.26
+  },
+  {
+    "player_handle": "dos9",
+    "agents": [
+      "brimstone",
+      "viper",
+      "omen"
+    ],
+    "Rnd": "235",
+    "ACS": "204.6",
+    "KAST": "75%",
+    "ADR": "126.0",
+    "APR": "0.39",
+    "FKPR": "0.08",
+    "FDPR": "0.09",
+    "HS%": "29%",
+    "CL%": "14%",
+    "KDA": 1.63
+  },
+  {
+    "player_handle": "Famouz",
+    "agents": [
+      "raze",
+      "neon",
+      "yoru"
+    ],
+    "Rnd": "235",
+    "ACS": "197.4",
+    "KAST": "64%",
+    "ADR": "126.7",
+    "APR": "0.15",
+    "FKPR": "0.12",
+    "FDPR": "0.12",
+    "HS%": "18%",
+    "CL%": "5%",
+    "KDA": 1.03
+  },
+  {
+    "player_handle": "Shiro",
+    "agents": [
+      "kayo",
+      "sova",
+      "viper"
+    ],
+    "Rnd": "235",
+    "ACS": "187.5",
+    "KAST": "71%",
+    "ADR": "127.3",
+    "APR": "0.31",
+    "FKPR": "0.11",
+    "FDPR": "0.11",
+    "HS%": "25%",
+    "CL%": "14%",
+    "KDA": 1.27
+  },
+  {
+    "player_handle": "NcSlasher",
+    "agents": [
+      "fade",
+      "omen",
+      "deadlock"
+    ],
+    "Rnd": "235",
+    "ACS": "159.9",
+    "KAST": "65%",
+    "ADR": "106.1",
+    "APR": "0.30",
+    "FKPR": "0.06",
+    "FDPR": "0.09",
+    "HS%": "24%",
+    "CL%": "4%",
+    "KDA": 1.16
+  },
+  {
+    "player_handle": "BerserX",
+    "agents": [
+      "viper",
+      "killjoy",
+      "cypher"
+    ],
+    "Rnd": "235",
+    "ACS": "186.5",
+    "KAST": "68%",
+    "ADR": "118.3",
+    "APR": "0.14",
+    "FKPR": "0.12",
+    "FDPR": "0.10",
+    "HS%": "23%",
+    "CL%": "7%",
+    "KDA": 1.15
+  },
+  {
+    "player_handle": "whzy",
+    "agents": [
+      "raze",
+      "neon",
+      "yoru"
+    ],
+    "Rnd": "453",
+    "ACS": "253.0",
+    "KAST": "72%",
+    "ADR": "162.2",
+    "APR": "0.20",
+    "FKPR": "0.20",
+    "FDPR": "0.17",
+    "HS%": "27%",
+    "CL%": "8%",
+    "KDA": 1.58
+  },
+  {
+    "player_handle": "Levius",
+    "agents": [
+      "viper",
+      "killjoy",
+      "vyse"
+    ],
+    "Rnd": "453",
+    "ACS": "170.3",
+    "KAST": "69%",
+    "ADR": "115.8",
+    "APR": "0.24",
+    "FKPR": "0.05",
+    "FDPR": "0.09",
+    "HS%": "21%",
+    "CL%": "4%",
+    "KDA": 1.24
+  },
+  {
+    "player_handle": "rushia",
+    "agents": [
+      "omen",
+      "brimstone",
+      "viper"
+    ],
+    "Rnd": "453",
+    "ACS": "199.2",
+    "KAST": "74%",
+    "ADR": "131.7",
+    "APR": "0.40",
+    "FKPR": "0.09",
+    "FDPR": "0.10",
+    "HS%": "24%",
+    "CL%": "8%",
+    "KDA": 1.61
+  },
+  {
+    "player_handle": "nephh",
+    "agents": [
+      "skye",
+      "kayo",
+      "omen"
+    ],
+    "Rnd": "453",
+    "ACS": "194.8",
+    "KAST": "76%",
+    "ADR": "122.9",
+    "APR": "0.53",
+    "FKPR": "0.08",
+    "FDPR": "0.08",
+    "HS%": "22%",
+    "CL%": "22%",
+    "KDA": 1.82
+  },
+  {
+    "player_handle": "Knight",
+    "agents": [
+      "cypher",
+      "sova",
+      "fade"
+    ],
+    "Rnd": "453",
+    "ACS": "192.9",
+    "KAST": "74%",
+    "ADR": "123.5",
+    "APR": "0.23",
+    "FKPR": "0.08",
+    "FDPR": "0.07",
+    "HS%": "30%",
+    "CL%": "9%",
+    "KDA": 1.46
+  },
+  {
+    "player_handle": "nobody",
+    "agents": [
+      "fade",
+      "gekko",
+      "sova"
+    ],
+    "Rnd": "429",
+    "ACS": "214.3",
+    "KAST": "70%",
+    "ADR": "140.5",
+    "APR": "0.24",
+    "FKPR": "0.09",
+    "FDPR": "0.09",
+    "HS%": "36%",
+    "CL%": "7%",
+    "KDA": 1.42
+  },
+  {
+    "player_handle": "ZmjjKK",
+    "agents": [
+      "neon",
+      "jett",
+      "waylay"
+    ],
+    "Rnd": "429",
+    "ACS": "251.3",
+    "KAST": "72%",
+    "ADR": "162.9",
+    "APR": "0.23",
+    "FKPR": "0.20",
+    "FDPR": "0.23",
+    "HS%": "24%",
+    "CL%": null,
+    "KDA": 1.45
+  },
+  {
+    "player_handle": "CHICHOO",
+    "agents": [
+      "cypher",
+      "viper",
+      "killjoy"
+    ],
+    "Rnd": "429",
+    "ACS": "174.0",
+    "KAST": "71%",
+    "ADR": "117.5",
+    "APR": "0.21",
+    "FKPR": "0.06",
+    "FDPR": "0.08",
+    "HS%": "30%",
+    "CL%": "6%",
+    "KDA": 1.22
+  },
+  {
+    "player_handle": "Smoggy",
+    "agents": [
+      "omen",
+      "deadlock",
+      "viper"
+    ],
+    "Rnd": "429",
+    "ACS": "191.4",
+    "KAST": "74%",
+    "ADR": "125.0",
+    "APR": "0.35",
+    "FKPR": "0.06",
+    "FDPR": "0.06",
+    "HS%": "30%",
+    "CL%": "10%",
+    "KDA": 1.51
+  },
+  {
+    "player_handle": "Jieni7",
+    "agents": [
+      "omen",
+      "kayo",
+      "breach"
+    ],
+    "Rnd": "205",
+    "ACS": "195.2",
+    "KAST": "74%",
+    "ADR": "122.2",
+    "APR": "0.41",
+    "FKPR": "0.07",
+    "FDPR": "0.07",
+    "HS%": "33%",
+    "CL%": null,
+    "KDA": 1.6
+  },
+  {
+    "player_handle": "slowly",
+    "agents": [
+      "yoru",
+      "raze",
+      "omen"
+    ],
+    "Rnd": "263",
+    "ACS": "221.4",
+    "KAST": "71%",
+    "ADR": "142.7",
+    "APR": "0.27",
+    "FKPR": "0.18",
+    "FDPR": "0.14",
+    "HS%": "30%",
+    "CL%": null,
+    "KDA": 1.62
+  },
+  {
+    "player_handle": "Scales",
+    "agents": [
+      "viper",
+      "iso",
+      "omen"
+    ],
+    "Rnd": "263",
+    "ACS": "226.1",
+    "KAST": "73%",
+    "ADR": "141.9",
+    "APR": "0.18",
+    "FKPR": "0.11",
+    "FDPR": "0.08",
+    "HS%": "38%",
+    "CL%": null,
+    "KDA": 1.51
+  },
+  {
+    "player_handle": "Ninebody",
+    "agents": [
+      "neon",
+      "vyse",
+      "cypher"
+    ],
+    "Rnd": "263",
+    "ACS": "199.9",
+    "KAST": "70%",
+    "ADR": "130.2",
+    "APR": "0.21",
+    "FKPR": "0.12",
+    "FDPR": "0.09",
+    "HS%": "31%",
+    "CL%": null,
+    "KDA": 1.33
+  },
+  {
+    "player_handle": "sword9",
+    "agents": [
+      "omen",
+      "fade",
+      "sova"
+    ],
+    "Rnd": "263",
+    "ACS": "172.0",
+    "KAST": "74%",
+    "ADR": "113.6",
+    "APR": "0.30",
+    "FKPR": "0.06",
+    "FDPR": "0.06",
+    "HS%": "26%",
+    "CL%": null,
+    "KDA": 1.44
+  },
+  {
+    "player_handle": "Yoyo",
+    "agents": [
+      "fade",
+      "sova",
+      "raze"
+    ],
+    "Rnd": "263",
+    "ACS": "197.3",
+    "KAST": "71%",
+    "ADR": "131.1",
+    "APR": "0.27",
+    "FKPR": "0.08",
+    "FDPR": "0.08",
+    "HS%": "26%",
+    "CL%": null,
+    "KDA": 1.37
+  },
+  {
+    "player_handle": "LuoK1ng",
+    "agents": [
+      "harbor",
+      "omen",
+      "brimstone"
+    ],
+    "Rnd": "266",
+    "ACS": "175.4",
+    "KAST": "74%",
+    "ADR": "110.0",
+    "APR": "0.40",
+    "FKPR": "0.10",
+    "FDPR": "0.05",
+    "HS%": "30%",
+    "CL%": null,
+    "KDA": 1.43
+  },
+  {
+    "player_handle": "Kai",
+    "agents": [
+      "jett",
+      "yoru",
+      "chamber"
+    ],
+    "Rnd": "266",
+    "ACS": "255.2",
+    "KAST": "66%",
+    "ADR": "158.4",
+    "APR": "0.16",
+    "FKPR": "0.21",
+    "FDPR": "0.11",
+    "HS%": "28%",
+    "CL%": null,
+    "KDA": 1.46
+  },
+  {
+    "player_handle": "MarT1n",
+    "agents": [
+      "killjoy",
+      "deadlock",
+      "vyse"
+    ],
+    "Rnd": "266",
+    "ACS": "193.5",
+    "KAST": "71%",
+    "ADR": "123.8",
+    "APR": "0.21",
+    "FKPR": "0.06",
+    "FDPR": "0.07",
+    "HS%": "32%",
+    "CL%": null,
+    "KDA": 1.4
+  },
+  {
+    "player_handle": "FengF",
+    "agents": [
+      "viper",
+      "cypher",
+      "yoru"
+    ],
+    "Rnd": "266",
+    "ACS": "185.1",
+    "KAST": "69%",
+    "ADR": "121.1",
+    "APR": "0.22",
+    "FKPR": "0.12",
+    "FDPR": "0.14",
+    "HS%": "28%",
+    "CL%": null,
+    "KDA": 1.25
+  },
+  {
+    "player_handle": "Biank",
+    "agents": [
+      "sova",
+      "fade"
+    ],
+    "Rnd": "266",
+    "ACS": "151.0",
+    "KAST": "68%",
+    "ADR": "101.9",
+    "APR": "0.28",
+    "FKPR": "0.04",
+    "FDPR": "0.10",
+    "HS%": "22%",
+    "CL%": null,
+    "KDA": 1.06
+  },
+  {
+    "player_handle": "kklin",
+    "agents": [
+      "killjoy",
+      "viper",
+      "vyse"
+    ],
+    "Rnd": "308",
+    "ACS": "162.5",
+    "KAST": "61%",
+    "ADR": "110.0",
+    "APR": "0.19",
+    "FKPR": "0.07",
+    "FDPR": "0.09",
+    "HS%": "28%",
+    "CL%": null,
+    "KDA": 0.98
+  },
+  {
+    "player_handle": "stew",
+    "agents": [
+      "omen",
+      "raze",
+      "neon"
+    ],
+    "Rnd": "308",
+    "ACS": "262.4",
+    "KAST": "74%",
+    "ADR": "169.1",
+    "APR": "0.18",
+    "FKPR": "0.22",
+    "FDPR": "0.15",
+    "HS%": "36%",
+    "CL%": null,
+    "KDA": 1.45
+  },
+  {
+    "player_handle": "jkuro",
+    "agents": [
+      "viper",
+      "omen"
+    ],
+    "Rnd": "308",
+    "ACS": "183.1",
+    "KAST": "69%",
+    "ADR": "116.3",
+    "APR": "0.31",
+    "FKPR": "0.08",
+    "FDPR": "0.11",
+    "HS%": "32%",
+    "CL%": null,
+    "KDA": 1.33
+  },
+  {
+    "player_handle": "Babyblue",
+    "agents": [
+      "sova",
+      "fade"
+    ],
+    "Rnd": "308",
+    "ACS": "154.5",
+    "KAST": "69%",
+    "ADR": "104.9",
+    "APR": "0.27",
+    "FKPR": "0.05",
+    "FDPR": "0.05",
+    "HS%": "29%",
+    "CL%": null,
+    "KDA": 1.14
+  },
+  {
+    "player_handle": "Z1yan",
+    "agents": [
+      "sage",
+      "vyse",
+      "killjoy"
+    ],
+    "Rnd": "308",
+    "ACS": "181.0",
+    "KAST": "69%",
+    "ADR": "114.8",
+    "APR": "0.21",
+    "FKPR": "0.09",
+    "FDPR": "0.09",
+    "HS%": "36%",
+    "CL%": null,
+    "KDA": 1.16
+  },
+  {
+    "player_handle": "Haodong",
+    "agents": [
+      "omen",
+      "viper",
+      "astra"
+    ],
+    "Rnd": "319",
+    "ACS": "180.4",
+    "KAST": "69%",
+    "ADR": "106.4",
+    "APR": "0.32",
+    "FKPR": "0.08",
+    "FDPR": "0.09",
+    "HS%": "32%",
+    "CL%": "9%",
+    "KDA": 1.39
+  },
+  {
+    "player_handle": "lucas",
+    "agents": [
+      "fade",
+      "sova"
+    ],
+    "Rnd": "319",
+    "ACS": "182.6",
+    "KAST": "66%",
+    "ADR": "116.8",
+    "APR": "0.22",
+    "FKPR": "0.08",
+    "FDPR": "0.08",
+    "HS%": "29%",
+    "CL%": null,
+    "KDA": 1.22
+  },
+  {
+    "player_handle": "Abo",
+    "agents": [
+      "deadlock",
+      "astra",
+      "killjoy"
+    ],
+    "Rnd": "319",
+    "ACS": "185.3",
+    "KAST": "65%",
+    "ADR": "114.2",
+    "APR": "0.18",
+    "FKPR": "0.08",
+    "FDPR": "0.09",
+    "HS%": "35%",
+    "CL%": "9%",
+    "KDA": 1.17
+  },
+  {
+    "player_handle": "TvirusLuke",
+    "agents": [
+      "neon",
+      "jett",
+      "raze"
+    ],
+    "Rnd": "319",
+    "ACS": "192.3",
+    "KAST": "61%",
+    "ADR": "115.1",
+    "APR": "0.16",
+    "FKPR": "0.14",
+    "FDPR": "0.23",
+    "HS%": "25%",
+    "CL%": "50%",
+    "KDA": 1.07
+  },
+  {
+    "player_handle": "Coco",
+    "agents": [
+      "breach",
+      "gekko",
+      "kayo"
+    ],
+    "Rnd": "319",
+    "ACS": "185.5",
+    "KAST": "66%",
+    "ADR": "116.8",
+    "APR": "0.33",
+    "FKPR": "0.07",
+    "FDPR": "0.05",
+    "HS%": "33%",
+    "CL%": "12%",
+    "KDA": 1.28
+  },
+  {
+    "player_handle": "Viva",
+    "agents": [
+      "sova",
+      "fade"
+    ],
+    "Rnd": "395",
+    "ACS": "173.2",
+    "KAST": "75%",
+    "ADR": "117.6",
+    "APR": "0.27",
+    "FKPR": "0.05",
+    "FDPR": "0.06",
+    "HS%": "30%",
+    "CL%": "4%",
+    "KDA": 1.34
+  },
+  {
+    "player_handle": "NoMan",
+    "agents": [
+      "breach",
+      "raze",
+      "chamber"
+    ],
+    "Rnd": "236",
+    "ACS": "196.8",
+    "KAST": "71%",
+    "ADR": "146.8",
+    "APR": "0.15",
+    "FKPR": "0.15",
+    "FDPR": "0.12",
+    "HS%": "36%",
+    "CL%": null,
+    "KDA": 1.37
+  },
+  {
+    "player_handle": "Rarga",
+    "agents": [
+      "neon",
+      "jett",
+      "yoru"
+    ],
+    "Rnd": "395",
+    "ACS": "196.8",
+    "KAST": "66%",
+    "ADR": "127.0",
+    "APR": "0.18",
+    "FKPR": "0.16",
+    "FDPR": "0.17",
+    "HS%": "34%",
+    "CL%": "21%",
+    "KDA": 1.18
+  },
+  {
+    "player_handle": "happywei",
+    "agents": [
+      "cypher",
+      "killjoy",
+      "viper"
+    ],
+    "Rnd": "395",
+    "ACS": "249.9",
+    "KAST": "73%",
+    "ADR": "161.2",
+    "APR": "0.26",
+    "FKPR": "0.15",
+    "FDPR": "0.12",
+    "HS%": "39%",
+    "CL%": "8%",
+    "KDA": 1.59
+  },
+  {
+    "player_handle": "coconut",
+    "agents": [
+      "omen",
+      "viper"
+    ],
+    "Rnd": "395",
+    "ACS": "154.4",
+    "KAST": "73%",
+    "ADR": "102.1",
+    "APR": "0.41",
+    "FKPR": "0.03",
+    "FDPR": "0.07",
+    "HS%": "28%",
+    "CL%": "16%",
+    "KDA": 1.44
+  },
+  {
+    "player_handle": "Shr1mp",
+    "agents": [
+      "omen",
+      "kayo",
+      "fade"
+    ],
+    "Rnd": "354",
+    "ACS": "215.7",
+    "KAST": "78%",
+    "ADR": "141.6",
+    "APR": "0.32",
+    "FKPR": "0.08",
+    "FDPR": "0.05",
+    "HS%": "28%",
+    "CL%": null,
+    "KDA": 1.73
+  },
+  {
+    "player_handle": "deLb",
+    "agents": [
+      "deadlock",
+      "vyse",
+      "killjoy"
+    ],
+    "Rnd": "354",
+    "ACS": "184.2",
+    "KAST": "76%",
+    "ADR": "115.4",
+    "APR": "0.31",
+    "FKPR": "0.07",
+    "FDPR": "0.08",
+    "HS%": "35%",
+    "CL%": null,
+    "KDA": 1.48
+  },
+  {
+    "player_handle": "Spitfires",
+    "agents": [
+      "neon",
+      "raze",
+      "jett"
+    ],
+    "Rnd": "354",
+    "ACS": "228.1",
+    "KAST": "71%",
+    "ADR": "141.9",
+    "APR": "0.19",
+    "FKPR": "0.17",
+    "FDPR": "0.15",
+    "HS%": "28%",
+    "CL%": null,
+    "KDA": 1.43
+  },
+  {
+    "player_handle": "HanChe",
+    "agents": [
+      "viper",
+      "killjoy"
+    ],
+    "Rnd": "302",
+    "ACS": "174.9",
+    "KAST": "72%",
+    "ADR": "123.5",
+    "APR": "0.27",
+    "FKPR": "0.09",
+    "FDPR": "0.08",
+    "HS%": "27%",
+    "CL%": null,
+    "KDA": 1.4
+  },
+  {
+    "player_handle": "K1ra",
+    "agents": [
+      "viper",
+      "omen",
+      "raze"
+    ],
+    "Rnd": "354",
+    "ACS": "206.1",
+    "KAST": "77%",
+    "ADR": "133.9",
+    "APR": "0.32",
+    "FKPR": "0.12",
+    "FDPR": "0.11",
+    "HS%": "27%",
+    "CL%": null,
+    "KDA": 1.6
+  },
+  {
+    "player_handle": "Nicc",
+    "agents": [
+      "breach",
+      "gekko",
+      "fade"
+    ],
+    "Rnd": "366",
+    "ACS": "188.8",
+    "KAST": "76%",
+    "ADR": "128.7",
+    "APR": "0.36",
+    "FKPR": "0.05",
+    "FDPR": "0.04",
+    "HS%": "37%",
+    "CL%": null,
+    "KDA": 1.54
+  },
+  {
+    "player_handle": "Flex1n",
+    "agents": [
+      "omen",
+      "harbor"
+    ],
+    "Rnd": "366",
+    "ACS": "191.2",
+    "KAST": "77%",
+    "ADR": "117.0",
+    "APR": "0.45",
+    "FKPR": "0.07",
+    "FDPR": "0.10",
+    "HS%": "28%",
+    "CL%": null,
+    "KDA": 1.67
+  },
+  {
+    "player_handle": "vo0kashu",
+    "agents": [
+      "cypher",
+      "killjoy",
+      "vyse"
+    ],
+    "Rnd": "366",
+    "ACS": "208.5",
+    "KAST": "76%",
+    "ADR": "138.6",
+    "APR": "0.22",
+    "FKPR": "0.07",
+    "FDPR": "0.05",
+    "HS%": "34%",
+    "CL%": null,
+    "KDA": 1.49
+  },
+  {
+    "player_handle": "Akeman",
+    "agents": [
+      "neon",
+      "clove"
+    ],
+    "Rnd": "366",
+    "ACS": "192.4",
+    "KAST": "67%",
+    "ADR": "128.1",
+    "APR": "0.27",
+    "FKPR": "0.12",
+    "FDPR": "0.15",
+    "HS%": "28%",
+    "CL%": null,
+    "KDA": 1.22
+  },
+  {
+    "player_handle": "SpiritZ1",
+    "agents": [
+      "yoru",
+      "reyna"
+    ],
+    "Rnd": "366",
+    "ACS": "226.8",
+    "KAST": "67%",
+    "ADR": "149.4",
+    "APR": "0.25",
+    "FKPR": "0.17",
+    "FDPR": "0.17",
+    "HS%": "35%",
+    "CL%": null,
+    "KDA": 1.33
+  },
+  {
+    "player_handle": "BerLIN",
+    "agents": [
+      "omen",
+      "breach",
+      "brimstone"
+    ],
+    "Rnd": "312",
+    "ACS": "166.9",
+    "KAST": "72%",
+    "ADR": "106.9",
+    "APR": "0.36",
+    "FKPR": "0.06",
+    "FDPR": "0.11",
+    "HS%": "28%",
+    "CL%": null,
+    "KDA": 1.39
+  },
+  {
+    "player_handle": "Autumn",
+    "agents": [
+      "yoru",
+      "chamber",
+      "cypher"
+    ],
+    "Rnd": "312",
+    "ACS": "195.7",
+    "KAST": "71%",
+    "ADR": "132.2",
+    "APR": "0.22",
+    "FKPR": "0.08",
+    "FDPR": "0.09",
+    "HS%": "31%",
+    "CL%": null,
+    "KDA": 1.35
+  },
+  {
+    "player_handle": "Life",
+    "agents": [
+      "jett",
+      "raze",
+      "waylay"
+    ],
+    "Rnd": "312",
+    "ACS": "229.6",
+    "KAST": "70%",
+    "ADR": "146.8",
+    "APR": "0.15",
+    "FKPR": "0.20",
+    "FDPR": "0.20",
+    "HS%": "30%",
+    "CL%": null,
+    "KDA": 1.39
+  },
+  {
+    "player_handle": "AAAAY",
+    "agents": [
+      "sova",
+      "fade",
+      "skye"
+    ],
+    "Rnd": "312",
+    "ACS": "183.3",
+    "KAST": "75%",
+    "ADR": "125.9",
+    "APR": "0.22",
+    "FKPR": "0.06",
+    "FDPR": "0.06",
+    "HS%": "41%",
+    "CL%": null,
+    "KDA": 1.42
+  },
+  {
+    "player_handle": "yosemite",
+    "agents": [
+      "cypher",
+      "vyse",
+      "omen"
+    ],
+    "Rnd": "312",
+    "ACS": "195.4",
+    "KAST": "72%",
+    "ADR": "130.3",
+    "APR": "0.24",
+    "FKPR": "0.09",
+    "FDPR": "0.05",
+    "HS%": "24%",
+    "CL%": null,
+    "KDA": 1.36
+  },
+  {
+    "player_handle": "monk",
+    "agents": [
+      "vyse",
+      "kayo",
+      "viper"
+    ],
+    "Rnd": "124",
+    "ACS": "167.7",
+    "KAST": "64%",
+    "ADR": "108.4",
+    "APR": "0.39",
+    "FKPR": "0.06",
+    "FDPR": "0.08",
+    "HS%": "24%",
+    "CL%": null,
+    "KDA": 1.23
+  },
+  {
+    "player_handle": "SWERL",
+    "agents": [
+      "raze",
+      "jett",
+      "neon"
+    ],
+    "Rnd": "299",
+    "ACS": "197.1",
+    "KAST": "69%",
+    "ADR": "131.9",
+    "APR": "0.18",
+    "FKPR": "0.14",
+    "FDPR": "0.15",
+    "HS%": "27%",
+    "CL%": null,
+    "KDA": 1.17
+  },
+  {
+    "player_handle": "CB",
+    "agents": [
+      "fade",
+      "gekko",
+      "sova"
+    ],
+    "Rnd": "299",
+    "ACS": "189.4",
+    "KAST": "71%",
+    "ADR": "127.3",
+    "APR": "0.26",
+    "FKPR": "0.11",
+    "FDPR": "0.13",
+    "HS%": "28%",
+    "CL%": null,
+    "KDA": 1.31
+  },
+  {
+    "player_handle": "Ezeir",
+    "agents": [
+      "omen",
+      "viper",
+      "brimstone"
+    ],
+    "Rnd": "299",
+    "ACS": "226.1",
+    "KAST": "74%",
+    "ADR": "143.0",
+    "APR": "0.42",
+    "FKPR": "0.10",
+    "FDPR": "0.07",
+    "HS%": "20%",
+    "CL%": null,
+    "KDA": 1.71
+  },
+  {
+    "player_handle": "GuanG",
+    "agents": [
+      "waylay",
+      "killjoy",
+      "vyse"
+    ],
+    "Rnd": "299",
+    "ACS": "204.2",
+    "KAST": "72%",
+    "ADR": "131.7",
+    "APR": "0.13",
+    "FKPR": "0.09",
+    "FDPR": "0.06",
+    "HS%": "25%",
+    "CL%": null,
+    "KDA": 1.22
+  },
+  {
+    "player_handle": "SiuFatBB",
+    "agents": [
+      "fade",
+      "sova",
+      "astra"
+    ],
+    "Rnd": "517",
+    "ACS": "152.3",
+    "KAST": "68%",
+    "ADR": "103.2",
+    "APR": "0.27",
+    "FKPR": "0.03",
+    "FDPR": "0.06",
+    "HS%": "28%",
+    "CL%": "19%",
+    "KDA": 1.25
+  },
+  {
+    "player_handle": "Yuicaw",
+    "agents": [
+      "cypher",
+      "gekko",
+      "raze"
+    ],
+    "Rnd": "517",
+    "ACS": "165.6",
+    "KAST": "65%",
+    "ADR": "113.9",
+    "APR": "0.26",
+    "FKPR": "0.08",
+    "FDPR": "0.11",
+    "HS%": "30%",
+    "CL%": "3%",
+    "KDA": 1.14
+  },
+  {
+    "player_handle": "Spring",
+    "agents": [
+      "viper",
+      "omen",
+      "brimstone"
+    ],
+    "Rnd": "517",
+    "ACS": "223.6",
+    "KAST": "71%",
+    "ADR": "148.3",
+    "APR": "0.31",
+    "FKPR": "0.11",
+    "FDPR": "0.11",
+    "HS%": "28%",
+    "CL%": "9%",
+    "KDA": 1.47
+  },
+  {
+    "player_handle": "Lysoar",
+    "agents": [
+      "omen",
+      "deadlock",
+      "killjoy"
+    ],
+    "Rnd": "517",
+    "ACS": "193.6",
+    "KAST": "71%",
+    "ADR": "125.1",
+    "APR": "0.25",
+    "FKPR": "0.08",
+    "FDPR": "0.06",
+    "HS%": "27%",
+    "CL%": "19%",
+    "KDA": 1.29
+  },
+  {
+    "player_handle": "Juicy",
+    "agents": [
+      "raze",
+      "yoru",
+      "jett"
+    ],
+    "Rnd": "517",
+    "ACS": "190.7",
+    "KAST": "66%",
+    "ADR": "124.3",
+    "APR": "0.19",
+    "FKPR": "0.17",
+    "FDPR": "0.18",
+    "HS%": "24%",
+    "CL%": "25%",
+    "KDA": 1.11
+  }
+]

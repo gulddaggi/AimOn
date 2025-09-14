@@ -1,0 +1,33 @@
+.textInput {
+    padding: 0px 12px;
+    width: 360px; /* 기본 폭 축소 */
+    max-width: 100%;
+    min-width: 240px;
+    height: 44px;
+    border: 1px solid rgba(255, 255, 255, 0.12);
+    border-radius: 10px;
+    background: rgba(255, 255, 255, 0.06);
+    color: #ffffff;
+    &::placeholder {
+        color: rgba(255, 255, 255, 0.8);
+    }
+    &.focus {
+        outline-color: rgba(58, 125, 255, 0.6);
+    }
+}
+
+.textValidator.authVal {
+    margin-left: 10px;
+    color: red;
+    font-size: small;
+    font-weight: 400;
+    text-align: start;
+}
+
+.textValidator.valid {
+    margin-left: 10px;
+    color: green;
+    font-size: small;
+    font-weight: 400;
+    text-align: start;
+}

@@ -1,0 +1,14 @@
+.authForm {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+    width: 100%;
+    .authMole,
+    .passwordInput,
+    .textInput {
+        width: 360px; /* 폼 입력 전체 너비 축소 */
+        max-width: 80vw;
+    }
+}

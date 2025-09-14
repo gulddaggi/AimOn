@@ -1,0 +1,31 @@
+@use '../variables' as v;
+.messageArea {
+    position: relative; /* 바깥 패널 내부에 속하도록 변경 */
+    margin-top: 12px;
+    width: 100%;
+    max-height: 480px;
+    overflow-y: auto;
+    background: #242238; /* 다크 보라 배경 */
+    border: 1px solid rgba(123, 97, 255, 0.35);
+    border-radius: 12px;
+    padding: 12px;
+    z-index: 1;
+    .plainTextBlock {
+        padding: 10px;
+        &.userMsg {
+            border-radius: 10px 10px 0px 10px;
+            background-color: rgba(58, 125, 255, 0.2);
+            text-align: end;
+            width: fit-content;
+            max-width: 50%;
+            margin-left: auto;
+        }
+        &.chatbotMsg {
+            text-align: start;
+            width: 100%;
+        }
+    }
+    & *:last-child {
+        scroll-snap-align: start;
+    }
+}

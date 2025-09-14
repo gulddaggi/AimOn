@@ -1,0 +1,25 @@
+.authMole {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+    width: 100%;
+}
+
+.passwordInput {
+    position: relative;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    width: 100%;
+}
+
+.signInText {
+    display: inline;
+    margin-bottom: 10px;
+    color: #ffffff;
+
+    .hyperlinkRoute {
+        color: #3a7dff;
+    }
+}

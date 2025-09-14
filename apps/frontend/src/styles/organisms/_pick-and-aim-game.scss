@@ -1,0 +1,165 @@
+@use '../_variables' as v;
+
+.pickAimGame {
+    width: calc(100vw - 96px);
+    margin-left: 96px;
+    min-height: 100vh;
+    padding: 24px 24px 80px 24px;
+    background: transparent;
+    color: #ffffff;
+    font-family:
+        Pretendard,
+        -apple-system,
+        BlinkMacSystemFont,
+        'Segoe UI',
+        Roboto,
+        'Helvetica Neue',
+        Arial,
+        'Apple SD Gothic Neo',
+        'Noto Sans KR',
+        'Malgun Gothic',
+        sans-serif;
+
+    .bar {
+        background: #1e1e2f;
+        border-radius: 16px;
+        padding: 18px 24px;
+        display: grid;
+        grid-template-columns: 84px 1fr auto;
+        align-items: center;
+        margin-bottom: 24px;
+        h1 {
+            font-size: 56px;
+            text-align: center;
+            color: #ffffff;
+            font-weight: 700;
+        }
+        .mode {
+            font-size: 24px;
+            color: #b0b0b0;
+        }
+        .back {
+            background: transparent;
+            border: 0;
+            cursor: pointer;
+            color: #ffffff;
+            width: 64px;
+            height: 64px;
+            display: grid;
+            place-items: center;
+        }
+        .back :global(img) {
+            width: 64px;
+            height: 64px;
+        }
+    }
+
+    .gameGrid {
+        background: #1e1e2f;
+        border-radius: 16px;
+        padding: 24px;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 24px;
+        align-items: start;
+    }
+
+    .gameCard {
+        border: 0;
+        border-radius: 16px;
+        background: #121222;
+        cursor: pointer;
+        padding: 12px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        position: relative;
+        transition:
+            box-shadow 0.2s ease,
+            transform 0.1s ease;
+        &:hover {
+            box-shadow: 0 0 10px rgba(162, 193, 255, 0.6);
+        }
+        &:active {
+            transform: translateY(1px);
+        }
+        .image {
+            position: relative;
+            width: 100%;
+            height: 360px;
+            background: #111222;
+            border-radius: 12px;
+            overflow: hidden;
+        }
+        .label {
+            margin-top: 16px;
+            height: 72px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            filter: drop-shadow(0 1px 2px rgba(0, 0, 0, 0.6));
+        }
+        .detail {
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+        .detail .gif {
+            position: relative;
+            width: 100%;
+            height: 360px;
+            background: #000;
+            border-radius: 12px;
+            overflow: hidden;
+        }
+        .detail .desc {
+            list-style: disc;
+            color: #fff;
+            padding: 20px 28px;
+            font-size: 22px;
+            line-height: 1.6;
+            text-align: left;
+        }
+        &.selected {
+            outline: 6px solid #ffffff;
+        }
+    }
+
+    .footer {
+        display: flex;
+        justify-content: center;
+        margin-top: 24px;
+    }
+    .textButton.start {
+        min-width: 420px;
+        height: 96px;
+        border-radius: 52px;
+        font-size: 32px;
+        transition:
+            background-color 0.2s ease,
+            box-shadow 0.2s ease,
+            transform 0.1s ease,
+            filter 0.2s ease;
+    }
+    .textButton.start.primary {
+        background: #3a7dff;
+        color: #fff;
+        &:hover {
+            box-shadow: 0 0 10px rgba(104, 155, 255, 0.881);
+        }
+        &:active {
+            transform: translateY(1px);
+        }
+    }
+    .textButton.start.secondary {
+        background: #302e3c;
+        color: #fff;
+        &:hover {
+            box-shadow: 0 0 10px rgba(58, 125, 255, 0.6);
+        }
+        &:active {
+            transform: translateY(1px);
+        }
+    }
+}

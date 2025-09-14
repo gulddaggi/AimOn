@@ -1,0 +1,178 @@
+@use '../_variables' as v;
+
+.pickAimTemplate {
+    width: 100%;
+    height: 100%;
+    padding: 32px;
+    background: transparent;
+    color: #ffffff;
+    font-family:
+        Pretendard,
+        -apple-system,
+        BlinkMacSystemFont,
+        'Segoe UI',
+        Roboto,
+        'Helvetica Neue',
+        Arial,
+        'Apple SD Gothic Neo',
+        'Noto Sans KR',
+        'Malgun Gothic',
+        sans-serif;
+    animation: pickAimFadeUp 320ms ease both;
+}
+
+.pickAimHero {
+    position: relative;
+    width: 100%;
+    height: calc(100vh - 96px);
+    border-radius: 16px;
+    overflow: hidden;
+}
+
+.pickAimBackdrop {
+    position: absolute;
+    inset: 0;
+    background:
+        radial-gradient(
+            900px 450px at 20% 20%,
+            rgba(58, 125, 255, 0.18),
+            transparent 60%
+        ),
+        radial-gradient(
+            800px 400px at 80% 80%,
+            rgba(123, 97, 255, 0.14),
+            transparent 60%
+        ),
+        linear-gradient(160deg, #1e1e2f 0%, #121212 100%);
+}
+
+.pickAimOverlay {
+    position: absolute;
+    inset: 0;
+    background: url('/noise.png');
+    opacity: 0.05;
+    pointer-events: none;
+}
+
+.pickAimHeroInner {
+    position: relative;
+    z-index: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 24px;
+    width: 100%;
+    height: 100%;
+}
+
+/* badges removed */
+
+.pickAimStart {
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+
+    .title {
+        font-size: 88px;
+        font-weight: 700;
+        letter-spacing: -1px;
+        color: #ffffff;
+    }
+    .subtitle {
+        font-size: 26px;
+        color: #b0b0b0;
+    }
+    .actions {
+        display: flex;
+        gap: 28px;
+    }
+    .textButton.start {
+        min-width: 420px;
+        height: 96px;
+        border-radius: 52px;
+        font-size: 32px;
+        padding: 0 28px;
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.35);
+        transition:
+            background-color 0.2s ease,
+            box-shadow 0.2s ease,
+            transform 0.1s ease,
+            filter 0.2s ease,
+            border-color 0.2s ease;
+        cursor: pointer;
+    }
+    .textButton.start.primary {
+        background: #3a7dff;
+        color: #ffffff;
+        &:hover {
+            box-shadow: 0 0 10px rgba(58, 125, 255, 0.6);
+            filter: brightness(1.03);
+        }
+        &:active {
+            transform: translateY(1px);
+        }
+    }
+    .textButton.start.secondary {
+        background: #302e3c;
+        color: #ffffff;
+        border: 1px solid rgba(255, 255, 255, 0.06);
+        &:hover {
+            box-shadow: 0 0 10px rgba(58, 125, 255, 0.6);
+            filter: brightness(1.03);
+        }
+        &:active {
+            transform: translateY(1px);
+        }
+    }
+}
+
+.pickAimBrandRow {
+    display: flex;
+    gap: 24px;
+    margin-top: 8px;
+    filter: saturate(0.85);
+}
+.brandLogo {
+    opacity: 0.9;
+}
+
+/* Inputs (dark) */
+.pickAimTemplate input,
+.pickAimTemplate textarea,
+.pickAimTemplate select {
+    background: #1e1e2f;
+    color: #ffffff;
+    border: 1px solid #2a2a40;
+    border-radius: 12px;
+    padding: 12px 14px;
+    outline: none;
+    transition:
+        border-color 0.2s ease,
+        box-shadow 0.2s ease;
+}
+.pickAimTemplate input::placeholder,
+.pickAimTemplate textarea::placeholder {
+    color: #b0b0b0;
+}
+.pickAimTemplate input:focus,
+.pickAimTemplate textarea:focus,
+.pickAimTemplate select:focus {
+    border-color: #3a7dff;
+    box-shadow: 0 0 0 3px rgba(58, 125, 255, 0.2);
+}
+
+@keyframes pickAimFadeUp {
+    from {
+        opacity: 0;
+        transform: translateY(8px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}

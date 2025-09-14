@@ -1,0 +1,35 @@
+@use '../_variables' as v;
+
+.sideBar {
+    display: grid;
+    grid-template-rows: 1fr 2fr 1fr;
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding: 20px 0px 10px 0px;
+    height: 100vh;
+    background:
+        radial-gradient(
+            600px 300px at 50% 10%,
+            rgba(58, 125, 255, 0.12),
+            transparent 60%
+        ),
+        linear-gradient(160deg, #2b2f4d 0%, #23263d 100%); /* 한 톤 밝게, 그라데이션 */
+    border-right: 1px solid rgba(58, 125, 255, 0.25);
+    box-shadow: 10px 0 30px rgba(0, 0, 0, 0.25);
+    z-index: 1000; /* 페이지 컨텐츠가 사이드바 위로 올라오지 않도록 */
+}
+
+.routeButtons {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 72px;
+}
+
+.userButtons {
+    display: flex;
+    justify-content: center;
+    align-items: end;
+}

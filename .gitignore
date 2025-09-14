@@ -1,0 +1,38 @@
+# Node modules
+node_modules/
+
+# 빌드 결과물
+dist/
+build/
+apps/**/.next/
+apps/**/build/
+*.jar
+.gradle/
+
+# 로그
+*.log
+npm-debug.log*
+yarn-debug.log*
+application-*.yml
+
+# 환경 변수
+.env
+.env.*
+
+# IDE 설정
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Terraform 전체
+**/.terraform.lock.hcl    # 프로바이더 락 파일
+**/errored.tfstate        # 오류 덤프 상태 파일
+**/.terraform/            # 모든 .terraform 캐시 디렉터리
+**/*.tfstate              # 모든 상태 파일
+**/*.tfstate.backup       # 백업 상태 파일
+**/errored.tfstate        # 에러 발생 시 dump 파일
+**/.terraform.lock.hcl    # 프로바이더 락 파일

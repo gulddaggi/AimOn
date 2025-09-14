@@ -1,0 +1,10 @@
+{
+  "name": "infra",
+  "private": true,
+  "scripts": {
+    "tf:init": "terraform init",
+    "tf:plan": "terraform plan -var=\"aws_profile=default\"",
+    "tf:apply": "terraform apply -auto-approve -var=\"aws_profile=default\"",
+    "tf:destroy": "terraform destroy -auto-approve -var=\"aws_profile=default\""
+  }
+}

@@ -1,0 +1,21 @@
+.inputArea {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    width: 100%;
+    .chatbotInput {
+        width: 100%;
+        height: 60px;
+        padding: 0px 55px;
+        border-radius: 20px;
+    }
+    .aMon {
+        position: absolute;
+        left: 7px;
+    }
+    .search {
+        position: absolute;
+        right: 10px;
+    }
+}

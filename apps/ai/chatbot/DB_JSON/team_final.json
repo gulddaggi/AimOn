@@ -1,0 +1,386 @@
+[
+  {
+    "gameId": "Valorant",
+    "leagueId": "VCT Pacific",
+    "name": "Gen.G",
+    "country": "South Korea",
+    "img_url": "https://owcdn.net/img/654cc858ea9f5.png",
+    "point": 12
+  },
+  {
+    "gameId": "Valorant",
+    "leagueId": "VCT Pacific",
+    "name": "DRX",
+    "country": "South Korea",
+    "img_url": "https://owcdn.net/img/63b17abd77fc0.png",
+    "point": 8
+  },
+  {
+    "gameId": "Valorant",
+    "leagueId": "VCT Pacific",
+    "name": "Rex Regum Qeon",
+    "country": "Indonesia",
+    "img_url": "https://owcdn.net/img/629f17f51e7a3.png",
+    "point": 8
+  },
+  {
+    "gameId": "Valorant",
+    "leagueId": "VCT Pacific",
+    "name": "Nongshim RedForce",
+    "country": "South Korea",
+    "img_url": "https://owcdn.net/img/6399bb707aacb.png",
+    "point": 3
+  },
+  {
+    "gameId": "Valorant",
+    "leagueId": "VCT Pacific",
+    "name": "Team Secret",
+    "country": "Philippines",
+    "img_url": "https://owcdn.net/img/629f13085ead6.png",
+    "point": 2
+  },
+  {
+    "gameId": "Valorant",
+    "leagueId": "VCT Pacific",
+    "name": "Global Esports",
+    "country": "India",
+    "img_url": "https://owcdn.net/img/629f316ddd4dd.png",
+    "point": 2
+  },
+  {
+    "gameId": "Valorant",
+    "leagueId": "VCT Pacific",
+    "name": "TALON",
+    "country": "Thailand",
+    "img_url": "https://owcdn.net/img/6226f3d764e03.png",
+    "point": 4
+  },
+  {
+    "gameId": "Valorant",
+    "leagueId": "VCT Pacific",
+    "name": "Paper Rex",
+    "country": "Singapore",
+    "img_url": "https://owcdn.net/img/62bbeba74d5cb.png",
+    "point": 11
+  },
+  {
+    "gameId": "Valorant",
+    "leagueId": "VCT Pacific",
+    "name": "DetonatioN FocusMe",
+    "country": "Japan",
+    "img_url": "https://owcdn.net/img/63972e548cdc9.png",
+    "point": 3
+  },
+  {
+    "gameId": "Valorant",
+    "leagueId": "VCT Pacific",
+    "name": "T1",
+    "country": "South Korea",
+    "img_url": "https://owcdn.net/img/62fe0b8f6b084.png",
+    "point": 10
+  },
+  {
+    "gameId": "Valorant",
+    "leagueId": "VCT Pacific",
+    "name": "ZETA DIVISION",
+    "country": "Japan",
+    "img_url": "https://owcdn.net/img/62a411783d94d.png",
+    "point": 4
+  },
+  {
+    "gameId": "Valorant",
+    "leagueId": "VCT Pacific",
+    "name": "BOOM Esports",
+    "country": "Indonesia",
+    "img_url": "https://owcdn.net/img/629f1bdae82ab.png",
+    "point": 5
+  },
+  {
+    "gameId": "Valorant",
+    "leagueId": "VCT Americas",
+    "name": "G2 Esports",
+    "country": "United States",
+    "img_url": "https://owcdn.net/img/633822848a741.png",
+    "point": 19
+  },
+  {
+    "gameId": "Valorant",
+    "leagueId": "VCT Americas",
+    "name": "Sentinels",
+    "country": "United States",
+    "img_url": "https://owcdn.net/img/62875027c8e06.png",
+    "point": 11
+  },
+  {
+    "gameId": "Valorant",
+    "leagueId": "VCT Americas",
+    "name": "MIBR",
+    "country": "Brazil",
+    "img_url": "https://owcdn.net/img/632be7626d6d9.png",
+    "point": 7
+  },
+  {
+    "gameId": "Valorant",
+    "leagueId": "VCT Americas",
+    "name": "Evil Geniuses",
+    "country": "United States",
+    "img_url": "https://owcdn.net/img/667462f046618.png",
+    "point": 4
+  },
+  {
+    "gameId": "Valorant",
+    "leagueId": "VCT Americas",
+    "name": "100 Thieves",
+    "country": "United States",
+    "img_url": "https://owcdn.net/img/603c00d5c5a08.png",
+    "point": 3
+  },
+  {
+    "gameId": "Valorant",
+    "leagueId": "VCT Americas",
+    "name": "KRÜ Esports",
+    "country": "Argentina",
+    "img_url": "https://owcdn.net/img/63976677069e1.png",
+    "point": 5
+  },
+  {
+    "gameId": "Valorant",
+    "leagueId": "VCT Americas",
+    "name": "Cloud9",
+    "country": "United States",
+    "img_url": "https://owcdn.net/img/628addcbd509e.png",
+    "point": 3
+  },
+  {
+    "gameId": "Valorant",
+    "leagueId": "VCT Americas",
+    "name": "NRG",
+    "country": "United States",
+    "img_url": "https://owcdn.net/img/6610f026c1a9e.png",
+    "point": 2
+  },
+  {
+    "gameId": "Valorant",
+    "leagueId": "VCT Americas",
+    "name": "2Game Esports",
+    "country": "Brazil",
+    "img_url": "https://owcdn.net/img/67725c368d524.png",
+    "point": 1
+  },
+  {
+    "gameId": "Valorant",
+    "leagueId": "VCT Americas",
+    "name": "LOUD",
+    "country": "Brazil",
+    "img_url": "https://owcdn.net/img/62bbec8dc1b9f.png",
+    "point": 0
+  },
+  {
+    "gameId": "Valorant",
+    "leagueId": "VCT Americas",
+    "name": "FURIA",
+    "country": "Brazil",
+    "img_url": "https://owcdn.net/img/632be843b7d51.png",
+    "point": 0
+  },
+  {
+    "gameId": "Valorant",
+    "leagueId": "VCT Americas",
+    "name": "LEVIATÁN",
+    "country": "Argentina",
+    "img_url": "https://owcdn.net/img/61b8888cc3860.png",
+    "point": 1
+  },
+  {
+    "gameId": "Valorant",
+    "leagueId": "VCT EMEA",
+    "name": "Team Heretics",
+    "country": "Europe",
+    "img_url": "https://owcdn.net/img/637b755224c12.png",
+    "point": 9
+  },
+  {
+    "gameId": "Valorant",
+    "leagueId": "VCT EMEA",
+    "name": "FNATIC",
+    "country": "Europe",
+    "img_url": "https://owcdn.net/img/62a40cc2b5e29.png",
+    "point": 14
+  },
+  {
+    "gameId": "Valorant",
+    "leagueId": "VCT EMEA",
+    "name": "GIANTX",
+    "country": "Europe",
+    "img_url": "https://owcdn.net/img/657b2f3fcd199.png",
+    "point": 1
+  },
+  {
+    "gameId": "Valorant",
+    "leagueId": "VCT EMEA",
+    "name": "FUT Esports",
+    "country": "Turkey",
+    "img_url": "https://owcdn.net/img/632be9976b8fe.png",
+    "point": 4
+  },
+  {
+    "gameId": "Valorant",
+    "leagueId": "VCT EMEA",
+    "name": "BBL Esports",
+    "country": "Turkey",
+    "img_url": "https://owcdn.net/img/65b8ccef5e273.png",
+    "point": 5
+  },
+  {
+    "gameId": "Valorant",
+    "leagueId": "VCT EMEA",
+    "name": "Team Vitality",
+    "country": "Europe",
+    "img_url": "https://owcdn.net/img/6466d79e1ed40.png",
+    "point": 6
+  },
+  {
+    "gameId": "Valorant",
+    "leagueId": "VCT EMEA",
+    "name": "Gentle Mates",
+    "country": "Europe",
+    "img_url": "https://owcdn.net/img/6670153fa9120.png",
+    "point": 1
+  },
+  {
+    "gameId": "Valorant",
+    "leagueId": "VCT EMEA",
+    "name": "Team Liquid",
+    "country": "Europe",
+    "img_url": "https://owcdn.net/img/640c381f0603f.png",
+    "point": 8
+  },
+  {
+    "gameId": "Valorant",
+    "leagueId": "VCT EMEA",
+    "name": "Karmine Corp",
+    "country": "Europe",
+    "img_url": "https://owcdn.net/img/627403a0d9e48.png",
+    "point": 2
+  },
+  {
+    "gameId": "Valorant",
+    "leagueId": "VCT EMEA",
+    "name": "Natus Vincere",
+    "country": "Europe",
+    "img_url": "https://owcdn.net/img/62a4109ddbd7f.png",
+    "point": 3
+  },
+  {
+    "gameId": "Valorant",
+    "leagueId": "VCT EMEA",
+    "name": "Apeks",
+    "country": "Europe",
+    "img_url": "https://owcdn.net/img/63bd4a379f758.png",
+    "point": 0
+  },
+  {
+    "gameId": "Valorant",
+    "leagueId": "VCT EMEA",
+    "name": "KOI",
+    "country": "Europe",
+    "img_url": "https://owcdn.net/img/67667c7a563be.png",
+    "point": 2
+  },
+  {
+    "gameId": "Valorant",
+    "leagueId": "VCT China",
+    "name": "Bilibili Gaming",
+    "country": "China",
+    "img_url": "https://owcdn.net/img/63f25d72216c1.png",
+    "point": 8
+  },
+  {
+    "gameId": "Valorant",
+    "leagueId": "VCT China",
+    "name": "EDward Gaming",
+    "country": "China",
+    "img_url": "https://owcdn.net/img/62c82049253b2.png",
+    "point": 10
+  },
+  {
+    "gameId": "Valorant",
+    "leagueId": "VCT China",
+    "name": "TYLOO",
+    "country": "China",
+    "img_url": "https://owcdn.net/img/63eb60fb08390.png",
+    "point": 1
+  },
+  {
+    "gameId": "Valorant",
+    "leagueId": "VCT China",
+    "name": "Trace Esports",
+    "country": "China",
+    "img_url": "https://owcdn.net/img/6433a2cc3ae72.png",
+    "point": 8
+  },
+  {
+    "gameId": "Valorant",
+    "leagueId": "VCT China",
+    "name": "JDG Esports",
+    "country": "China",
+    "img_url": "https://owcdn.net/img/64f9825408326.png",
+    "point": 2
+  },
+  {
+    "gameId": "Valorant",
+    "leagueId": "VCT China",
+    "name": "Titan Esports Club",
+    "country": "China",
+    "img_url": "https://owcdn.net/img/65487414b8562.png",
+    "point": 4
+  },
+  {
+    "gameId": "Valorant",
+    "leagueId": "VCT China",
+    "name": "Xi Lai Gaming",
+    "country": "China",
+    "img_url": "https://owcdn.net/img/671742f863b9b.png",
+    "point": 9
+  },
+  {
+    "gameId": "Valorant",
+    "leagueId": "VCT China",
+    "name": "All Gamers",
+    "country": "China",
+    "img_url": "https://owcdn.net/img/6549c2b905061.png",
+    "point": 0
+  },
+  {
+    "gameId": "Valorant",
+    "leagueId": "VCT China",
+    "name": "Dragon Ranger Gaming",
+    "country": "China",
+    "img_url": "https://owcdn.net/img/642233fc01f26.png",
+    "point": 3
+  },
+  {
+    "gameId": "Valorant",
+    "leagueId": "VCT China",
+    "name": "FunPlus Phoenix",
+    "country": "China",
+    "img_url": "https://owcdn.net/img/65a17b313b131.png",
+    "point": 5
+  },
+  {
+    "gameId": "Valorant",
+    "leagueId": "VCT China",
+    "name": "Nova Esports",
+    "country": "China",
+    "img_url": "https://owcdn.net/img/6404c0174250b.png",
+    "point": 4
+  },
+  {
+    "gameId": "Valorant",
+    "leagueId": "VCT China",
+    "name": "Wolves Esports",
+    "country": "China",
+    "img_url": "https://owcdn.net/img/651d33f8e6a1f.png",
+    "point": 10
+  }
+]

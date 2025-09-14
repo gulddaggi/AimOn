@@ -1,0 +1,178 @@
+@use '../_variables' as v;
+
+.pickAimShotKeyword {
+    width: calc(100vw - 96px);
+    margin-left: 96px;
+    min-height: 100vh;
+    padding: 24px 24px 80px 24px;
+    background: transparent;
+    color: #ffffff;
+    font-family:
+        Pretendard,
+        -apple-system,
+        BlinkMacSystemFont,
+        'Segoe UI',
+        Roboto,
+        'Helvetica Neue',
+        Arial,
+        'Apple SD Gothic Neo',
+        'Noto Sans KR',
+        'Malgun Gothic',
+        sans-serif;
+
+    .bar {
+        background: #1e1e2f;
+        border-radius: 16px;
+        padding: 18px 24px;
+        display: grid;
+        grid-template-columns: 84px 1fr auto;
+        align-items: center;
+        margin-bottom: 24px;
+        h1 {
+            font-size: 56px;
+            text-align: center;
+            color: #ffffff;
+            font-weight: 700;
+        }
+        .mode {
+            font-size: 24px;
+            color: #b0b0b0;
+        }
+        .back {
+            background: transparent;
+            border: 0;
+            cursor: pointer;
+            color: #ffffff;
+            width: 64px;
+            height: 64px;
+            display: grid;
+            place-items: center;
+        }
+        .back :global(img) {
+            width: 64px;
+            height: 64px;
+        }
+    }
+
+    .panel {
+        background: #1e2433;
+        border-radius: 16px;
+        padding: 24px;
+        position: relative;
+    }
+    .panel .loadingOverlay {
+        position: absolute;
+        inset: 0;
+        display: grid;
+        place-items: center;
+        background: rgba(0, 0, 0, 0.35);
+        border-radius: 16px;
+    }
+    .panel .loadingWrap {
+        display: grid;
+        place-items: center;
+        gap: 12px;
+        padding: 32px 0;
+    }
+    .panel .loadingWrap .loadingIcon div {
+        background-color: #ffffff;
+    }
+    .panel .loadingText {
+        color: #ffffff;
+        font-size: 16px;
+        opacity: 0.9;
+    }
+    .hud .aimCenter {
+        flex: 1;
+        display: flex;
+        justify-content: center;
+    }
+    .hud .aimCenter .aimDesc {
+        background: #0f1220;
+        color: #ffffff;
+        border: 1px solid rgba(255, 255, 255, 0.08);
+        border-radius: 8px;
+        padding: 8px 10px;
+        font-size: 14px;
+        line-height: 1.3;
+        box-shadow: 0 6px 20px rgba(0, 0, 0, 0.35);
+        max-width: 40ch;
+        text-align: center;
+        margin-left: 12px;
+    }
+    .hud {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        gap: 16px;
+        margin-bottom: 8px;
+        font-size: 24px;
+        font-weight: 800;
+    }
+    .hud .ammoWrap {
+        display: inline-flex;
+        align-items: center;
+        gap: 8px;
+    }
+    .hud .return {
+        background: transparent;
+        border: 0;
+        cursor: pointer;
+        width: 40px;
+        height: 40px;
+        display: grid;
+        place-items: center;
+    }
+    .hud .return :global(img) {
+        width: 40px;
+        height: 40px;
+    }
+    .selected .selectedList {
+        margin-top: 6px;
+        min-height: 24px; /* 0개일 때도 공간 확보 */
+        font-size: 18px;
+        font-weight: 700;
+    }
+    .canvasWrap {
+        width: 100%;
+        height: calc(100vh - 320px);
+        position: relative;
+        overflow: hidden;
+        cursor: none; /* wrapper에서 커서 숨김 */
+        * {
+            cursor: none !important; /* 내부 모든 요소에서도 커서 숨김 */
+        }
+        /* 캔버스가 즉시 꽉 차도록 보장 */
+        canvas {
+            width: 100% !important;
+            height: 100% !important;
+            display: block;
+            cursor: none; /* 사격 중 OS 커서 숨김 */
+        }
+    }
+
+    .footer {
+        display: flex;
+        justify-content: center;
+        margin-top: 16px;
+    }
+    .textButton.start {
+        min-width: 420px;
+        height: 96px;
+        border-radius: 52px;
+        font-size: 32px;
+        transition:
+            background-color 0.2s ease,
+            box-shadow 0.2s ease,
+            transform 0.1s ease,
+            filter 0.2s ease;
+    }
+    .textButton.start.primary {
+        background: #3a7dff;
+        color: #fff;
+    }
+    .textButton.start.secondary {
+        background: #302e3c;
+        color: #fff;
+    }
+}
